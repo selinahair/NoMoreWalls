@@ -7,10 +7,3 @@ proxies:
   server: soontw.soon.guru
   tfo: false
   type: ss
-- name: 15|TW_speednode_0034
-  password: 3e769264-67e5-44cc-98bc-4d0a6ba1febb
-  port: 24235
-  server: 1.170.211.61
-  skip-cert-verify: true
-  sni: ddns.200566.xyz
-  type: trojan
