@@ -1,1 +1,9 @@
-proxies: []
+proxies:
+- name: 15|DE_speednode_0020
+  network: tcp
+  port: 59154
+  server: 94.130.99.166
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 088d07f3-43ff-4add-e94d-dfd855fbf581

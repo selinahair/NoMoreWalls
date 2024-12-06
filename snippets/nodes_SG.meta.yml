@@ -12,6 +12,19 @@ proxies:
   name: 13|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 54.251.68.99
+  server: 54.251.196.3
   tfo: false
   type: ss
+- alpn:
+  - h3
+  - h2
+  - http%2F1.1
+  name: 15|SG_speednode_0033
+  network: tcp
+  port: 443
+  server: 152.42.238.145
+  servername: aka.ms
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  uuid: 4f0bc55f-8824-4a09-a868-33ad3dd8fa26
