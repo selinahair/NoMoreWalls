@@ -1,18 +1,82 @@
 proxies:
-- client-fingerprint: chrome
-  name: 13,14|新加坡|@ripaojiedian
-  network: tcp
-  password: 7cd29891-fe78-4f8f-8844-abb31b9d9a75
-  port: 55357
-  server: 0862.4a11.a51c.hongxingdl.vip
-  skip-cert-verify: false
-  sni: mmbiz1.redapricotcloud.com
-  type: trojan
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 13|🇸🇬 新加坡|@ripaojiedian
+  password: 09833a6f-4d46-426e-87fe-7793a5489f84
+  port: 54028
+  server: s-g03.loveroise.com
+  tfo: false
+  type: ss
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 13|🇸🇬 狮城特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 13.213.67.37
+  server: 13.124.228.227
   tfo: false
   type: ss
+- name: 15|SG_speednode_0069
+  network: ws
+  port: 2087
+  server: 27.50.48.18
+  servername: 123.drmIng.bUzz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  ws-opts:
+    headers:
+      Host: 123.drmIng.bUzz
+    path: /Telegram🇨🇳 @WangCai2 /?ed=2048
+- name: 15|SG_speednode_0070
+  network: ws
+  port: 2087
+  server: 27.50.49.209
+  servername: 123.drmIng.bUzz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  ws-opts:
+    headers:
+      Host: 123.drmIng.bUzz
+    path: /Telegram🇨🇳 @WangCai2 /?ed=2048
+- name: 15|SG_speednode_0072
+  network: ws
+  port: 2096
+  server: 92.243.74.23
+  servername: 123.drmIng.bUzz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  ws-opts:
+    headers:
+      Host: 123.drmIng.bUzz
+    path: /Telegram🇨🇳 @WangCai2 /?ed=2048
+- name: 15|SG_speednode_0073
+  network: ws
+  port: 2083
+  server: 206.238.236.221
+  servername: 123.drmIng.bUzz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  ws-opts:
+    headers:
+      Host: 123.drmIng.bUzz
+    path: /Telegram🇨🇳 @WangCai2 /?ed=2048
+- name: 15|SG_speednode_0074
+  network: ws
+  port: 8443
+  server: 27.50.49.177
+  servername: 123.drmIng.bUzz
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  uuid: 89b3cbba-e6ac-485a-9481-976a0415eab9
+  ws-opts:
+    headers:
+      Host: 123.drmIng.bUzz
+    path: /Telegram🇨🇳 @WangCai2 /?ed=2048

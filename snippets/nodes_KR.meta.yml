@@ -1,43 +1,17 @@
 proxies:
-- alterId: 64
-  cipher: auto
+- cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 13,14|韩国|@ripaojiedian
-  network: ws
-  port: '30000'
-  server: 107.167.30.126
-  servername: www.83645422.xyz
-  skip-cert-verify: false
-  tfo: false
-  tls: true
-  type: vmess
-  uuid: 57f93e92-ebb9-4f16-9bdc-8225d2010995
-  ws-opts:
-    headers:
-      Host: www.83645422.xyz
-    path: /path/240811062813
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 13|🇯🇵 日本特殊|@ripaojiedian
-  password: amazonskr05
-  port: 443
-  server: 43.201.31.40
+  name: 13|🇰🇷 韩国|@ripaojiedian
+  password: 09833a6f-4d46-426e-87fe-7793a5489f84
+  port: 54014
+  server: k-r04.loveroise.com
   tfo: false
   type: ss
-- alpn:
-  - http/1.1
+- cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 15|KR_speednode_0009
-  network: ws
+  name: 13|🇰🇷 韩国特殊|@ripaojiedian
+  password: amazonskr05
   port: 443
-  server: bnnm.azurewebsites.net
-  servername: vkvd127.mycdn.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 6f995056-7802-4a1d-bff7-61678e626c3f
-  ws-opts:
-    headers:
-      Host: bnnm.azurewebsites.net
-    path: /
+  server: 54.151.196.32
+  tfo: false
+  type: ss
