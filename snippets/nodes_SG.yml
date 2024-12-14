@@ -2,6 +2,23 @@ proxies:
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
+  name: 13,14|新加坡|@ripaojiedian
+  network: ws
+  port: '40000'
+  server: ml01.333210.xyz
+  servername: ''
+  skip-cert-verify: false
+  tfo: false
+  tls: false
+  type: vmess
+  uuid: 13364789-a8b2-4bcd-8df7-a794fb6f87e5
+  ws-opts:
+    headers:
+      Host: down.dingtalk.com
+    path: /bby
+- alterId: 0
+  cipher: auto
+  client-fingerprint: chrome
   http-opts:
     headers:
       Host:
@@ -35,10 +52,3 @@ proxies:
   server: 54.151.196.32
   tfo: false
   type: ss
-- name: 15|SG_speednode_0016
-  password: '!!str 3648425794742788096'
-  port: 443
-  server: 54.251.144.236
-  skip-cert-verify: true
-  sni: enabling-heron.treefrog761.one
-  type: trojan
