@@ -3,7 +3,7 @@ proxies:
   name: 0|-https://t.me/MrXbin-1
   password: amazonskr05
   port: 443
-  server: 13.115.231.64
+  server: 35.92.45.179
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 0|-https://t.me/MrXbin-2
@@ -13,7 +13,7 @@ proxies:
     host: (TG @WangCai2)b5a99e1:21612
     mode: tls
   port: 2377
-  server: 60.249.35.39
+  server: 60.249.28.60
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 0|-https://t.me/MrXbin-3
@@ -23,7 +23,7 @@ proxies:
     host: (TG @WangCai2)b5a99e1:21612
     mode: tls
   port: 2377
-  server: 211.22.161.135
+  server: 60.249.28.138
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 0|-https://t.me/MrXbin-4
@@ -33,7 +33,7 @@ proxies:
     host: (TG @WangCai2)b5a99e1:21612
     mode: tls
   port: 2377
-  server: 60.249.35.38
+  server: 60.249.28.136
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 0|-https://t.me/MrXbin-5
@@ -43,7 +43,7 @@ proxies:
     host: (TG @WangCai2)b5a99e1:21612
     mode: tls
   port: 2377
-  server: 60.249.35.37
+  server: 60.249.28.59
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 0|-https://t.me/MrXbin-6
@@ -53,17 +53,13 @@ proxies:
     host: (TG @WangCai2)b5a99e1:21612
     mode: tls
   port: 2377
-  server: 60.249.35.3
+  server: 211.22.161.134
   type: ss
-- cipher: chacha20-ietf-poly1305
+- cipher: aes-256-cfb
   name: 0|-https://t.me/MrXbin-7
-  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
-  plugin: obfs
-  plugin-opts:
-    host: (TG @WangCai2)b5a99e1:21612
-    mode: tls
-  port: 2377
-  server: 60.249.35.59
+  password: amazonskr05
+  port: 443
+  server: 34.222.136.128
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 0|-https://t.me/MrXbin-8
@@ -73,7 +69,7 @@ proxies:
     host: (TG @WangCai2)b5a99e1:21612
     mode: tls
   port: 2377
-  server: 60.249.35.2
+  server: 60.249.28.137
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 0|-https://t.me/MrXbin-9
@@ -83,7 +79,7 @@ proxies:
     host: (TG @WangCai2)b5a99e1:21612
     mode: tls
   port: 2377
-  server: 211.22.161.134
+  server: 60.249.35.2
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 0|-https://t.me/MrXbin-10
@@ -93,7 +89,7 @@ proxies:
     host: (TG @WangCai2)b5a99e1:21612
     mode: tls
   port: 2377
-  server: 60.249.28.136
+  server: 60.249.35.37
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 0|-https://t.me/MrXbin-11
@@ -103,7 +99,7 @@ proxies:
     host: (TG @WangCai2)b5a99e1:21612
     mode: tls
   port: 2377
-  server: 60.249.28.138
+  server: 60.249.35.3
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 0|-https://t.me/MrXbin-12
@@ -113,7 +109,7 @@ proxies:
     host: (TG @WangCai2)b5a99e1:21612
     mode: tls
   port: 2377
-  server: 60.249.28.60
+  server: 60.249.35.39
   type: ss
 - cipher: chacha20-ietf-poly1305
   name: 0|-https://t.me/MrXbin-13
@@ -123,167 +119,121 @@ proxies:
     host: (TG @WangCai2)b5a99e1:21612
     mode: tls
   port: 2377
-  server: 60.249.28.137
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 0|-https://t.me/MrXbin-14
-  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
-  plugin: obfs
-  plugin-opts:
-    host: (TG @WangCai2)b5a99e1:21612
-    mode: tls
-  port: 2377
-  server: 60.249.28.59
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-15
-  password: amazonskr05
-  port: 443
-  server: 52.79.73.137
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-16
-  password: amazonskr05
-  port: 443
-  server: 54.178.84.59
-  type: ss
-- cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-19
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 193.108.119.230
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 0|-https://t.me/MrXbin-21
-  password: cvII85TrW6n0OGyfpHVS1u
-  port: 8080
-  server: 45.87.175.154
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-22
-  password: amazonskr05
-  port: 443
-  server: 35.85.33.177
+  server: 60.249.35.38
   type: ss
 - cipher: aes-128-gcm
-  name: 0|-https://t.me/MrXbin-25
+  name: 0|-https://t.me/MrXbin-19
   password: shadowsocks
   port: 443
   server: 149.34.244.82
   type: ss
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-26
-  password: EXN3S3eQpjE7EJu8
-  port: 9027
-  server: 217.30.10.18
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-27
-  password: UkXRsXvR6buDMG2Y
-  port: 9001
-  server: 217.30.10.18
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-22
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 146.70.61.18
   type: ss
   udp: true
 - cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-28
+  name: 0|-https://t.me/MrXbin-23
   password: 14fFPrbezE3HDZzsMOr6
   port: 8080
   server: 169.150.210.233
   type: ss
   udp: true
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-29
-  password: KnJGad3FqTvjqbaX
-  port: 9014
-  server: 217.30.10.18
-  type: ss
-  udp: true
 - cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-30
+  name: 0|-https://t.me/MrXbin-24
   password: 14fFPrbezE3HDZzsMOr6
   port: 8080
   server: 194.5.215.59
   type: ss
   udp: true
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-31
-  password: FG5ddLsMPbV5CutE
-  port: 9050
-  server: 217.30.10.18
+  name: 0|-https://t.me/MrXbin-25
+  password: amazonskr05
+  port: 443
+  server: 43.203.122.162
   type: ss
-  udp: true
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-32
+  name: 0|-https://t.me/MrXbin-26
   password: amazonskr05
   port: 443
   server: 3.38.212.48
   type: ss
-- cipher: rc4-md5
-  name: 0|-https://t.me/MrXbin-33
-  password: 14fFPrbezE3HDZzsMOr6
-  port: 8080
-  server: 23.251.121.242
-  type: ss
-  udp: true
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-34
-  password: p9z5BVADH2YFs3MN
-  port: 9040
-  server: 217.30.10.18
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-35
-  password: amazonskr05
-  port: 443
-  server: 34.222.136.128
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-37
-  password: M3t2ZEQcMGRWBjRa
-  port: 9011
-  server: 217.30.10.18
-  type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-38
-  password: ueLXVkvh4hckhErQ
-  port: 9060
-  server: 217.30.10.18
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 0|-https://t.me/MrXbin-39
-  password: 4a2rfixophdjffa8KVA4Aa
-  port: 8080
-  server: 45.87.175.154
-  type: ss
-- cipher: chacha20-ietf-poly1305
-  name: 0|-https://t.me/MrXbin-40
-  password: 1RWwXhwfAB5gAEozU4G2Pg
-  port: 8080
-  server: 45.87.175.171
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-41
-  password: amazonskr05
-  port: 443
-  server: 13.215.250.79
-  type: ss
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-42
+  name: 0|-https://t.me/MrXbin-28
   password: amazonskr05
   port: 443
   server: 3.35.206.24
   type: ss
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-50
+  name: 0|-https://t.me/MrXbin-29
   password: amazonskr05
   port: 443
-  server: 34.213.200.250
+  server: 52.32.68.164
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-30
+  password: amazonskr05
+  port: 443
+  server: 18.181.152.92
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-32
+  password: amazonskr05
+  port: 443
+  server: 35.85.33.177
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-33
+  password: amazonskr05
+  port: 443
+  server: 34.213.242.165
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-34
+  password: amazonskr05
+  port: 443
+  server: 52.79.248.193
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-35
+  password: amazonskr05
+  port: 443
+  server: 13.215.51.127
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-37
+  password: amazonskr05
+  port: 443
+  server: 52.79.73.137
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-41
+  password: amazonskr05
+  port: 443
+  server: 54.179.186.199
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-42
+  password: amazonskr05
+  port: 443
+  server: 34.211.229.86
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-47
+  password: amazonskr05
+  port: 443
+  server: 13.115.231.64
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-48
+  password: amazonskr05
+  port: 443
+  server: 43.203.127.152
   type: ss
 - cipher: aes-128-cfb
-  name: 0|-https://t.me/MrXbin-52
+  name: 0|-https://t.me/MrXbin-59
   obfs: http_post
   password: $$Turb0VPN$$
   port: 443
@@ -300,7 +250,7 @@ proxies:
     method: GET
     path:
     - /telegram-Gozargah-Azadi
-  name: 0|-https://t.me/MrXbin-58
+  name: 0|-https://t.me/MrXbin-65
   network: http
   port: 2053
   server: 91.107.249.225
@@ -310,7 +260,7 @@ proxies:
   cipher: auto
   h2-opts: {}
   http-opts: {}
-  name: 0|-https://t.me/MrXbin-66
+  name: 0|-https://t.me/MrXbin-74
   network: ws
   port: 443
   server: gs09.guoshi1520.com
@@ -321,36 +271,6 @@ proxies:
     headers:
       Host: gs09.guoshi1520.com
     path: /681e76bc
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-70
-  network: ws
-  port: 443
-  server: xcf024.facai2024.com
-  tls: true
-  type: vmess
-  uuid: 939e72f2-3567-4712-c560-3eb999ff2a82
-  ws-opts:
-    headers:
-      Host: xcf024.facai2024.com
-    path: /939e72f2
-- alterId: 0
-  cipher: auto
-  h2-opts: {}
-  http-opts: {}
-  name: 0|-https://t.me/MrXbin-71
-  network: ws
-  port: 443
-  server: mlq001.facai2024.com
-  tls: true
-  type: vmess
-  uuid: d86de5d5-1114-4685-999a-75fca2b6f964
-  ws-opts:
-    headers:
-      Host: mlq001.facai2024.com
-    path: /d86de5d5
 - name: 13,14|香港|@ripaojiedian
   network: tcp
   password: vzhXXZVw
