@@ -1,47 +1,103 @@
 proxies:
 - cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-1
+  password: amazonskr05
+  port: 443
+  server: 13.230.174.203
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
   name: 0|-https://t.me/MrXbin-3
   password: qwerREWQ@@
   port: 28290
-  server: 125.141.31.74
+  server: p220.panda001.net
   type: ss
+  udp: true
 - cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-6
+  name: 0|-https://t.me/MrXbin-4
   password: amazonskr05
   port: 443
-  server: 3.34.189.113
+  server: 54.179.54.70
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: 0|-https://t.me/MrXbin-5
+  password: amazonskr05
+  port: 443
+  server: 54.187.174.202
   type: ss
   udp: true
 - cipher: aes-256-cfb
   name: 0|-https://t.me/MrXbin-7
   password: qwerREWQ@@
-  port: 28902
-  server: 218.38.103.150
+  port: 28290
+  server: 125.141.31.74
   type: ss
-  udp: true
-- cipher: aes-256-cfb
-  name: 0|-https://t.me/MrXbin-9
-  password: qwerREWQ@@
-  port: 37041
-  server: 121.170.203.147
+- cipher: chacha20-ietf-poly1305
+  name: 0|-https://t.me/MrXbin-8
+  password: cvII85TrW6n0OGyfpHVS1u
+  port: 8080
+  server: 193.29.139.189
   type: ss
   udp: true
 - cipher: aes-256-cfb
   name: 0|-https://t.me/MrXbin-11
-  password: qwerREWQ@@
-  port: 27973
-  server: p196.panda001.net
+  password: amazonskr05
+  port: 443
+  server: 54.190.19.18
   type: ss
   udp: true
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-18
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13183
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: z5is.cdn.node.a.tddns-ounk.com
+  type: ssr
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-19
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13181
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: z5is.cdn.node.a.tddns-ounk.com
+  type: ssr
 - cipher: rc4-md5
   name: 0|-https://t.me/MrXbin-20
   obfs: tls1.2_ticket_auth
   password: Cskw6d
-  port: 13545
+  port: 13185
   protocol: auth_aes128_md5
   protocol-param: 524959:5u4MZ6
-  server: tata12.cdn.node.a.tddns-ounk.com
+  server: z5is.cdn.node.a.tddns-ounk.com
   type: ssr
+- cipher: rc4-md5
+  name: 0|-https://t.me/MrXbin-22
+  obfs: tls1.2_ticket_auth
+  password: Cskw6d
+  port: 13637
+  protocol: auth_aes128_md5
+  protocol-param: 524959:5u4MZ6
+  server: bb29cs.cdn.node.a.tddns-ounk.com
+  type: ssr
+- alterId: 0
+  cipher: auto
+  h2-opts: {}
+  http-opts:
+    method: GET
+    path:
+    - /
+  name: 0|-https://t.me/MrXbin-28
+  network: http
+  port: 2082
+  server: 64.225.109.206
+  skip-cert-verify: true
+  type: vmess
+  udp: true
+  uuid: 48264b45-64b8-4e9f-8a88-cef41f20c736
 - name: '7,12|@vpnv2rayNGv #2'
   obfs: salamander
   obfs-password: KevinZakarian
