@@ -1,7 +1,103 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇷🇺1 |  2.2MB/s
-  password: 0a503195-812a-4bb2-95d1-0294b4ebb4f4
-  port: 65519
-  server: vip.baima360.com
+  name: 0|🇷🇺1 |  10.4MB/s
+  password: 220401d9-d4bf-444e-a140-d6c650948e74
+  port: 30003
+  server: gdgs.tarioblink.me
   type: ss
+- cipher: chacha20-ietf-poly1305
+  client-fingerprint: chrome
+  name: 0|🇷🇺2 |  1.7MB/s
+  password: 8d8c3f9f-9e4a-43cb-8264-3a4d26f4d5ad
+  port: 58837
+  server: southvip1.pkyun.xyz
+  type: ss
+  udp: true
+- name: 0|🇷🇺3 |  2.7MB/s
+  password: '!!str 3770966768580042752'
+  port: 443
+  server: faithful-goshawk.goat627.mom
+  skip-cert-verify: true
+  sni: faithful-goshawk.goat627.mom
+  type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇷🇺4 |  1.1MB/s
+  password: 40df69d5-91b4-47bd-a75c-8998612ef666
+  port: 58832
+  server: southvip1.pkyun.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇷🇺5 |  1.1MB/s
+  password: 40df69d5-91b4-47bd-a75c-8998612ef666
+  port: 58830
+  server: southvip1.pkyun.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇷🇺6 |  1.7MB/s
+  password: 16b28c14-54e0-457b-8dcf-443f7977c2bb
+  port: 58823
+  server: southvip1.pkyun.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇷🇺7 |  1.8MB/s
+  password: 8d8c3f9f-9e4a-43cb-8264-3a4d26f4d5ad
+  port: 58838
+  server: southvip1.pkyun.xyz
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 0|🇷🇺8 |  6.2MB/s
+  password: 29c472c5-530a-48a1-bb95-fcd1f2f06352
+  port: 49208
+  server: south.sf0jm.xyz
+  type: ss
+  udp: true
+- name: 0|🇷🇺9 |  3.0MB/s
+  password: '!!str 3770966768580042752'
+  port: 443
+  server: boss-tetra.treefrog761.one
+  skip-cert-verify: true
+  sni: boss-tetra.treefrog761.one
+  type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇷🇺10 |  2.3MB/s
+  password: 40df69d5-91b4-47bd-a75c-8998612ef666
+  port: 58820
+  server: southvip1.pkyun.xyz
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 0|🇷🇺12 |  11.6MB/s
+  password: 29c472c5-530a-48a1-bb95-fcd1f2f06352
+  port: 49210
+  server: south.sf0jm.xyz
+  type: ss
+  udp: true
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇷🇺13 |  1.4MB/s
+  password: 16b28c14-54e0-457b-8dcf-443f7977c2bb
+  port: 58847
+  server: southvip1.pkyun.xyz
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 0|🇷🇺15 |  8.7MB/s
+  password: 29c472c5-530a-48a1-bb95-fcd1f2f06352
+  port: 49230
+  server: south.sf0jm.xyz
+  type: ss
+  udp: true
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 0|🇷🇺16 |  5.3MB/s
+  password: 29c472c5-530a-48a1-bb95-fcd1f2f06352
+  port: 49218
+  server: south.sf0jm.xyz
+  type: ss
+  udp: true
