@@ -1,16 +1,8 @@
 proxies:
-- cipher: aes-128-gcm
+- cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
-  name: 0|🇩🇪1 |  2.8MB/s
-  password: 29c472c5-530a-48a1-bb95-fcd1f2f06352
-  port: 49228
-  server: south.sf0jm.xyz
+  name: 0|🇩🇪1 |  5.3MB/s
+  password: 352ec04c-fad2-49b7-b206-4b5d68e47ce6
+  port: 46247
+  server: jef20t3hhgi49hqubitpy4ytrt5qnzv1.02.01.de.k7h.lol
   type: ss
-  udp: true
-- name: 0|🇩🇪2 |  5.3MB/s
-  password: '!!str 3770966768580042752'
-  port: 443
-  server: shining-glowworm.goat627.mom
-  skip-cert-verify: true
-  sni: shining-glowworm.goat627.mom
-  type: trojan

@@ -1,306 +1,49 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 0|🇺🇸1 |  21.6MB/s
-  port: 60717
-  server: ywtwepcnwlou.xn--fiqs8sjz2bull.com
-  skip-cert-verify: false
-  tfo: false
-  tls: false
-  type: vmess
-  uuid: dbb4c3e2-12de-4678-aafe-7e520b609098
-- alterId: 2
-  cipher: auto
-  client-fingerprint: chrome
-  name: 0|🇺🇸2 |  1.2MB/s
-  network: ws
-  port: 23617
-  server: 17.mamamajd.site
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 3396d69f-7ce2-3f37-9597-089d88710bc2
-  ws-opts:
-    headers:
-      Host: 17.mamamajd.site
-    path: /
-- auth: 9bb452b106ffc217
-  client-fingerprint: chrome
-  name: 0|🇺🇸3 |  3.7MB/s
-  obfs: salamander
-  obfs-password: cd29099d
-  password: 9bb452b106ffc217
+- cipher: aes-256-cfb
+  name: 0|🇺🇸1 |  2.2MB/s
+  password: amazonskr05
   port: 443
-  server: 207.148.22.93
-  skip-cert-verify: true
-  type: hysteria2
-- auth: 7ee32f14-b07b-4a5c-8417-af90530f06e4
+  server: 52.24.52.100
+  type: ss
+- alpn:
+  - h3
+  auth-str: dongtaiwang.com
+  auth_str: dongtaiwang.com
   client-fingerprint: chrome
-  name: 0|🇺🇸4 |  2.4MB/s
-  password: 7ee32f14-b07b-4a5c-8417-af90530f06e4
-  port: 14001
-  server: 165.22.252.77
+  down: 55 Mbps
+  name: 0|🇺🇸2 |  5.0MB/s
+  port: 38670
+  ports: 10000-20000
+  server: 208.87.243.151
   skip-cert-verify: true
-  sni: bing.com
+  sni: www.bing.com
+  type: hysteria
+  up: 11 Mbps
+- auth: 50463abf-32e2-47c9-a205-b7894c40e2af
+  client-fingerprint: chrome
+  name: 0|🇺🇸3 |  1.3MB/s
+  password: 50463abf-32e2-47c9-a205-b7894c40e2af
+  port: 5051
+  server: 104.238.222.79
+  skip-cert-verify: true
+  sni: d1--cn-gotcha204-4.bilivideo.com
   type: hysteria2
 - auth: a3e22d25-a56e-4d2d-b54b-1f5cffd13e96
   client-fingerprint: chrome
-  name: 0|🇺🇸5 |  8.6MB/s
+  name: 0|🇺🇸4 |  6.0MB/s
   password: a3e22d25-a56e-4d2d-b54b-1f5cffd13e96
   port: 443
   server: us4lxwrhvzg.92859852.xyz
   skip-cert-verify: true
   sni: us4lxwrhvzg.92859852.xyz
   type: hysteria2
-- name: 0|🇺🇸6 |  1.2MB/s
-  password: bff5aaba-697f-31e2-b5dd-03276d5d307b
-  port: 20305
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z305.hongkongnode.top
-  tfo: true
-  type: trojan
+- name: 0|🇺🇸5 |  3.0MB/s
+  password: myszy28811
+  port: 28811
+  server: pipi.myddns.me
+  type: socks5
   udp: true
-- auth: 50463abf-32e2-47c9-a205-b7894c40e2af
-  client-fingerprint: chrome
-  name: 0|🇺🇸7 |  5.3MB/s
-  password: 50463abf-32e2-47c9-a205-b7894c40e2af
-  port: 5001
-  server: aws-sgsg.aikunapp.com
-  skip-cert-verify: true
-  sni: d1--cn-gotcha204-4.bilivideo.com
-  type: hysteria2
-- alterId: 0
-  cipher: auto
-  name: 0|🇺🇸8 |  2.9MB/s
-  port: 20014
-  server: qd.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: a24a9736-07d7-4d6c-bcf8-7453a0282e27
-- name: 0|🇺🇸9 |  3.9MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: usgp2-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: usgp2-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- name: 0|🇺🇸10 |  8.0MB/s
-  password: bff5aaba-697f-31e2-b5dd-03276d5d307b
-  port: 28678
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z143.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 0|🇺🇸11 |  4.2MB/s
-  password: amazonskr05
-  port: 443
-  server: 35.91.132.50
-  type: ss
-  udp: true
-- alterId: 64
-  cipher: auto
-  client-fingerprint: chrome
-  country: 🇨🇳CN
-  h2-opts: {}
-  http-opts: {}
-  name: 0|🇺🇸12 |  3.1MB/s
-  network: tcp
-  port: 45402
-  server: 120.232.153.123
-  skip-cert-verify: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-- name: 0|🇺🇸13 |  6.4MB/s
-  password: bff5aaba-697f-31e2-b5dd-03276d5d307b
-  port: 43337
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z102.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 0|🇺🇸14 |  4.5MB/s
-  password: amazonskr05
-  port: 443
-  server: 44.246.37.239
-  type: ss
-  udp: true
-- name: 0|🇺🇸15 |  4.0MB/s
-  password: bff5aaba-697f-31e2-b5dd-03276d5d307b
-  port: 20278
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z278.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇺🇸16 |  4.5MB/s
-  password: '!!str 3770966768580042752'
-  port: 443
-  server: bursting-bunny.goat627.mom
-  skip-cert-verify: true
-  sni: bursting-bunny.goat627.mom
-  type: trojan
-- alterId: 2
-  cipher: auto
-  name: 0|🇺🇸17 |  6.6MB/s
-  network: ws
-  port: 23615
-  server: 15.mamamajd.site
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: 3396d69f-7ce2-3f37-9597-089d88710bc2
-  ws-opts:
-    headers:
-      Host: 15.mamamajd.site
-    path: /
-- client-fingerprint: chrome
-  name: 0,8|@V2rayNG3
-  password: '!!str 123456'
-  port: 443
-  server: 192.3.85.237
-  skip-cert-verify: true
-  sni: bing.com
-  tls: false
-  type: hysteria2
-- client-fingerprint: chrome
-  name: 0|🇺🇸19 |  2.6MB/s
-  password: a0605527-28e4-449c-80ee-5642cc16a8af
-  port: 80
-  server: br.huafei888.site
-  skip-cert-verify: true
-  sni: br.huafei888.site
-  type: hysteria2
-- name: 0|🇺🇸20 |  10.4MB/s
-  password: bff5aaba-697f-31e2-b5dd-03276d5d307b
-  port: 20303
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z303.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 0|🇺🇸21 |  1.2MB/s
-  password: f175d66f-7cf5-47aa-83be-a8e969cdbe2d
-  port: 40000
-  server: rk1.boost1.top
-  type: ss
-- client-fingerprint: chrome
-  down: ''
-  fingerprint: ''
-  name: 0|🇺🇸22 |  2.7MB/s
-  obfs: salamander
-  obfs-password: 13f7ba5f
-  password: 4e9ee29b39a28277
-  port: 443
-  server: 66.135.11.68
-  skip-cert-verify: true
-  sni: 66.135.11.68
-  type: hysteria2
-  up: ''
-- auth: 7ee32f14-b07b-4a5c-8417-af90530f06e4
-  client-fingerprint: chrome
-  name: 0|🇺🇸23 |  9.5MB/s
-  password: 7ee32f14-b07b-4a5c-8417-af90530f06e4
-  port: 45238
-  server: 154.12.179.113
-  skip-cert-verify: true
-  sni: bing.com
-  type: hysteria2
-- name: 0|🇺🇸24 |  3.2MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: usport1-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: usport1-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- auth: 50463abf-32e2-47c9-a205-b7894c40e2af
-  client-fingerprint: chrome
-  name: 0|🇺🇸25 |  4.0MB/s
-  password: 50463abf-32e2-47c9-a205-b7894c40e2af
-  port: 5051
-  server: 104.238.222.166
-  skip-cert-verify: true
-  sni: d1--cn-gotcha204-4.bilivideo.com
-  type: hysteria2
-- alterId: 64
-  cipher: auto
-  client-fingerprint: chrome
-  name: 0|🇺🇸26 |  1.6MB/s
-  network: ws
-  port: 37001
-  server: 192.74.231.199
-  servername: www.57277774.xyz
-  skip-cert-verify: false
-  tls: true
-  type: vmess
-  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
-  ws-opts:
-    headers:
-      Host: www.57277774.xyz
-    path: /path/1737106641750
-- alterId: 0
-  cipher: auto
-  name: 0|🇺🇸27 |  1.4MB/s
-  port: 45112
-  server: i.needss.top
-  tls: false
-  type: vmess
-  udp: true
-  uuid: a24a9736-07d7-4d6c-bcf8-7453a0282e27
-- name: 0|🇺🇸28 |  1.2MB/s
-  password: bff5aaba-697f-31e2-b5dd-03276d5d307b
-  port: 21970
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x41.flybar.work
-  tfo: true
-  type: trojan
-  udp: true
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 0|🇺🇸29 |  6.2MB/s
-  password: amazonskr05
-  port: 443
-  server: 35.94.121.85
-  type: ss
-  udp: true
-- name: 0|🇺🇸30 |  11.4MB/s
-  password: bff5aaba-697f-31e2-b5dd-03276d5d307b
-  port: 56783
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z266.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇺🇸31 |  1.5MB/s
-  password: bff5aaba-697f-31e2-b5dd-03276d5d307b
-  port: 20306
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z306.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
+  username: myszy
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 0,13|🇯🇵 日本特殊|@ripaojiedian
@@ -309,125 +52,16 @@ proxies:
   server: 13.215.205.85
   tfo: false
   type: ss
-- alterId: 2
+- alterId: 0
   cipher: auto
-  name: 0|🇺🇸33 |  2.8MB/s
-  network: ws
-  port: 23613
-  server: 13.mamamajd.site
+  name: 0|🇺🇸7 |  2.7MB/s
+  port: 50009
+  server: 50009.baidu-cdn.top
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: 3396d69f-7ce2-3f37-9597-089d88710bc2
-  ws-opts:
-    headers:
-      Host: 13.mamamajd.site
-    path: /
-- auth: 462a8e99-f369-469d-bd5b-ffbb9c3e5c7e
-  client-fingerprint: chrome
-  name: 0|🇺🇸34 |  6.6MB/s
-  password: 462a8e99-f369-469d-bd5b-ffbb9c3e5c7e
-  port: 2052
-  server: rb1.xiaofeixia.cyou
-  skip-cert-verify: true
-  sni: rb1.xiaofeixia.cyou
-  type: hysteria2
-- name: 0|🇺🇸35 |  2.7MB/s
-  password: bff5aaba-697f-31e2-b5dd-03276d5d307b
-  port: 20307
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z307.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇺🇸36 |  1.5MB/s
-  password: '!!str 3770966768580042752'
-  port: 443
-  server: fitting-foxhound.goat627.mom
-  skip-cert-verify: true
-  sni: fitting-foxhound.goat627.mom
-  type: trojan
-- name: 0|🇺🇸37 |  7.9MB/s
-  password: bff5aaba-697f-31e2-b5dd-03276d5d307b
-  port: 24603
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z259.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- auth: 50463abf-32e2-47c9-a205-b7894c40e2af
-  client-fingerprint: chrome
-  name: 0|🇺🇸38 |  6.2MB/s
-  password: 50463abf-32e2-47c9-a205-b7894c40e2af
-  port: 5051
-  server: 104.238.220.25
-  skip-cert-verify: true
-  sni: d1--cn-gotcha204-4.bilivideo.com
-  type: hysteria2
-- name: 0|🇺🇸39 |  5.2MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: usgp3-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: usgp3-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- name: 0|🇺🇸40 |  2.0MB/s
-  password: bff5aaba-697f-31e2-b5dd-03276d5d307b
-  port: 20296
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z296.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇺🇸41 |  3.1MB/s
-  password: bff5aaba-697f-31e2-b5dd-03276d5d307b
-  port: 20304
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z304.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇺🇸42 |  4.2MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: jp104-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: jp104-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- name: 0|🇺🇸43 |  2.8MB/s
-  password: bff5aaba-697f-31e2-b5dd-03276d5d307b
-  port: 20308
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z308.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇺🇸44 |  9.5MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: usgp1-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: usgp1-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- cipher: chacha20-ietf-poly1305
-  name: 0|🇺🇸45 |  1.1MB/s
-  password: 2e4fd69e-a97f-4fff-85c0-2b3bafbc4af8
-  port: 58812
-  server: southvip1.pkyun.xyz
-  type: ss
-  udp: true
+  uuid: 540a5d31-cd1f-41bd-b5bd-92126f2cdc85
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 13|🇺🇸 美国|@ripaojiedian

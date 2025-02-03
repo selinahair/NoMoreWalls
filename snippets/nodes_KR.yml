@@ -1,17 +1,10 @@
 proxies:
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇰🇷1 |  3.2MB/s
+  name: 0|🇰🇷1 |  2.5MB/s
   password: d4eeaa7b-43c6-49dc-8020-7389bba4d033
   port: 39206
   server: hzhz1.sssyun.xyz
   type: ss
-- name: 0|🇰🇷2 |  8.1MB/s
-  password: '!!str 3770966768580042752'
-  port: 443
-  server: alert-teal.goat627.mom
-  skip-cert-verify: true
-  sni: alert-teal.goat627.mom
-  type: trojan
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 13|🇰🇷 韩国|@ripaojiedian
