@@ -1,9 +1,7 @@
 proxies:
 - cipher: aes-256-cfb
-  ip-version: dual
-  name: 0|🇷🇺1 |  17.0MB/s
-  password: UTJA57ypk2XKQpnm
-  port: 9033
+  name: 0|🇷🇺1 |  1.3MB/s
+  password: JdmRK9gMEqFgs8nP
+  port: 9003
   server: 217.30.10.18
   type: ss
-  udp: true

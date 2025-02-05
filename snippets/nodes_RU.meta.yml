@@ -1,24 +1,7 @@
 proxies:
 - cipher: aes-256-cfb
-  ip-version: dual
-  name: 0|🇷🇺1 |  17.0MB/s
-  password: UTJA57ypk2XKQpnm
-  port: 9033
+  name: 0|🇷🇺1 |  1.3MB/s
+  password: JdmRK9gMEqFgs8nP
+  port: 9003
   server: 217.30.10.18
   type: ss
-  udp: true
-- alpn:
-  - h3
-  auth-str: dongtaiwang.com
-  auth_str: dongtaiwang.com
-  client-fingerprint: chrome
-  down: 55 Mbps
-  name: 0|🇷🇺2 |  2.2MB/s
-  obfs: dongtaiwang.com
-  port: 15424
-  ports: 30000-40000
-  server: 185.22.155.71
-  skip-cert-verify: true
-  sni: www.bing.com
-  type: hysteria
-  up: 11 Mbps

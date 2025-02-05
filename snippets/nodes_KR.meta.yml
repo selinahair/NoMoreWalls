@@ -1,9 +1,29 @@
 proxies:
+- client-fingerprint: chrome
+  name: 13|🇰🇷 韩国2|@ripaojiedian
+  password: '!!str 65086520307764900'
+  port: 443
+  server: hopeful-seagull.shiner427.skin
+  skip-cert-verify: false
+  sni: hopeful-seagull.shiner427.skin
+  type: trojan
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 13|🇰🇷 韩国特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 54.255.198.143
+  server: 18.143.78.171
   tfo: false
   type: ss
+- name: 14|韩国|@ripaojiedian
+  network: tcp
+  password: '!!str 65086520307764900'
+  port: 443
+  server: useful-jennet.shiner427.skin
+  type: trojan
+- name: 14|韩国2|@ripaojiedian
+  network: tcp
+  password: '!!str 65086520307764900'
+  port: 443
+  server: hopeful-seagull.shiner427.skin
+  type: trojan

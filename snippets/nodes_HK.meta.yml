@@ -1,12 +1,15 @@
 proxies:
-- cipher: aes-128-gcm
+- alterId: 0
+  cipher: auto
   client-fingerprint: chrome
   name: 13|🇭🇰 香港|@ripaojiedian
-  password: cbf3d234-6d24-47ec-a9cb-2c2692c5dcf1
-  port: 12008
-  server: mdss-hk.04z3susick.download
+  port: 57658
+  server: 38.147.188.17
+  skip-cert-verify: false
   tfo: false
-  type: ss
+  tls: false
+  type: vmess
+  uuid: 7f004471-a725-4efb-9a19-6bf17a61cf46
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -17,13 +20,21 @@ proxies:
   tfo: false
   tls: false
   type: vmess
-  uuid: cdb49a9b-6e23-4d90-b2a8-5c158b437cf2
+  uuid: adb6b92d-24c1-4dff-9efc-8ecedb84219b
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 13|🇭🇰 香港3|@ripaojiedian
   password: hGkQ6915tD
   port: 16088
   server: 120.232.81.50
+  tfo: false
+  type: ss
+- cipher: aes-128-gcm
+  client-fingerprint: chrome
+  name: 13|🇭🇰 香港4|@ripaojiedian
+  password: 40983d6d-48be-4c9a-aa48-3aaf3146833e
+  port: 12010
+  server: mdss-hk.04z3susick.download
   tfo: false
   type: ss
 - alterId: 64
@@ -39,6 +50,16 @@ proxies:
   uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
 - alterId: 0
   cipher: auto
+  name: 14|香港|@ripaojiedian
+  network: tcp
+  port: '57658'
+  server: 38.147.188.17
+  servername: ''
+  tls: false
+  type: vmess
+  uuid: 7f004471-a725-4efb-9a19-6bf17a61cf46
+- alterId: 0
+  cipher: auto
   name: 14|香港2|@ripaojiedian
   network: tcp
   port: '50028'
@@ -46,7 +67,7 @@ proxies:
   servername: ''
   tls: false
   type: vmess
-  uuid: cdb49a9b-6e23-4d90-b2a8-5c158b437cf2
+  uuid: adb6b92d-24c1-4dff-9efc-8ecedb84219b
 - alterId: 64
   cipher: auto
   name: 14|香港5|@ripaojiedian
