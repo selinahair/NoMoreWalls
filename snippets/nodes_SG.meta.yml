@@ -1,28 +1,42 @@
 proxies:
 - auth: __mPDL8oqKjx2v2VpdSfG0g4
   client-fingerprint: chrome
-  name: 0|🇸🇬1 |  5.4MB/s
+  name: 0|🇸🇬1 |  6.0MB/s
   password: __mPDL8oqKjx2v2VpdSfG0g4
   port: 443
   server: starlink-sgp.2513142.xyz
   skip-cert-verify: true
   sni: www.cloudflare.com
   type: hysteria2
-- alterId: 0
-  cipher: auto
-  name: 0|🇸🇬2 |  6.7MB/s
-  network: ws
-  port: 16618
-  server: t.cnmjcn.cyou
-  skip-cert-verify: false
-  tls: false
-  type: vmess
+- cipher: aes-256-cfb
+  name: 0|🇸🇬2 |  6.0MB/s
+  password: amazonskr05
+  port: 443
+  server: 52.221.234.117
+  type: ss
   udp: true
-  uuid: 6557bf4a-852b-4a69-ad35-d53293386a13
-  ws-opts:
-    headers:
-      Host: 2835dfeccdb7fd37119978ee6e32ae61.mobgslb.tbcache.com
-    path: /
+- cipher: aes-256-cfb
+  name: 0|🇸🇬3 |  2.9MB/s
+  password: amazonskr05
+  port: 443
+  server: 13.212.48.245
+  type: ss
+  udp: true
+- name: 0|🇸🇬4 |  2.6MB/s
+  password: myszy28811
+  port: 28811
+  server: pipi.myddns.me
+  type: socks5
+  udp: true
+  username: myszy
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 0|🇸🇬5 |  7.9MB/s
+  password: amazonskr05
+  port: 443
+  server: 13.229.111.3
+  type: ss
+  udp: true
 - client-fingerprint: chrome
   name: 13,14,15|CN_speednode_0092
   network: tcp
