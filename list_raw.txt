@@ -106,5 +106,5 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCAiYWRkIjogIjQyLjIz
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16%7Cd%2A%2A%2A%2A%2A%2A%2A%2A%2Ag.com_6
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16%7Cd%2A%2A%2A%2A%2A%2A%2A%2A%2Ag.com_3
 hhysteria2://15cca331-9e92-449d-93b0-25f82203595f@gb.gomeow.online:20309?security=tls&insecure=0&sni=gb.gomeow.online#@V2rayNG3
-https://wWE1yo.absslk.xyz/cf8f03685823407d30a877e7b6b36f94
-https://lXl1e4.mcsslk.xyz/8e76aedae8baa7939ad07f2ad0a2a300
+https://OWe29l.mcsslk.xyz/edbbf75117f95728e1a88c01ec9e5f09
+https://GaEXz3.absslk.xyz/d1174928559648f1fcd06de170f79fa6
