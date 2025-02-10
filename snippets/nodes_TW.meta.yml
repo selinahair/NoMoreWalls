@@ -1,15 +1,24 @@
 proxies:
 - cipher: chacha20-ietf
-  name: 0|🇹🇼1 |  1.7MB/s
+  name: 0|🇹🇼1 |  2.7MB/s
   obfs: http_simple
   obfs-param: 18104-oDTLA)27x8on9..download.microsoft.com
   password: passwd
-  port: 8801
+  port: 8306
   protocol: origin
   protocol-param: ''
-  server: cn00.closeai.one
+  server: cn10.closeai.one
   type: ssr
   udp: true
+- name: 0|🇹🇼2 |  5.2MB/s
+  password: exaxgqkKkd0TAMrCxeonWg==
+  port: 443
+  server: tw1-cdn-route.couldflare-cdn.com
+  skip-cert-verify: false
+  sni: tw1-cdn-route.couldflare-cdn.com
+  tls: true
+  type: http
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
 - client-fingerprint: chrome
   name: 13,14|台湾|@ripaojiedian
   network: tcp
