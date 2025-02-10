@@ -1,9 +1,39 @@
 proxies:
+- http-opts:
+    headers:
+      Host:
+      - sso.farhang.gov.ir
+    method: GET
+    path:
+    - /download
+  name: 15|DE_speednode_0109
+  network: http
+  port: 8080
+  server: 188.245.251.47
+  servername: sso.farhang.gov.ir
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  udp: true
+  uuid: 1c86a177-d7ff-4a5f-8255-cfeb4e051305
 - alpn:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  name: 15|DE_speednode_0090
+  name: 15|DE_speednode_0111
+  port: 23055
+  server: 146.103.41.166
+  servername: vpn.pnm1.com
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 90cadcb1-5955-4ddc-c846-a40f06cbed39
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  name: 15|DE_speednode_0112
   port: 23055
   server: vpn.pnm1.com
   servername: vpn.pnm1.com
