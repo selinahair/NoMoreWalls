@@ -1,34 +1,9 @@
 proxies:
-- name: 15|DE_speednode_0005
-  port: 443
-  server: 2na9noed62ec.dopraxrocks.com
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: a6e8515c-4e54-435a-9a47-2365beb40164
-- http-opts:
-    headers:
-      Host:
-      - sso.farhang.gov.ir
-    method: GET
-    path:
-    - /download
-  name: 15|DE_speednode_0006
-  network: http
-  port: 8080
-  server: 188.245.251.47
-  servername: sso.farhang.gov.ir
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 1c86a177-d7ff-4a5f-8255-cfeb4e051305
 - alpn:
   - h2
   - http/1.1
   client-fingerprint: chrome
-  name: 15|DE_speednode_0007
+  name: 15|DE_speednode_0090
   port: 23055
   server: vpn.pnm1.com
   servername: vpn.pnm1.com
