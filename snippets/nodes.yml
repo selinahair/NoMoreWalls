@@ -67,7 +67,7 @@ proxies:
   tfo: false
   type: ss
   udp: true
-- name: 0,15|JP_speednode_0032
+- name: 0|🌏1 |  4.0MB/s
   password: 6557bf4a-852b-4a69-ad35-d53293386a13
   port: 443
   server: vn.mjt000.com
@@ -165,7 +165,7 @@ proxies:
   tls: false
   type: vmess
   uuid: c7e04382-01be-40ab-b174-4dbff44b5cf4
-- name: 13,14,15|HK_speednode_0018
+- name: 13,14|香港4|@ripaojiedian
   network: tcp
   password: 43e5eeacbad3032bfe4c25a2f011b6b7
   port: 443
@@ -173,7 +173,6 @@ proxies:
   skip-cert-verify: true
   sni: hezijiasuqi.com
   type: trojan
-  udp: true
 - name: 13,14|台湾|@ripaojiedian
   network: tcp
   password: 069a7054-7269-554b-bfab-a7f2651f92e5
@@ -321,12 +320,14 @@ proxies:
   port: 443
   server: summary-sawfish.shiner427.skin
   type: trojan
-- name: 14|美国|@ripaojiedian
+- name: 14,15|US_speednode_0129
   network: tcp
   password: '65086441068973800'
   port: 443
   server: live-serval.shiner427.skin
+  skip-cert-verify: false
   type: trojan
+  udp: true
 - alterId: 0
   cipher: auto
   name: 14|美国2|@ripaojiedian
@@ -337,74 +338,66 @@ proxies:
   tls: false
   type: vmess
   uuid: db5afae4-ac23-41a6-8378-f307a9a47436
-- name: 14|美国3|@ripaojiedian
+- name: 14,15|US_speednode_0123
   network: tcp
   password: '65086441068973800'
   port: 443
   server: humorous-lioness.shiner427.skin
+  skip-cert-verify: false
   type: trojan
-- name: 14|美国4|@ripaojiedian
+  udp: true
+- name: 14,15|US_speednode_0126
   network: tcp
   password: '65086441068973800'
   port: 443
   server: grateful-lark.shiner427.skin
+  skip-cert-verify: false
   type: trojan
+  udp: true
 - name: 14|德国|@ripaojiedian
   network: tcp
   password: '65086441068973800'
   port: 443
   server: mature-flamingo.shiner427.skin
   type: trojan
-- name: 14|爱尔兰|@ripaojiedian
+- name: 14,15|IE_speednode_0038
   network: tcp
   password: '65086441068973800'
   port: 443
   server: tops-lobster.shiner427.skin
+  skip-cert-verify: false
   type: trojan
-- name: 14|英国|@ripaojiedian
+  udp: true
+- name: 14,15|GB_speednode_0036
   network: tcp
   password: '65086441068973800'
   port: 443
   server: grown-mackerel.shiner427.skin
-  type: trojan
-- name: 15|CN_speednode_0008
-  password: 069a7054-7269-554b-bfab-a7f2651f92e5
-  port: 6306
-  server: dozo01.flztjc.top
-  skip-cert-verify: true
-  sni: jp-6-559.flztjc.net
+  skip-cert-verify: false
   type: trojan
   udp: true
-- name: 15|CN_speednode_0009
-  password: 069a7054-7269-554b-bfab-a7f2651f92e5
-  port: 9301
-  server: dozo01.flztjc.top
+- name: 15|CN_speednode_0030
+  password: 78c245b7-b61c-4970-b4c2-d92a173ff16a
+  port: 33345
+  server: gs.huamao888.top
   skip-cert-verify: true
-  sni: sgp-1-546.flztjc.net
+  sni: gs.huamao888.top
   type: trojan
   udp: true
-- name: 15|CN_speednode_0010
-  password: 069a7054-7269-554b-bfab-a7f2651f92e5
-  port: 5306
-  server: dozo01.flztjc.top
+- name: 15|US_speednode_0105
+  password: 915476b6-7b20-4b57-be47-d9d0fd6a6ffb
+  port: 46463
+  server: cea291b7d55c322ec47dbd8c56359e7a.us.in.node-is.green
   skip-cert-verify: true
-  sni: tw-06-592.flztjc.net
+  sni: hk12.bilibili.com
   type: trojan
   udp: true
-- name: 15|CN_speednode_0011
-  password: 069a7054-7269-554b-bfab-a7f2651f92e5
-  port: 6304
-  server: dozo01.flztjc.top
+- name: 15|US_speednode_0107
+  password: 915476b6-7b20-4b57-be47-d9d0fd6a6ffb
+  port: 42911
+  server: b81d0ebd97b5d2f9526651812be75f7e.us.in.node-is.green
   skip-cert-verify: true
-  sni: jp-4-557.flztjc.net
-  type: trojan
-  udp: true
-- name: 15|CN_speednode_0012
-  password: 069a7054-7269-554b-bfab-a7f2651f92e5
-  port: 5303
-  server: dozo01.flztjc.top
-  skip-cert-verify: true
-  sni: tw-03-505.flztjc.net
+  sni: hk12.bilibili.com
   type: trojan
   udp: true
 - alterId: 0

@@ -1,5 +1,5 @@
 proxies:
-- name: 15|RU_speednode_0051
+- name: 15|RU_speednode_0073
   network: ws
   port: 80
   server: 185.174.138.194
