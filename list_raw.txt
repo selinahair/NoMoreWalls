@@ -90,5 +90,5 @@ vless://0f111f15-46a3-4bd3-b88b-c52278d09269@iri.ginuerzht.ir:2053?allowInsecure
 vmess://eyJ2IjogIjIiLCAicHMiOiAiMTZ8ZCoqKioqKioqKmcuY29tXzIiLCAiYWRkIjogIjQyLjIzNi43My43MiIsICJwb3J0IjogIjQ0MyIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogInRscyIsICJpZCI6ICIwNDRmMDE3Ny0wNjc1LTRkY2YtODlkNC04MDRiNjc4OGU1MTgiLCAic25pIjogInd3dy56aXRpYW4uY24ifQ==
 vless://11916472-4e2c-49c6-b75d-71196b3a7ecf@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1&fp=chrome&security=tls#16%7Cd%2A%2A%2A%2A%2A%2A%2A%2A%2Ag.com_6
 trojan://fuck@42.236.73.72:443?sni=www.zitian.cn&alpn=http/1.1#16%7Cd%2A%2A%2A%2A%2A%2A%2A%2A%2Ag.com_3
-https://bRrkcp.mcsslk.xyz/88c04f358aed8f6e6998a625e9d3f66b
-https://Wu2dGc.absslk.xyz/db68a80ba48bbbb6a06449fbbb940109
+https://myPhIh.absslk.xyz/ae41e81580e7b78a76a34609e3df996b
+https://64fvtg.mcsslk.xyz/e59cdf511ff5f66b833b757123e5b10b
