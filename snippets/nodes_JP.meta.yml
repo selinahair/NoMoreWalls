@@ -1,32 +1,33 @@
 proxies:
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 0|🇯🇵1 |  1.5MB/s
-  password: amazonskr05
-  port: 443
-  server: 43.206.216.94
-  type: ss
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 0|🇯🇵2 |  2.0MB/s
-  password: amazonskr05
-  port: 443
-  server: 3.112.1.164
-  type: ss
-- name: 0|🇯🇵3 |  5.8MB/s
-  password: 87ff7f71-7be7-3a48-8423-db24be08e546
-  port: 20298
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z298.hongkongnode.top
-  type: trojan
-  udp: true
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 0|🇯🇵4 |  4.0MB/s
+  name: 0|🇯🇵1 |  6.1MB/s
   password: amazonskr05
   port: 443
   server: 54.95.50.167
+  type: ss
+- name: 0|🇯🇵2 |  2.2MB/s
+  password: exaxgqkKkd0TAMrCxeonWg==
+  port: 443
+  server: jpgmo102-cdn-route.couldflare-cdn.com
+  skip-cert-verify: false
+  sni: jpgmo102-cdn-route.couldflare-cdn.com
+  tls: true
+  type: http
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 0|🇯🇵3 |  4.9MB/s
+  password: amazonskr05
+  port: 443
+  server: 18.181.176.166
+  type: ss
+- cipher: aes-256-cfb
+  client-fingerprint: chrome
+  name: 0|🇯🇵4 |  5.9MB/s
+  password: amazonskr05
+  port: 443
+  server: 3.112.1.164
   type: ss
 - alterId: 0
   cipher: auto
