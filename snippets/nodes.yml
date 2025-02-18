@@ -1,19 +1,14 @@
 proxies:
-- cipher: aes-256-cfb
-  name: 0|🇺🇸8 |  4.1MB/s
-  password: amazonskr05
-  port: 443
-  server: 44.243.110.63
-  type: ss
-- cipher: aes-128-gcm
-  name: 0|🇭🇺1 |  1.3MB/s
-  password: 64ddb7e7-618b-4413-bd14-8b28372cc2a3
-  port: 51201
-  server: a1.1tsm-sab2qkybzqc4ujzufu5yqppaomvbqfmrjunx7dmbde1ktmr.cv
-  type: ss
+- name: 0|🇺🇸2 |  1.6MB/s
+  password: 6f56a431-be91-3277-8ef4-38b40739bbad
+  port: 22741
+  server: gy.58n.net
+  skip-cert-verify: true
+  sni: dufu.hongkongnode.top
+  type: trojan
   udp: true
 - cipher: chacha20-ietf-poly1305
-  name: 0|🇫🇷1 |  3.9MB/s
+  name: 0|🇫🇷1 |  5.8MB/s
   password: 7243745919d6de49a5db
   plugin: obfs
   plugin-opts:
@@ -22,49 +17,93 @@ proxies:
   port: 45578
   server: console.02.aliyun.aq.kunlunaqs.com
   type: ss
-- name: 0|🇺🇸10 |  5.3MB/s
-  password: 91c5929b-cc80-39f7-af6d-e19632caf46c
-  port: 20308
+- alterId: 2
+  cipher: auto
+  name: 0|🌀2- |  3.3MB/s
+  network: ws
+  port: 23614
+  server: 14.mamamajd.site
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: a9bb40be-c1e7-355d-8327-5cb779bffda0
+  ws-opts:
+    headers:
+      Host: 14.mamamajd.site
+    path: /
+- name: 0|🇸🇬1 |  3.9MB/s
+  password: 6f56a431-be91-3277-8ef4-38b40739bbad
+  port: 20129
   server: gy.58n.net
   skip-cert-verify: true
-  sni: z308.hongkongnode.top
+  sni: x129.flybar.work
   type: trojan
   udp: true
-- name: 0|🇯🇵1 |  6.2MB/s
-  password: 91c5929b-cc80-39f7-af6d-e19632caf46c
-  port: 54178
-  server: gy.58n.net
+- name: 0|🇯🇵1 |  2.6MB/s
+  password: '3782591447421952000'
+  port: 443
+  server: sunny-macaque.treefrog761.one
   skip-cert-verify: true
-  sni: x115.flybar.work
+  sni: sunny-macaque.treefrog761.one
   type: trojan
-  udp: true
-- name: 0|🇯🇵2 |  1.3MB/s
-  password: 91c5929b-cc80-39f7-af6d-e19632caf46c
-  port: 20139
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z139.hongkongnode.top
-  type: trojan
-  udp: true
 - cipher: aes-256-cfb
-  name: 0|🇸🇬1 |  3.2MB/s
+  name: 0|🇯🇵2 |  1.9MB/s
   password: amazonskr05
   port: 443
-  server: 18.141.9.206
+  server: 18.179.112.66
   type: ss
   udp: true
 - cipher: aes-256-cfb
-  name: 0|🇺🇸12 |  1.4MB/s
+  name: 0|🇺🇸4 |  7.3MB/s
   password: amazonskr05
   port: 443
-  server: 54.244.78.72
+  server: 35.86.249.1
   type: ss
-- name: 0|🇺🇸13 |  3.1MB/s
-  password: 91c5929b-cc80-39f7-af6d-e19632caf46c
-  port: 20303
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇦🇺1 |  3.9MB/s
+  password: 1834fc79-7f4b-4e2b-9048-17c7b809fc44
+  port: 16603
+  server: yy1.vyunyunnode.top
+  type: ss
+  udp: true
+- cipher: aes-256-cfb
+  name: 0|🇺🇸6 |  2.9MB/s
+  password: amazonskr05
+  port: 443
+  server: 54.184.126.174
+  type: ss
+  udp: true
+- name: 0|🇯🇵3 |  1.6MB/s
+  password: 6f56a431-be91-3277-8ef4-38b40739bbad
+  port: 20298
   server: gy.58n.net
   skip-cert-verify: true
-  sni: z303.hongkongnode.top
+  sni: z298.hongkongnode.top
+  type: trojan
+  udp: true
+- name: 0|🇯🇵4 |  1.4MB/s
+  password: 6f56a431-be91-3277-8ef4-38b40739bbad
+  port: 20059
+  server: gy.58n.net
+  skip-cert-verify: true
+  sni: x59.flybar.work
+  type: trojan
+  udp: true
+- name: 0|🇸🇬2 |  2.2MB/s
+  password: 6f56a431-be91-3277-8ef4-38b40739bbad
+  port: 17806
+  server: gy.58n.net
+  skip-cert-verify: true
+  sni: x65.flybar.work
+  type: trojan
+  udp: true
+- name: 0|🇸🇬3 |  3.8MB/s
+  password: 6f56a431-be91-3277-8ef4-38b40739bbad
+  port: 20130
+  server: gy.58n.net
+  skip-cert-verify: true
+  sni: x130.flybar.work
   type: trojan
   udp: true
 - cipher: rc4-md5
@@ -282,20 +321,12 @@ proxies:
   tls: false
   type: vmess
   uuid: a5e99fc4-5b87-4312-aa8a-52cad1971b92
-- name: 15|DE_speednode_0037
+- name: 15|DE_speednode_0031
   password: '3782591447421952000'
   port: 443
   server: patient-ghost.treefrog761.one
   skip-cert-verify: true
   sni: patient-ghost.treefrog761.one
-  type: trojan
-  udp: true
-- name: 15|HK_speednode_0076
-  password: b2d0b65a-616c-433d-8e7b-08af61017fa8
-  port: 43396
-  server: 45.146.232.172
-  skip-cert-verify: false
-  sni: q08m.vgraxiw73s.hasyaf.cn
   type: trojan
   udp: true
 - alterId: 0
