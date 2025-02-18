@@ -1,34 +1,11 @@
 proxies:
-- name: 0|🇯🇵1 |  2.6MB/s
-  password: '!!str 3782591447421952000'
-  port: 443
-  server: sunny-macaque.treefrog761.one
-  skip-cert-verify: true
-  sni: sunny-macaque.treefrog761.one
-  type: trojan
 - cipher: aes-256-cfb
   client-fingerprint: chrome
-  name: 0|🇯🇵2 |  1.9MB/s
+  name: 0|🇯🇵1 |  5.9MB/s
   password: amazonskr05
   port: 443
   server: 18.179.112.66
   type: ss
-  udp: true
-- name: 0|🇯🇵3 |  1.6MB/s
-  password: 6f56a431-be91-3277-8ef4-38b40739bbad
-  port: 20298
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z298.hongkongnode.top
-  type: trojan
-  udp: true
-- name: 0|🇯🇵4 |  1.4MB/s
-  password: 6f56a431-be91-3277-8ef4-38b40739bbad
-  port: 20059
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x59.flybar.work
-  type: trojan
   udp: true
 - client-fingerprint: chrome
   name: 13|🇯🇵 日本|@ripaojiedian
