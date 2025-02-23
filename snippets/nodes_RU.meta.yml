@@ -14,7 +14,7 @@ proxies:
   sni: www.bing.com
   type: hysteria
   up: 11 Mbps
-- name: 15|RU_speednode_0083
+- name: 15|RU_speednode_0176
   network: ws
   port: 80
   server: 185.174.138.194
@@ -28,7 +28,7 @@ proxies:
     headers:
       Host: pormang.webhost99.workers.dev
     path: /
-- name: 15|RU_speednode_0084
+- name: 15|RU_speednode_0177
   network: ws
   port: 8080
   server: 185.174.138.197
@@ -42,3 +42,16 @@ proxies:
     headers:
       Host: a.xn--i-sx6a60i.us.kg.
     path: /
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 15|RU_speednode_0178
+  port: 443
+  server: tel5.vpntype.dev
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5fcd19f2-0ecc-4449-bfab-f6b20d979d8f

@@ -16,3 +16,59 @@ proxies:
   skip-cert-verify: true
   sni: fr3.xiaoliyu.cyou
   type: hysteria2
+- name: 15|GB_speednode_0062
+  password: '!!str 3747000103274291200'
+  port: 443
+  server: fond-moth.treefrog761.one
+  skip-cert-verify: false
+  sni: fond-moth.treefrog761.one
+  type: trojan
+  udp: true
+- name: 15|GB_speednode_0063
+  password: '!!str 3747000103274291200'
+  port: 443
+  server: cuddly-slug.treefrog761.one
+  skip-cert-verify: false
+  sni: cuddly-slug.treefrog761.one
+  type: trojan
+  udp: true
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 15|GB_speednode_0065
+  port: 443
+  server: lon5.vpntype.dev
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: e60f8f43-b64b-4cb2-941c-0ecde0cf2177
+- alpn:
+  - h2
+  - http/1.1
+  client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 15|GB_speednode_0066
+  port: 443
+  server: lon5.vpntype.dev
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 1e6d9b35-8f40-48d5-9d65-024cf3b89751
+- name: 15|GB_speednode_0067
+  network: ws
+  port: 443
+  server: 31.22.116.38
+  servername: usd.kobtty.me
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 7671069f-ce73-4977-be03-414e79f1d7cd
+  ws-opts:
+    headers:
+      Host: usd.kobtty.me
+    path: /bing
