@@ -1,13 +1,16 @@
 proxies:
-- fast-open: true
-  name: 0|🇷🇺1 |  2.5MB/s
-  password: dongtaiwang.com
-  port: 18626
-  server: 46.29.163.171
+- alpn:
+  - h3
+  auth-str: dongtaiwang.com
+  auth_str: dongtaiwang.com
+  down: 1000 Mbps
+  name: 0|🇷🇺1 |  1.5MB/s
+  port: 10803
+  server: 185.22.155.71
   skip-cert-verify: true
   sni: www.bing.com
-  type: hysteria2
-  udp: true
+  type: hysteria
+  up: 1000 Mbps
 - name: 15|RU_speednode_0046
   network: ws
   port: 80
