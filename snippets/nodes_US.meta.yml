@@ -1,78 +1,50 @@
 proxies:
-- name: 0|🇺🇸1 |  2.5MB/s
-  password: ed6a3d1a-6b4a-33c6-81d5-8ffb85d6024a
-  port: 20278
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z278.hongkongnode.top
-  type: trojan
-  udp: true
-- alpn:
-  - h3
-  auth-str: dongtaiwang.com
-  auth_str: dongtaiwang.com
-  down: 1000 Mbps
-  name: 0|🇺🇸2 |  1.2MB/s
-  port: 17549
-  server: 208.87.243.151
-  skip-cert-verify: true
-  sni: www.bing.com
-  type: hysteria
-  up: 1000 Mbps
-- name: 0|🇺🇸3 |  1.8MB/s
-  password: ed6a3d1a-6b4a-33c6-81d5-8ffb85d6024a
-  port: 20294
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z294.hongkongnode.top
-  type: trojan
-  udp: true
-- alterId: 2
-  cipher: auto
-  name: 0|🇺🇸4 |  5.8MB/s
+- client-fingerprint: chrome
+  name: 0|🇺🇸1 |  4.8MB/s
   network: ws
-  port: 23613
-  server: 13.mamamajd.site
-  skip-cert-verify: true
+  port: 8880
+  server: 195.85.59.155
+  skip-cert-verify: false
   tls: false
-  type: vmess
-  udp: true
-  uuid: 726504ee-a555-3ffd-9f63-47ac6035ff99
+  type: vless
+  uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
   ws-opts:
     headers:
-      Host: 13.mamamajd.site
+      Host: photographipictureai.ir
+    path: /Telegram
+- client-fingerprint: chrome
+  name: 0|🇺🇸2 |  5.0MB/s
+  network: ws
+  port: 2095
+  server: 156.238.18.28
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
     path: /
-- name: 0|🇺🇸5 |  3.9MB/s
-  password: ed6a3d1a-6b4a-33c6-81d5-8ffb85d6024a
-  port: 20302
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z302.hongkongnode.top
-  type: trojan
-  udp: true
-- name: 0|🇺🇸6 |  1.5MB/s
-  password: ed6a3d1a-6b4a-33c6-81d5-8ffb85d6024a
-  port: 20296
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z296.hongkongnode.top
-  type: trojan
-  udp: true
-- name: 0|🇺🇸7 |  2.8MB/s
-  password: ed6a3d1a-6b4a-33c6-81d5-8ffb85d6024a
-  port: 22741
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: dufu.hongkongnode.top
-  type: trojan
-  udp: true
+- client-fingerprint: chrome
+  name: 0|🇺🇸3 |  5.7MB/s
+  network: ws
+  port: 8880
+  server: 185.146.173.112
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
+  ws-opts:
+    headers:
+      Host: photographipictureai.ir
+    path: /Telegram
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 13|🇺🇸 美国|@ripaojiedian
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503131222137-I1Qlb2V1Rh.download.microsoft.com
+    host: 202503140983506-gBQ0aA7o7i.download.microsoft.com
     mode: http
   port: 8771
   server: cn01.efan8867801.xyz
@@ -84,7 +56,7 @@ proxies:
   password: efanccyun
   plugin: obfs
   plugin-opts:
-    host: 202503131222137-I1Qlb2V1Rh.download.microsoft.com
+    host: 202503140983506-gBQ0aA7o7i.download.microsoft.com
     mode: http
   port: 8773
   server: cn01.efan8867801.xyz
@@ -92,9 +64,17 @@ proxies:
   type: ss
 - cipher: aes-256-gcm
   client-fingerprint: chrome
-  name: 13|🇺🇸 美国3|@ripaojiedian
-  password: FKCY4YH4V4EKLDLC
-  port: 17002
+  name: 13|🇺🇸 美国4|@ripaojiedian
+  password: 253KPG5GKU6EXJQB
+  port: 17007
+  server: ti3hyra4.slashdevslashnetslashtun.net
+  tfo: false
+  type: ss
+- cipher: aes-256-gcm
+  client-fingerprint: chrome
+  name: 13|🇺🇸 美国5|@ripaojiedian
+  password: UUBUEJ1DLDQVJG7D
+  port: 17003
   server: ti3hyra4.slashdevslashnetslashtun.net
   tfo: false
   type: ss
