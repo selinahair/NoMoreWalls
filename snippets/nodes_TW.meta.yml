@@ -1,17 +1,38 @@
 proxies:
-- name: 0|🇹🇼1 |  1.2MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 1443
-  server: twmoon1-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: twmoon1-cdn-route.couldflare-cdn.com
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 0|🇹🇼1 |  4.7MB/s
+  network: tcp
+  port: 34313
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou02.mysynology.net
+  servername: gateway.icloud.com
   tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- name: 0|🇹🇼2 |  1.2MB/s
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 0|🇹🇼2 |  6.2MB/s
+  network: tcp
+  port: 37809
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou05.mysynology.net
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- cipher: aes-128-gcm
+  name: 0|🇹🇼3 |  1.1MB/s
+  password: VMhGp5wEIyCDf90T
+  port: 64050
+  server: csuzhou01.1cooldns.com
+  type: ss
+- name: 0|🇹🇼4 |  2.9MB/s
   network: ws
-  port: 2096
-  server: 156.225.72.199
+  port: 52001
+  server: 45.87.103.154
   servername: agedgv.ambercc.filegear-sg.me
   skip-cert-verify: true
   tls: true
@@ -22,19 +43,43 @@ proxies:
     headers:
       host: agedgv.ambercc.filegear-sg.me
     path: /?ed=2560
-- name: 0|🇹🇼3 |  6.2MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 59021
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x100.flybar.work
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇹🇼4 |  2.9MB/s
+- cipher: aes-128-gcm
+  name: 0|🇹🇼5 |  3.6MB/s
+  password: VMhGp5wEIyCDf90T
+  port: 15375
+  server: bsuqian01.dynu.net
+  type: ss
+- alterId: 2
+  cipher: auto
+  name: 0|🇹🇼6 |  1.2MB/s
   network: ws
-  port: 50000
-  server: 121.183.90.210
+  port: 23619
+  server: 19.mamamajd.site
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: c04e3868-d4ce-3f4f-b4fa-a230098985c7
+  ws-opts:
+    headers:
+      Host: 19.mamamajd.site
+    path: /
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 0|🇹🇼7 |  6.2MB/s
+  network: tcp
+  port: 12477
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: gy01.hunheiydd.xyz
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- name: 0|🇹🇼8 |  1.4MB/s
+  network: ws
+  port: 443
+  server: 219.76.13.166
   servername: agedgv.ambercc.filegear-sg.me
   skip-cert-verify: true
   tls: true
@@ -47,7 +92,19 @@ proxies:
     path: /?ed=2560
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇹🇼5 |  6.1MB/s
+  name: 0|🇹🇼9 |  4.0MB/s
+  network: tcp
+  port: 50126
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: 141.11.86.24
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 0|🇹🇼10 |  6.2MB/s
   network: tcp
   port: 47531
   reality-opts:
@@ -59,62 +116,37 @@ proxies:
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇹🇼6 |  6.3MB/s
+  name: 0|🇹🇼11 |  7.9MB/s
   network: tcp
-  port: 12477
+  port: 15823
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
   server: gy01.hunheiydd.xyz
-  servername: www.nvidia.com
+  servername: www.yahoo.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇹🇼7 |  2.9MB/s
-  network: ws
-  port: 14407
-  server: 125.136.51.42
-  servername: agedgv.ambercc.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      host: agedgv.ambercc.filegear-sg.me
-    path: /?ed=2560
-- name: 0|🇹🇼8 |  5.2MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 36821
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z262.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇹🇼9 |  1.2MB/s
-  network: ws
-  port: 2096
-  server: 27.50.49.179
-  servername: agedgv.ambercc.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      host: agedgv.ambercc.filegear-sg.me
-    path: /?ed=2560
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇹🇼10 |  5.2MB/s
+  name: 0|🇹🇼12 |  1.1MB/s
   network: tcp
-  port: 13263
+  port: 13391
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: agaungzhou01.bumbleshrimp.com
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 0|🇹🇼13 |  6.0MB/s
+  network: tcp
+  port: 16704
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
   server: zhee01.dynu.net
-  servername: gateway.icloud.com
+  servername: www.yahoo.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45

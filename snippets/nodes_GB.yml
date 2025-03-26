@@ -1,7 +1,7 @@
 proxies:
 - alterId: 2
   cipher: auto
-  name: 0|🇬🇧1 |  2.8MB/s
+  name: 0|🇬🇧5 |  4.6MB/s
   network: ws
   port: 23613
   server: 13.mamamajd.site
@@ -9,14 +9,14 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: aa88fdd8-f054-34dc-9bf4-2cbb611794b4
+  uuid: c04e3868-d4ce-3f4f-b4fa-a230098985c7
   ws-opts:
     headers:
       Host: 13.mamamajd.site
     path: /
 - alterId: 2
   cipher: auto
-  name: 0|🇬🇧5 |  5.2MB/s
+  name: 0|🇬🇧7 |  4.9MB/s
   network: ws
   port: 23605
   server: 5.mamamajd.site
@@ -24,7 +24,7 @@ proxies:
   tls: false
   type: vmess
   udp: true
-  uuid: aa88fdd8-f054-34dc-9bf4-2cbb611794b4
+  uuid: c04e3868-d4ce-3f4f-b4fa-a230098985c7
   ws-opts:
     headers:
       Host: 5.mamamajd.site

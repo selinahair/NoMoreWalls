@@ -1,28 +1,74 @@
 proxies:
+- cipher: aes-256-gcm
+  name: 0|🇺🇸1 |  5.6MB/s
+  password: 4bccdfb7-f45b-44bb-9cd3-fb6f8fc8072f
+  port: 41705
+  server: zf1.10101251.xyz
+  type: ss
+- auth: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  name: 0|🌀1-BD |  3.1MB/s
+  password: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  port: 2019
+  server: tw3.akebi.cc
+  skip-cert-verify: true
+  sni: bd.akebi.cc
+  type: hysteria2
+- auth: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  name: 0|🌀2-TH |  2.8MB/s
+  password: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  port: 2018
+  server: tw3.akebi.cc
+  skip-cert-verify: true
+  sni: th.akebi.cc
+  type: hysteria2
 - flow: xtls-rprx-vision
-  name: 0|🇭🇰1 |  3.4MB/s
+  name: 0|🇭🇰1 |  5.4MB/s
   network: tcp
-  port: 54220
+  port: 11555
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: zhee01.dynu.net
+  server: test123.zlqhdns.top
   servername: www.nvidia.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇺🇸1 |  3.6MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20306
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z306.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇨🇦1 |  4.0MB/s
+- flow: xtls-rprx-vision
+  name: 0|🇹🇼1 |  4.7MB/s
+  network: tcp
+  port: 34313
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou02.mysynology.net
+  servername: gateway.icloud.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇺🇸2 |  5.8MB/s
+  network: tcp
+  port: 22054
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: zhee01.dynu.net
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇺🇸3 |  5.1MB/s
+  network: tcp
+  port: 29023
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou05.mysynology.net
+  servername: www.amazon.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- name: 0|🇰🇷1 |  1.8MB/s
   network: ws
   port: 443
-  server: lewis.ns.cloudflare.com
+  server: 212.183.88.231
   servername: ll.ylkszy.eu.org
   skip-cert-verify: true
   tls: true
@@ -33,10 +79,10 @@ proxies:
     headers:
       host: ll.ylkszy.eu.org
     path: /?ed=2560
-- name: 0|🇰🇷1 |  1.0MB/s
+- name: 0|🇰🇷2 |  4.0MB/s
   network: ws
   port: 443
-  server: 217.163.76.102
+  server: 185.133.35.177
   servername: an.youlingkais.filegear-sg.me
   skip-cert-verify: true
   tls: true
@@ -47,21 +93,10 @@ proxies:
     headers:
       host: an.youlingkais.filegear-sg.me
     path: /?ed=2560
-- flow: xtls-rprx-vision
-  name: 0|🇺🇸2 |  5.9MB/s
-  network: tcp
-  port: 29023
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: shenzhou05.mysynology.net
-  servername: www.amazon.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇨🇦2 |  2.8MB/s
+- name: 0|🇨🇦1 |  3.1MB/s
   network: ws
   port: 443
-  server: 63.141.128.177
+  server: ashton.ns.cloudflare.com
   servername: ll.ylkszy.eu.org
   skip-cert-verify: true
   tls: true
@@ -72,48 +107,91 @@ proxies:
     headers:
       host: ll.ylkszy.eu.org
     path: /?ed=2560
-- name: 0|🇯🇵1 |  4.0MB/s
-  network: ws
-  port: 2095
-  server: 156.238.18.28
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /
 - flow: xtls-rprx-vision
-  name: 0|🇺🇸3 |  5.5MB/s
+  name: 0|🇬🇧1 |  5.8MB/s
   network: tcp
-  port: 21578
+  port: 14659
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: shenzhou05.mysynology.net
-  servername: www.amazon.com
+  server: csuzhou01.1cooldns.com
+  servername: www.nvidia.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇭🇰2 |  5.8MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 28678
-  server: gy.58n.net
+- flow: xtls-rprx-vision
+  name: 0|🌀3-CN |  4.2MB/s
+  network: tcp
+  port: 28680
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou05.mysynology.net
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇹🇼2 |  6.2MB/s
+  network: tcp
+  port: 37809
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou05.mysynology.net
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🌀4-RO |  2.7MB/s
+  network: tcp
+  port: 47096
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou02.mysynology.net
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- alpn:
+  - h3
+  auth_str: dongtaiwang.com
+  down: 55 Mbps
+  name: 0|🇺🇸4 |  5.9MB/s
+  port: 17549
+  server: 208.87.243.151
   skip-cert-verify: true
-  sni: z143.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇯🇵2 |  6.1MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20076
-  server: gy.58n.net
+  sni: www.bing.com
+  type: hysteria
+  up: 11 Mbps
+- name: 0|🇯🇵1 |  5.8MB/s
+  password: exaxgqkKkd0TAMrCxeonWg==
+  port: 443
+  server: jp104-cdn-route.couldflare-cdn.com
+  skip-cert-verify: false
+  sni: jp104-cdn-route.couldflare-cdn.com
+  tls: true
+  type: http
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
+- auth: 61855a60-2540-4add-94fa-b835c18b7251
+  down: 15
+  name: 0|🇷🇺1 |  1.5MB/s
+  obfs: salamander
+  obfs-password: NDhhNmY5YTY0MGYzOTgxYQ==
+  password: 61855a60-2540-4add-94fa-b835c18b7251
+  port: 33007
+  server: 195.133.5.127
   skip-cert-verify: true
-  sni: x76.flybar.work
-  tfo: true
-  type: trojan
+  type: hysteria2
   udp: true
-- name: 0|🌀1- |  4.5MB/s
+  up: 15
+- auth: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  name: 0|🇦🇺1 |  3.2MB/s
+  password: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  port: 2006
+  server: tw3.akebi.cc
+  skip-cert-verify: false
+  sni: au01.akebi.cc
+  type: hysteria2
+- name: 0|🌀5- |  3.0MB/s
   network: ws
   port: 443
   server: kyree.ns.cloudflare.com
@@ -128,287 +206,44 @@ proxies:
       host: an.youlingkais.filegear-sg.me
     path: /?ed=2560
 - flow: xtls-rprx-vision
-  name: 0|🇭🇰3 |  1.7MB/s
+  name: 0|🇯🇵2 |  1.3MB/s
   network: tcp
-  port: 40387
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: bsuqian01.dynu.net
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- flow: ''
-  mode: ''
-  name: 0|🇫🇮1 |  1.4MB/s
-  network: ws
-  port: 2083
-  server: 104.26.14.16
-  servername: bEAt.MIRaclETaxbiTS.Top.
-  tls: true
-  type: vless
-  udp: false
-  uuid: a551374a-3e35-4122-a15a-a9555adba4e0
-  ws-opts:
-    headers:
-      Host: bEAt.MIRaclETaxbiTS.Top.
-    path: /2083/@VRayyNGvpn
-- auth: 82febca6-8856-41fe-84df-c8bda0b72c7b
-  name: 0|🌀2-KZ |  1.6MB/s
-  password: 82febca6-8856-41fe-84df-c8bda0b72c7b
-  port: 2027
-  server: tw3.akebi.cc
-  skip-cert-verify: false
-  sni: kz.akebi.cc
-  type: hysteria2
-- name: 0|🌀3-SE |  5.2MB/s
-  network: ws
-  port: 8880
-  server: 154.83.2.228
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /
-- name: 0|🇹🇼1 |  1.2MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 1443
-  server: twmoon1-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: twmoon1-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- name: 0|🇭🇰4 |  5.9MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20278
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z278.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- flow: xtls-rprx-vision
-  name: 0|🇯🇵3 |  6.2MB/s
-  network: tcp
-  port: 10635
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: shenzhou05.mysynology.net
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🌀4- |  2.8MB/s
-  network: ws
-  port: 443
-  server: 212.183.88.24
-  servername: an.youlingkais.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: an.youlingkais.filegear-sg.me
-    path: /?ed=2560
-- name: 0|🇨🇦4 |  2.1MB/s
-  network: ws
-  port: 443
-  server: www.pcmag.com
-  servername: an.youlingkais.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: an.youlingkais.filegear-sg.me
-    path: /?ed=2560
-- name: 0|🇰🇷2 |  2.5MB/s
-  network: ws
-  port: 443
-  server: ashton.ns.cloudflare.com
-  servername: an.youlingkais.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: an.youlingkais.filegear-sg.me
-    path: /?ed=2560
-- flow: xtls-rprx-vision
-  name: 0|🇺🇸4 |  5.8MB/s
-  network: tcp
-  port: 57926
+  port: 48121
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
   server: beiyong.dynuddns.net
-  servername: gateway.icloud.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇭🇰5 |  6.2MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 24603
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z259.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- flow: xtls-rprx-vision
-  name: 0|🇯🇵4 |  6.8MB/s
-  network: tcp
-  port: 35659
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: shenzhou02.mysynology.net
-  servername: gateway.icloud.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇰🇷3 |  3.7MB/s
-  network: ws
-  port: 443
-  server: 170.39.66.154
-  servername: an.youlingkais.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: an.youlingkais.filegear-sg.me
-    path: /?ed=2560
-- flow: xtls-rprx-vision
-  name: 0|🌀5-CN |  5.5MB/s
-  network: tcp
-  port: 28680
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: shenzhou05.mysynology.net
   servername: www.nvidia.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- allowInsecure: ''
-  name: 0|🌀6- |  3.0MB/s
-  network: ws
-  password: Aimer
-  port: 443
-  server: 43.129.171.137
-  skip-cert-verify: false
-  sni: agepm.ambercc.filegear-sg.me
-  tls: true
-  type: trojan
-  ws-opts:
-    headers:
-      Host: agepm.ambercc.filegear-sg.me
-    path: ''
-- alpn:
-  - h3
-  auth_str: dongtaiwang.com
-  down: 1000 Mbps
-  name: 0|🇷🇺1 |  3.1MB/s
-  port: 10469
-  server: 46.17.41.174
-  skip-cert-verify: true
-  sni: apple.com
-  type: hysteria
-  udp: true
-  up: 100 Mbps
-- client-fingerprint: randomized
-  flow: ''
-  grpc-opts:
-    grpc-service-name: V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban
-  mode: ''
-  name: 0|🇫🇮2 |  5.5MB/s
-  network: grpc
-  port: 8443
-  server: 192.200.160.188
-  servername: crm.iranigamebaz.ir
-  tls: true
-  type: vless
-  udp: false
-  uuid: 54683bd3-1f8e-41e9-8616-9c59b583d284
-- alterId: 2
-  cipher: auto
-  name: 0|🇬🇧1 |  2.8MB/s
-  network: ws
-  port: 23613
-  server: 13.mamamajd.site
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: aa88fdd8-f054-34dc-9bf4-2cbb611794b4
-  ws-opts:
-    headers:
-      Host: 13.mamamajd.site
-    path: /
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇭🇰2 |  1.3MB/s
+  password: 96edc7d4-7490-48ff-99cc-496b0f4a27e9
+  port: 19240
+  server: ss.miloli.cc
+  tfo: false
+  type: ss
 - flow: xtls-rprx-vision
-  name: 0|🇭🇰6 |  5.8MB/s
+  name: 0|🌀6-IL |  4.4MB/s
   network: tcp
-  port: 10860
+  port: 30019
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: test123.zlqhdns.top
-  servername: www.nvidia.com
+  server: agaungzhou01.bumbleshrimp.com
+  servername: www.yahoo.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇭🇰7 |  5.8MB/s
-  network: ws
-  port: 2095
-  server: 156.238.18.246
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /
-- name: 0|🇯🇵5 |  6.6MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20139
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z139.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇰🇷4 |  3.6MB/s
-  network: ws
+- cipher: aes-256-cfb
+  name: 0|🇺🇸5 |  5.2MB/s
+  password: amazonskr05
   port: 443
-  server: www.ipchicken.com
-  servername: an.youlingkais.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: an.youlingkais.filegear-sg.me
-    path: /?ed=2560
+  server: 35.93.21.189
+  type: ss
 - flow: xtls-rprx-vision
-  name: 0|🇯🇵6 |  6.2MB/s
+  name: 0|🌀7-GR |  5.1MB/s
   network: tcp
-  port: 65428
+  port: 12831
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
   server: agaungzhou01.bumbleshrimp.com
@@ -416,167 +251,18 @@ proxies:
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0,15|SC_speednode_0050
-  network: ws
-  port: 8880
-  server: 154.83.2.230
-  servername: redw.pooriam.ir
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  udp: true
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇮🇳1 |  1.1MB/s
-  network: ws
-  port: 80
-  server: 156.238.18.174
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: Telegram@WangCai2/?ed=2560
-- name: 0|🇺🇸6 |  4.4MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 11215
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z268.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇹🇼2 |  1.2MB/s
-  network: ws
-  port: 2096
-  server: 156.225.72.199
-  servername: agedgv.ambercc.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      host: agedgv.ambercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: randomized
-  flow: ''
-  mode: ''
-  name: 0|🌀7- |  3.9MB/s
-  network: ws
-  port: 8080
-  server: 104.19.54.50
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: b8c59cae-73a8-4f44-88f9-4e40a7b94058
-  ws-opts:
-    headers:
-      Host: VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.
-    path: /Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048
 - flow: xtls-rprx-vision
-  name: 0|🌀8-ES |  5.2MB/s
+  name: 0|🇭🇰3 |  3.3MB/s
   network: tcp
-  port: 40581
+  port: 33782
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: bsuqian01.dynu.net
+  server: shenzhou05.mysynology.net
   servername: www.nvidia.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇺🇸7 |  5.7MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20308
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z308.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇺🇸8 |  5.3MB/s
-  network: ws
-  port: 8880
-  server: 154.83.2.230
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /
-- name: 0|🇫🇷1 |  3.0MB/s
-  network: ws
-  port: 8880
-  server: 154.83.2.156
-  skip-cert-verify: false
-  tls: false
-  type: vless
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /
-- name: 0|🇺🇸9 |  3.8MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: ustx004-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: ustx004-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- name: 0|🇺🇸10 |  5.5MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20288
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z288.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- flow: xtls-rprx-vision
-  name: 0|🌀9-MD |  5.2MB/s
-  network: tcp
-  port: 22216
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: bsuqian01.dynu.net
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇺🇸11 |  5.3MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20302
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z302.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇹🇼3 |  6.2MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 59021
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x100.flybar.work
-  tfo: true
-  type: trojan
-  udp: true
-- name: 0|🇹🇼4 |  2.9MB/s
+- name: 0|🇺🇸6 |  3.6MB/s
   network: ws
   port: 50000
   server: 121.183.90.210
@@ -590,57 +276,27 @@ proxies:
     headers:
       host: agedgv.ambercc.filegear-sg.me
     path: /?ed=2560
+- cipher: aes-128-gcm
+  name: 0|🇹🇼3 |  1.1MB/s
+  password: VMhGp5wEIyCDf90T
+  port: 64050
+  server: csuzhou01.1cooldns.com
+  type: ss
 - flow: xtls-rprx-vision
-  name: 0|🇹🇼5 |  6.1MB/s
+  name: 0|🌀8-ES |  4.2MB/s
   network: tcp
-  port: 47531
+  port: 40581
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
   server: bsuqian01.dynu.net
-  servername: gateway.icloud.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- flow: xtls-rprx-vision
-  name: 0|🇹🇼6 |  6.3MB/s
-  network: tcp
-  port: 12477
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: gy01.hunheiydd.xyz
   servername: www.nvidia.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - flow: xtls-rprx-vision
-  name: 0|🌀10-TH |  1.1MB/s
+  name: 0|🇸🇬1 |  6.0MB/s
   network: tcp
-  port: 32193
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: shenzhou02.mysynology.net
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇰🇷5 |  2.8MB/s
-  network: ws
-  port: 443
-  server: otto.ns.cloudflare.com
-  servername: an.youlingkais.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: an.youlingkais.filegear-sg.me
-    path: /?ed=2560
-- flow: xtls-rprx-vision
-  name: 0|🇫🇷2 |  5.3MB/s
-  network: tcp
-  port: 40072
+  port: 56127
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
   server: agaungzhou01.bumbleshrimp.com
@@ -648,424 +304,38 @@ proxies:
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- flow: xtls-rprx-vision
-  name: 0|🇭🇰8 |  6.2MB/s
-  network: tcp
-  port: 31800
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: agaungzhou01.bumbleshrimp.com
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- alterId: 2
-  cipher: auto
-  name: 0|🇮🇳2 |  5.8MB/s
-  network: ws
-  port: 23611
-  server: 11.mamamajd.site
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: aa88fdd8-f054-34dc-9bf4-2cbb611794b4
-  ws-opts:
-    headers:
-      Host: 11.mamamajd.site
-    path: /
-- name: 0|🇭🇰9 |  6.0MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: hkre1-cdn-route.couldflare-cdn.com
+- auth: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  name: 0|🌀9-KZ |  1.9MB/s
+  password: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  port: 2027
+  server: tw3.akebi.cc
   skip-cert-verify: false
-  sni: hkre1-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
+  sni: kz.akebi.cc
+  type: hysteria2
 - alterId: 2
   cipher: auto
-  name: 0|🇺🇸12 |  5.3MB/s
+  name: 0|🇸🇬2 |  3.9MB/s
   network: ws
-  port: 23615
-  server: 15.mamamajd.site
+  port: 23617
+  server: 17.mamamajd.site
   skip-cert-verify: true
   tls: false
   type: vmess
   udp: true
-  uuid: aa88fdd8-f054-34dc-9bf4-2cbb611794b4
+  uuid: c04e3868-d4ce-3f4f-b4fa-a230098985c7
   ws-opts:
     headers:
-      Host: 15.mamamajd.site
-    path: /
-- name: 0|🇹🇼7 |  2.9MB/s
-  network: ws
-  port: 14407
-  server: 125.136.51.42
-  servername: agedgv.ambercc.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      host: agedgv.ambercc.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇬🇧2 |  4.1MB/s
-  network: ws
-  port: 2095
-  server: 156.238.18.60
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /Telegram@V2ray_Alpha/?ed=2560
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇯🇵7 |  4.5MB/s
-  network: ws
-  port: 8880
-  server: 185.170.166.242
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
-  ws-opts:
-    headers:
-      Host: photographipictureai.ir
+      Host: 17.mamamajd.site
     path: /
 - auth: 82febca6-8856-41fe-84df-c8bda0b72c7b
-  name: 0|🌀11-TH |  1.2MB/s
+  name: 0|🇭🇰4 |  4.9MB/s
   password: 82febca6-8856-41fe-84df-c8bda0b72c7b
-  port: 2024
+  port: 2000
   server: tw3.akebi.cc
-  skip-cert-verify: true
-  sni: th.akebi.cc
+  skip-cert-verify: false
+  sni: hk03.akebi.cc
   type: hysteria2
-- name: 0|🇸🇬1 |  5.5MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20299
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x299.flybar.work
-  tfo: true
-  type: trojan
-  udp: true
-- flow: xtls-rprx-vision
-  name: 0|🌀12-TH |  6.3MB/s
-  network: tcp
-  port: 16955
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: bsuqian01.dynu.net
-  servername: www.yahoo.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- flow: xtls-rprx-vision
-  name: 0|🇯🇵8 |  6.2MB/s
-  network: tcp
-  port: 25768
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: bsuqian01.dynu.net
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- flow: xtls-rprx-vision
-  name: 0|🇷🇺2 |  3.0MB/s
-  network: tcp
-  port: 20216
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: shenzhou05.mysynology.net
-  servername: www.amazon.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇹🇼8 |  5.2MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 36821
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z262.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇯🇵9 |  1.6MB/s
-  network: ws
-  port: 80
-  server: 156.238.18.51
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: Telegram🇨🇳 @WangCai2 /?ed=2560
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇺🇸13 |  3.5MB/s
-  network: ws
-  port: 80
-  server: 45.131.4.82
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: 301.pooriam.ir
-    path: /
-- name: 0|🇺🇸14 |  5.0MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20303
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z303.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- flow: xtls-rprx-vision
-  name: 0|🌀13-RO |  3.3MB/s
-  network: tcp
-  port: 39607
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: agaungzhou01.bumbleshrimp.com
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇯🇵10 |  6.0MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20142
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z142.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇬🇧3 |  4.4MB/s
-  network: ws
-  port: 8880
-  server: 45.149.12.201
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
-  ws-opts:
-    headers:
-      Host: photographipictureai.ir
-    path: /TABRIZ.NET, @Azarbayjab1.googleapis.com, @Azarbayjab1@Azarbayjab1/?ed=tabrizm137.com
-- flow: xtls-rprx-vision
-  name: 0|🇺🇸15 |  5.4MB/s
-  network: tcp
-  port: 46372
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: zhee01.dynu.net
-  servername: www.amazon.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- country: 🇺🇸US
-  name: 0|🇺🇸16 |  3.3MB/s
-  password: 0aed82ca-fd08-11ef-8cf9-f23c93136cb3
-  port: 443
-  server: 107.167.18.123
-  skip-cert-verify: true
-  sni: 06a68208-st69s0-su9bm5-1phl.la.shifen.uk
-  type: hysteria2
-  udp: true
-- flow: xtls-rprx-vision
-  name: 0|🇬🇧4 |  5.2MB/s
-  network: tcp
-  port: 32055
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: csuzhou01.1cooldns.com
-  servername: www.amazon.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇺🇸17 |  5.5MB/s
-  network: ws
-  port: 80
-  server: 156.238.19.232
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: Telegram🇨🇳 @WangCai2
-- name: 0|🇹🇼9 |  1.2MB/s
-  network: ws
-  port: 2096
-  server: 27.50.49.179
-  servername: agedgv.ambercc.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
-  ws-opts:
-    headers:
-      host: agedgv.ambercc.filegear-sg.me
-    path: /?ed=2560
-- flow: xtls-rprx-vision
-  name: 0|🇭🇰10 |  4.7MB/s
-  network: tcp
-  port: 33782
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: shenzhou05.mysynology.net
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇩🇪1 |  5.6MB/s
-  network: ws
-  port: 80
-  server: 156.238.18.205
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: Telegram🇨🇳 @WangCai2
-- name: 0|🌀14- |  6.4MB/s
-  network: ws
-  port: 443
-  server: 212.183.88.231
-  servername: an.youlingkais.filegear-sg.me
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: an.youlingkais.filegear-sg.me
-    path: /?ed=2560
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇫🇮3 |  4.6MB/s
-  network: ws
-  port: 80
-  server: 45.131.4.247
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: 301.pooriam.ir
-    path: Telegram🇨🇳 @WangCai2
-- flow: xtls-rprx-vision
-  name: 0|🌀15-SA |  5.2MB/s
-  network: tcp
-  port: 60677
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: agaungzhou01.bumbleshrimp.com
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- flow: xtls-rprx-vision
-  name: 0|🇭🇰11 |  4.2MB/s
-  network: tcp
-  port: 46716
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: agaungzhou01.bumbleshrimp.com
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇯🇵11 |  6.1MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20300
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z300.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇺🇸18 |  2.3MB/s
-  network: ws
-  port: 80
-  server: 156.238.18.99
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: ''
-- name: 0|🇸🇬2 |  6.2MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20129
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x129.flybar.work
-  tfo: true
-  type: trojan
-  udp: true
-- flow: xtls-rprx-vision
-  name: 0|🇺🇸19 |  4.7MB/s
-  network: tcp
-  port: 27932
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: zhee01.dynu.net
-  servername: www.amazon.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇨🇦5 |  3.9MB/s
+- name: 0|🇨🇦2 |  1.2MB/s
   network: ws
   port: 443
   server: julio.ns.cloudflare.com
@@ -1079,234 +349,139 @@ proxies:
     headers:
       host: an.youlingkais.filegear-sg.me
     path: /?ed=2560
-- flow: xtls-rprx-vision
-  name: 0|🇭🇰12 |  6.1MB/s
-  network: tcp
-  port: 45883
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: gy01.hunheiydd.xyz
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- flow: xtls-rprx-vision
-  name: 0|🇺🇸20 |  5.4MB/s
-  network: tcp
-  port: 40430
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: shenzhou02.mysynology.net
-  servername: www.yahoo.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- flow: xtls-rprx-vision
-  name: 0|🌀16-RO |  4.3MB/s
-  network: tcp
-  port: 47096
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: shenzhou02.mysynology.net
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇰🇷6 |  4.5MB/s
+- name: 0|🇹🇼4 |  2.9MB/s
   network: ws
-  port: 443
-  server: huxley.ns.cloudflare.com
-  servername: ll.ylkszy.eu.org
+  port: 52001
+  server: 45.87.103.154
+  servername: agedgv.ambercc.filegear-sg.me
   skip-cert-verify: true
   tls: true
   type: vless
   udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
   ws-opts:
     headers:
-      host: ll.ylkszy.eu.org
+      host: agedgv.ambercc.filegear-sg.me
     path: /?ed=2560
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇩🇪2 |  5.1MB/s
-  network: ws
-  port: 80
-  server: polproxy.fastly80.hosting-ip.com
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: 7fcc2dd9-ff04-4db3-9dee-e1fd2b2e2983
-  ws-opts:
-    headers:
-      Host: moienam.com
-    path: /telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram-@polproxy,telegram?ed=2048
+- cipher: aes-128-gcm
+  name: 0|🇹🇼5 |  3.6MB/s
+  password: VMhGp5wEIyCDf90T
+  port: 15375
+  server: bsuqian01.dynu.net
+  type: ss
+- cipher: aes-256-cfb
+  name: 0|🇯🇵3 |  2.0MB/s
+  password: amazonskr05
+  port: 443
+  server: 54.199.103.26
+  type: ss
 - flow: xtls-rprx-vision
-  name: 0|🇺🇸21 |  4.9MB/s
+  name: 0|🇺🇸7 |  6.0MB/s
   network: tcp
-  port: 64654
+  port: 46372
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
   server: zhee01.dynu.net
-  servername: gateway.icloud.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- flow: xtls-rprx-vision
-  name: 0|🇨🇦6 |  4.2MB/s
-  network: tcp
-  port: 16011
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: gy01.hunheiydd.xyz
   servername: www.amazon.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - flow: xtls-rprx-vision
-  name: 0|🇯🇵12 |  5.6MB/s
+  name: 0|🌀10-EG |  9.8MB/s
   network: tcp
-  port: 48121
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: beiyong.dynuddns.net
-  servername: www.nvidia.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇯🇵13 |  5.5MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 54178
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x115.flybar.work
-  tfo: true
-  type: trojan
-  udp: true
-- flow: xtls-rprx-vision
-  name: 0|🇹🇼10 |  5.2MB/s
-  network: tcp
-  port: 13263
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: zhee01.dynu.net
-  servername: gateway.icloud.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- flow: xtls-rprx-vision
-  name: 0|🇺🇸22 |  5.8MB/s
-  network: tcp
-  port: 30206
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: bsuqian01.dynu.net
-  servername: addons.mozilla.org
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇰🇷7 |  4.5MB/s
-  network: ws
-  port: 443
-  server: craig.ns.cloudflare.com
-  servername: ll.ylkszy.eu.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      host: ll.ylkszy.eu.org
-    path: /?ed=2560
-- alpn:
-  - h3
-  auth_str: dongtaiwang.com
-  down: 1000 Mbps
-  name: 0|🇺🇸23 |  4.8MB/s
-  port: 11512
-  server: 108.181.24.77
-  skip-cert-verify: true
-  sni: apple.com
-  type: hysteria
-  udp: true
-  up: 1000 Mbps
-- alterId: 2
-  cipher: auto
-  name: 0|🇩🇪3 |  5.2MB/s
-  network: ws
-  port: 23616
-  server: 16.mamamajd.site
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: aa88fdd8-f054-34dc-9bf4-2cbb611794b4
-  ws-opts:
-    headers:
-      Host: 16.mamamajd.site
-    path: /
-- flow: xtls-rprx-vision
-  name: 0|🇮🇳3 |  4.8MB/s
-  network: tcp
-  port: 12791
+  port: 29316
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
   server: agaungzhou01.bumbleshrimp.com
-  servername: www.yahoo.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- alterId: 2
-  cipher: auto
-  name: 0|🇬🇧5 |  5.2MB/s
-  network: ws
-  port: 23605
-  server: 5.mamamajd.site
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: aa88fdd8-f054-34dc-9bf4-2cbb611794b4
-  ws-opts:
-    headers:
-      Host: 5.mamamajd.site
-    path: /
-- flow: xtls-rprx-vision
-  name: 0|🇬🇧6 |  2.7MB/s
-  network: tcp
-  port: 65053
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: beiyong.dynuddns.net
   servername: www.amazon.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- auth: 82febca6-8856-41fe-84df-c8bda0b72c7b
-  name: 0|🇦🇺1 |  3.4MB/s
-  password: 82febca6-8856-41fe-84df-c8bda0b72c7b
-  port: 2006
-  server: tw3.akebi.cc
+- flow: ''
+  grpc-opts:
+    grpc-service-name: Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs_Telegram_configMs
+  mode: ''
+  name: 0|🇩🇪1 |  2.6MB/s
+  network: grpc
+  port: 443
+  reality-opts:
+    public-key: 0JBrLAhqlbIWkAH1VAFno9w-XpAhjGhhWPG4qw7vlQw
+    short-id: d656c301bc0904
+  server: 91.107.166.17
+  servername: www.cdn77.com
+  tls: true
+  type: vless
+  udp: false
+  uuid: 511b10d9-27dc-471e-85a6-76eb2c236207
+- auth: 597dc9ce-5ce8-4ff5-833b-76cd4e5789e1
+  name: 0|🇬🇧2 |  4.5MB/s
+  password: 597dc9ce-5ce8-4ff5-833b-76cd4e5789e1
+  port: 8443
+  server: yg1.gywanglug.xyz
   skip-cert-verify: false
-  sni: au01.akebi.cc
+  sni: yg1.gywanglug.xyz
   type: hysteria2
-- alpn:
-  - h3
-  auth_str: dongtaiwang.com
-  down: 55 Mbps
-  name: 0|🇺🇸24 |  4.4MB/s
-  port: 17549
-  server: 208.87.243.151
-  skip-cert-verify: true
-  sni: www.bing.com
-  type: hysteria
-  up: 11 Mbps
-- name: 0|🇨🇦7 |  5.9MB/s
+- name: 0|🌀11- |  3.2MB/s
   network: ws
   port: 443
-  server: benedict.ns.cloudflare.com
+  server: rustam.ns.cloudflare.com
+  servername: ll.ylkszy.eu.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  ws-opts:
+    headers:
+      host: ll.ylkszy.eu.org
+    path: /?ed=2560
+- name: 0|🌀12- |  3.2MB/s
+  network: ws
+  port: 443
+  server: iplocation.io
+  servername: ll.ylkszy.eu.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  ws-opts:
+    headers:
+      host: ll.ylkszy.eu.org
+    path: /?ed=2560
+- alterId: 2
+  cipher: auto
+  name: 0|🇹🇼6 |  1.2MB/s
+  network: ws
+  port: 23619
+  server: 19.mamamajd.site
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: c04e3868-d4ce-3f4f-b4fa-a230098985c7
+  ws-opts:
+    headers:
+      Host: 19.mamamajd.site
+    path: /
+- name: 0|🌀13- |  1.3MB/s
+  network: ws
+  port: 443
+  server: www.udemy.com
+  servername: ll.ylkszy.eu.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  ws-opts:
+    headers:
+      host: ll.ylkszy.eu.org
+    path: /?ed=2560
+- name: 0|🇨🇦3 |  1.3MB/s
+  network: ws
+  port: 443
+  server: 212.183.88.200
   servername: an.youlingkais.filegear-sg.me
   skip-cert-verify: true
   tls: true
@@ -1317,21 +492,37 @@ proxies:
     headers:
       host: an.youlingkais.filegear-sg.me
     path: /?ed=2560
+- flow: ''
+  grpc-opts:
+    grpc-service-name: Join---MTMVPN-Join---MTMVPN-Join---MTMVPN-Join---MTMVPN
+  mode: gun
+  name: 0|🇩🇪2 |  5.8MB/s
+  network: grpc
+  port: 443
+  reality-opts:
+    public-key: euMUHS3boiZ0500KTjnU9l_RTX1RP9VFOGEo82gFUyE
+    short-id: ce1be0
+  server: mehdi20.vact.ir
+  servername: www.cdn77.com
+  tls: true
+  type: vless
+  udp: false
+  uuid: ce55572f-1c5c-4542-aef9-560398e25661
 - flow: xtls-rprx-vision
-  name: 0|🇭🇰13 |  2.2MB/s
+  name: 0|🇬🇧3 |  5.6MB/s
   network: tcp
-  port: 23657
+  port: 65053
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: gy01.hunheiydd.xyz
-  servername: www.nvidia.com
+  server: beiyong.dynuddns.net
+  servername: www.amazon.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - flow: xtls-rprx-vision
-  name: 0|🇺🇦1 |  3.7MB/s
+  name: 0|🇬🇧4 |  5.1MB/s
   network: tcp
-  port: 38400
+  port: 35311
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
   server: shenzhou02.mysynology.net
@@ -1339,70 +530,154 @@ proxies:
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇸🇬3 |  6.4MB/s
-  password: myszy28811
-  port: 28811
-  server: pipi.myddns.me
-  type: socks5
-  udp: true
-  username: myszy
 - flow: xtls-rprx-vision
-  name: 0|🇬🇧7 |  5.6MB/s
+  name: 0|🇭🇰5 |  6.1MB/s
   network: tcp
-  port: 14659
+  port: 31800
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: csuzhou01.1cooldns.com
+  server: agaungzhou01.bumbleshrimp.com
   servername: www.nvidia.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - flow: xtls-rprx-vision
-  name: 0|🇸🇬4 |  5.8MB/s
+  name: 0|🇭🇰6 |  1.4MB/s
   network: tcp
-  port: 44003
+  port: 61178
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: csuzhou01.1cooldns.com
+  server: test123.zlqhdns.top
   servername: www.nvidia.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇯🇵14 |  6.1MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 443
-  server: jp104-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: jp104-cdn-route.couldflare-cdn.com
+- flow: xtls-rprx-vision
+  name: 0|🇹🇼7 |  6.2MB/s
+  network: tcp
+  port: 12477
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: gy01.hunheiydd.xyz
+  servername: www.nvidia.com
   tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- auth: c8ed6f77-3a96-46f9-9959-79118f9c1019
-  name: 0|🇵🇱1 |  4.1MB/s
-  password: c8ed6f77-3a96-46f9-9959-79118f9c1019
-  port: 53252
-  server: 85.194.246.115
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- alpn:
+  - h3
+  auth_str: dongtaiwang.com
+  down: 1000 Mbps
+  name: 0|🇷🇺2 |  6.2MB/s
+  port: 10469
+  server: 46.17.41.174
   skip-cert-verify: true
-  sni: www.bing.com
-  type: hysteria2
-- client-fingerprint: randomized
-  flow: ''
-  mode: ''
-  name: 0|🇫🇮4 |  3.4MB/s
+  sni: apple.com
+  type: hysteria
+  udp: true
+  up: 100 Mbps
+- flow: xtls-rprx-vision
+  name: 0|🇭🇰7 |  6.2MB/s
+  network: tcp
+  port: 25135
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: zhee01.dynu.net
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇯🇵4 |  6.3MB/s
+  network: tcp
+  port: 14548
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: csuzhou01.1cooldns.com
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- alterId: 2
+  cipher: auto
+  name: 0|🇬🇧5 |  4.6MB/s
   network: ws
-  port: 2087
-  server: Vpnmizban.iranigamebaz.ir
-  servername: crm.iranigamebaz.ir
+  port: 23613
+  server: 13.mamamajd.site
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: c04e3868-d4ce-3f4f-b4fa-a230098985c7
+  ws-opts:
+    headers:
+      Host: 13.mamamajd.site
+    path: /
+- cipher: aes-256-cfb
+  name: 0|🇯🇵5 |  6.1MB/s
+  password: amazonskr05
+  port: 443
+  server: 43.207.157.253
+  type: ss
+- flow: ''
+  mode: ''
+  name: 0|🇫🇮1 |  4.0MB/s
+  network: ws
+  port: 2083
+  server: 172.67.69.236
+  servername: bEAt.MIRaclETaxbiTS.Top.
   tls: true
   type: vless
   udp: false
-  uuid: 51435e51-e048-4a32-a9e6-1e6fa56a576d
+  uuid: a551374a-3e35-4122-a15a-a9555adba4e0
   ws-opts:
     headers:
-      Host: crm.iranigamebaz.ir
-    path: /V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban------V2RayMizban
+      Host: bEAt.MIRaclETaxbiTS.Top.
+    path: /2083/@VRayyNGvpn
+- cipher: aes-256-cfb
+  name: 0|🇺🇸8 |  2.0MB/s
+  password: amazonskr05
+  port: 443
+  server: 54.185.253.219
+  type: ss
+- fast-open: true
+  name: 0|🇷🇺3 |  5.3MB/s
+  password: dongtaiwang.com
+  port: 18626
+  server: 46.29.163.171
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+- alterId: 2
+  cipher: auto
+  name: 0|🇮🇳1 |  6.2MB/s
+  network: ws
+  port: 23611
+  server: 11.mamamajd.site
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: c04e3868-d4ce-3f4f-b4fa-a230098985c7
+  ws-opts:
+    headers:
+      Host: 11.mamamajd.site
+    path: /
+- name: 0|🇹🇼8 |  1.4MB/s
+  network: ws
+  port: 443
+  server: 219.76.13.166
+  servername: agedgv.ambercc.filegear-sg.me
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: ee6774c0-9b19-4ff1-8b30-2da4b71977e2
+  ws-opts:
+    headers:
+      host: agedgv.ambercc.filegear-sg.me
+    path: /?ed=2560
 - flow: xtls-rprx-vision
-  name: 0|🌀17-RO |  2.3MB/s
+  name: 0|🌀14-RO |  5.2MB/s
   network: tcp
   port: 17930
   reality-opts:
@@ -1413,9 +688,115 @@ proxies:
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - flow: xtls-rprx-vision
-  name: 0|🌀18-CZ |  2.1MB/s
+  name: 0|🇷🇺4 |  4.0MB/s
   network: tcp
-  port: 14288
+  port: 20216
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou05.mysynology.net
+  servername: www.amazon.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇺🇸9 |  5.0MB/s
+  network: tcp
+  port: 65428
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: agaungzhou01.bumbleshrimp.com
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- auth: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  name: 0|🌀15-IS |  2.0MB/s
+  password: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  port: 2003
+  server: tw3.akebi.cc
+  skip-cert-verify: false
+  sni: is01.akebi.cc
+  type: hysteria2
+- flow: xtls-rprx-vision
+  name: 0|🇭🇰8 |  3.9MB/s
+  network: tcp
+  port: 24318
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: test123.zlqhdns.top
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- alterId: 2
+  cipher: auto
+  name: 0|🇩🇪3 |  2.7MB/s
+  network: ws
+  port: 23616
+  server: 16.mamamajd.site
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: c04e3868-d4ce-3f4f-b4fa-a230098985c7
+  ws-opts:
+    headers:
+      Host: 16.mamamajd.site
+    path: /
+- flow: xtls-rprx-vision
+  mode: ''
+  name: 0|🇬🇧6 |  5.5MB/s
+  network: tcp
+  port: 8443
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: ''
+  server: 3.8.133.12
+  servername: zula.ir
+  tls: true
+  type: vless
+  udp: false
+  uuid: b285432e-8677-40e3-a86a-ca167cd9d5bd
+- flow: xtls-rprx-vision
+  name: 0|🇭🇰9 |  5.9MB/s
+  network: tcp
+  port: 12597
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: beiyong.dynuddns.net
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇹🇼9 |  4.0MB/s
+  network: tcp
+  port: 50126
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: 141.11.86.24
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇳🇱1 |  4.0MB/s
+  password: QCXDxuDlTTMD7jtgHUjIoj
+  port: 8080
+  server: 45.158.171.132
+  type: ss
+- auth: 88925c12-4222-4ed3-84bd-6bfac300360f
+  name: 0|🇳🇱2 |  2.6MB/s
+  password: 88925c12-4222-4ed3-84bd-6bfac300360f
+  port: 8443
+  server: hl1.gywanglug.xyz
+  skip-cert-verify: false
+  sni: hl1.gywanglug.xyz
+  type: hysteria2
+- flow: xtls-rprx-vision
+  name: 0|🇭🇰10 |  3.1MB/s
+  network: tcp
+  port: 46716
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
   server: agaungzhou01.bumbleshrimp.com
@@ -1424,9 +805,69 @@ proxies:
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - flow: xtls-rprx-vision
-  name: 0|🇯🇵15 |  5.9MB/s
+  name: 0|🇺🇦1 |  5.1MB/s
   network: tcp
-  port: 16497
+  port: 33048
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou02.mysynology.net
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🌀16-RO |  5.2MB/s
+  network: tcp
+  port: 39607
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: agaungzhou01.bumbleshrimp.com
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇯🇵6 |  6.0MB/s
+  network: tcp
+  port: 13989
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: csuzhou01.1cooldns.com
+  servername: gateway.icloud.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- client-fingerprint: randomized
+  flow: ''
+  mode: ''
+  name: 0|🇩🇪4 |  5.6MB/s
+  network: ws
+  port: 8080
+  server: 104.19.54.50
+  servername: ''
+  tls: false
+  type: vless
+  udp: false
+  uuid: b8c59cae-73a8-4f44-88f9-4e40a7b94058
+  ws-opts:
+    headers:
+      Host: VPNCUSTOMIZE.www.webdade.com.www.speedtest.net.irna.ir.ips.ddns-ip.net.
+    path: /Channel----VPNCUSTOMIZE----VPNCUSTOMIZE----VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE---VPNCUSTOMIZE?ed=2048
+- flow: xtls-rprx-vision
+  name: 0|🇺🇸10 |  5.6MB/s
+  network: tcp
+  port: 30206
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: bsuqian01.dynu.net
+  servername: addons.mozilla.org
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇭🇰11 |  5.8MB/s
+  network: tcp
+  port: 35853
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
   server: zhee01.dynu.net
@@ -1434,20 +875,394 @@ proxies:
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇰🇷8 |  1.1MB/s
-  network: ws
-  port: 443
-  server: uriah.ns.cloudflare.com
-  servername: an.youlingkais.filegear-sg.me
+- auth: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  name: 0|🇭🇰12 |  5.3MB/s
+  password: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  port: 2021
+  server: tw3.akebi.cc
+  skip-cert-verify: false
+  sni: hk03.akebi.cc
+  type: hysteria2
+- flow: xtls-rprx-vision
+  name: 0|🇭🇰13 |  6.2MB/s
+  network: tcp
+  port: 40387
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: bsuqian01.dynu.net
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇸🇬3 |  6.0MB/s
+  network: tcp
+  port: 44003
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: csuzhou01.1cooldns.com
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🌀17-TH |  6.2MB/s
+  network: tcp
+  port: 16955
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: bsuqian01.dynu.net
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇯🇵7 |  6.1MB/s
+  network: tcp
+  port: 10635
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou05.mysynology.net
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇺🇸11 |  5.3MB/s
+  network: tcp
+  port: 30274
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: gy01.hunheiydd.xyz
+  servername: gateway.icloud.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇯🇵8 |  6.2MB/s
+  network: tcp
+  port: 17278
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou05.mysynology.net
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇹🇼10 |  6.2MB/s
+  network: tcp
+  port: 47531
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: bsuqian01.dynu.net
+  servername: gateway.icloud.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇺🇸12 |  5.4MB/s
+  network: tcp
+  port: 40430
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou02.mysynology.net
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇹🇼11 |  7.9MB/s
+  network: tcp
+  port: 15823
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: gy01.hunheiydd.xyz
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- cipher: chacha20-ietf-poly1305
+  name: 0|🇰🇷3 |  5.2MB/s
+  password: 96edc7d4-7490-48ff-99cc-496b0f4a27e9
+  port: 31778
+  server: xm.miloli.cc
+  tfo: false
+  type: ss
+- flow: xtls-rprx-vision
+  name: 0|🇭🇰14 |  1.0MB/s
+  network: tcp
+  port: 23657
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: gy01.hunheiydd.xyz
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🌀18-TH |  2.1MB/s
+  network: tcp
+  port: 32193
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou02.mysynology.net
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- auth: 5CBqBh6MeDq6GajcilBiDg==
+  name: 0|🇺🇸13 |  1.1MB/s
+  password: 5CBqBh6MeDq6GajcilBiDg==
+  port: 61001
+  server: 192-227-152-86.nip.io
   skip-cert-verify: true
+  sni: 192-227-152-86.nip.io
+  type: hysteria2
+- auth: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  name: 0|🌀19-TH |  1.4MB/s
+  password: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  port: 2024
+  server: tw3.akebi.cc
+  skip-cert-verify: true
+  sni: th.akebi.cc
+  type: hysteria2
+- name: 0|🇭🇰15 |  6.2MB/s
+  password: exaxgqkKkd0TAMrCxeonWg==
+  port: 443
+  server: hkre1-cdn-route.couldflare-cdn.com
+  skip-cert-verify: false
+  sni: hkre1-cdn-route.couldflare-cdn.com
+  tls: true
+  type: http
+  username: mrwdfNTD8M79LCukCieldrqZWqs=
+- cipher: aes-256-cfb
+  name: 0|🇺🇸14 |  3.4MB/s
+  password: amazonskr05
+  port: 443
+  server: 52.27.128.220
+  type: ss
+- flow: xtls-rprx-vision
+  name: 0|🇫🇷1 |  1.0MB/s
+  network: tcp
+  port: 22234
+  reality-opts:
+    public-key: tVDaWxsy54q7yRNRdJ718Gyt2HDoh_3R2y_PX22hhjM
+    short-id: 95c93be9
+  server: 195.154.56.233
+  servername: www.yahoo.com
+  skip-cert-verify: false
+  sni: www.yahoo.com
   tls: true
   type: vless
   udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  uuid: 22a54b72-9c39-4bb0-97d0-41bbaaca2a67
+- flow: xtls-rprx-vision
+  name: 0|🌀20-MD |  7.6MB/s
+  network: tcp
+  port: 22216
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: bsuqian01.dynu.net
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- cipher: aes-256-gcm
+  name: 0|🌀21- |  6.2MB/s
+  password: 9acfc574-acc3-4c2b-ab3b-491d43a6eb83
+  port: 21115
+  server: okanc.node-is.green
+  type: ss
+- flow: xtls-rprx-vision
+  name: 0|🇫🇷2 |  5.2MB/s
+  network: tcp
+  port: 40072
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: agaungzhou01.bumbleshrimp.com
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- alterId: 2
+  cipher: auto
+  name: 0|🇬🇧7 |  4.9MB/s
+  network: ws
+  port: 23605
+  server: 5.mamamajd.site
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: c04e3868-d4ce-3f4f-b4fa-a230098985c7
   ws-opts:
     headers:
-      host: an.youlingkais.filegear-sg.me
-    path: /?ed=2560
+      Host: 5.mamamajd.site
+    path: /
+- cipher: rc4-md5
+  name: 0|🇺🇸15 |  5.3MB/s
+  obfs: plain
+  password: dfa917baa06bee2e
+  port: 23691
+  protocol: origin
+  server: 38.107.226.99
+  type: ssr
+- alpn:
+  - h3
+  auth_str: dongtaiwang.com
+  down: 1000 Mbps
+  name: 0|🇺🇸16 |  5.2MB/s
+  port: 11512
+  server: 108.181.24.77
+  skip-cert-verify: true
+  sni: apple.com
+  type: hysteria
+  udp: true
+  up: 1000 Mbps
+- flow: xtls-rprx-vision
+  name: 0|🇯🇵9 |  6.7MB/s
+  network: tcp
+  port: 25768
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: bsuqian01.dynu.net
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- auth: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  name: 0|🇭🇰16 |  1.2MB/s
+  password: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  port: 1000
+  server: tw.akebi.cc
+  skip-cert-verify: false
+  sni: hk03.akebi.cc
+  type: hysteria2
+- auth: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  name: 0|🇫🇷3 |  2.8MB/s
+  password: 82febca6-8856-41fe-84df-c8bda0b72c7b
+  port: 2005
+  server: tw3.akebi.cc
+  skip-cert-verify: false
+  sni: fr01.akebi.cc
+  type: hysteria2
+- flow: xtls-rprx-vision
+  name: 0|🇭🇰17 |  5.3MB/s
+  network: tcp
+  port: 45883
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: gy01.hunheiydd.xyz
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇺🇸17 |  5.1MB/s
+  network: tcp
+  port: 19620
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou05.mysynology.net
+  servername: www.amazon.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- auth: f24997a2-ce10-4096-a619-1ae6dc818ef1
+  down: 100
+  name: 0|🌀22-CN |  4.4MB/s
+  obfs: salamander
+  obfs-password: M2UyNTc5OWUwYjkyM2Q2OQ==
+  password: f24997a2-ce10-4096-a619-1ae6dc818ef1
+  port: 31003
+  server: 212.192.12.56
+  skip-cert-verify: true
+  type: hysteria2
+  udp: true
+  up: 100
+- flow: xtls-rprx-vision
+  name: 0|🇹🇼12 |  1.1MB/s
+  network: tcp
+  port: 13391
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: agaungzhou01.bumbleshrimp.com
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- alpn:
+  - h3
+  auth_str: dongtaiwang.com
+  down: 1000 Mbps
+  name: 0|🇫🇷4 |  5.8MB/s
+  port: 44557
+  server: 195.154.200.178
+  servername: apple.com
+  skip-cert-verify: true
+  tls: true
+  type: hysteria
+  up: 1000 Mbps
+- flow: xtls-rprx-vision
+  name: 0|🇹🇼13 |  6.0MB/s
+  network: tcp
+  port: 16704
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: zhee01.dynu.net
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇭🇰18 |  6.3MB/s
+  network: tcp
+  port: 54220
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: zhee01.dynu.net
+  servername: www.nvidia.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: xtls-rprx-vision
+  name: 0|🇯🇵10 |  4.4MB/s
+  network: tcp
+  port: 35659
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou02.mysynology.net
+  servername: gateway.icloud.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- flow: ''
+  mode: ''
+  name: 0|🇫🇮2 |  2.3MB/s
+  network: ws
+  port: 2083
+  server: 104.26.15.16
+  servername: bEAt.MIRaclETaxbiTS.Top.
+  tls: true
+  type: vless
+  udp: false
+  uuid: a551374a-3e35-4122-a15a-a9555adba4e0
+  ws-opts:
+    headers:
+      Host: bEAt.MIRaclETaxbiTS.Top.
+    path: /2083/@VRayyNGvpn
+- flow: xtls-rprx-vision
+  name: 0|🇬🇧8 |  5.5MB/s
+  network: tcp
+  port: 32055
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: csuzhou01.1cooldns.com
+  servername: www.amazon.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - name: '7,12|@vpnv2rayNGv #3'
   obfs: salamander
   obfs-password: KevinZakarian
@@ -1993,6 +1808,20 @@ proxies:
   network: ws
   port: 8880
   server: 154.83.2.156
+  servername: redw.pooriam.ir
+  skip-cert-verify: false
+  tls: false
+  type: vless
+  udp: true
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
+  ws-opts:
+    headers:
+      Host: redw.pooriam.ir
+    path: /@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1@AZARBAYJAB1?ed=2560
+- name: 15|SC_speednode_0050
+  network: ws
+  port: 8880
+  server: 154.83.2.230
   servername: redw.pooriam.ir
   skip-cert-verify: false
   tls: false

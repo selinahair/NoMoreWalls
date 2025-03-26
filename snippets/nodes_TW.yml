@@ -1,22 +1,31 @@
 proxies:
-- name: 0|🇹🇼3 |  6.2MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 59021
-  server: gy.58n.net
+- cipher: aes-128-gcm
+  name: 0|🇹🇼3 |  1.1MB/s
+  password: VMhGp5wEIyCDf90T
+  port: 64050
+  server: csuzhou01.1cooldns.com
+  type: ss
+- cipher: aes-128-gcm
+  name: 0|🇹🇼5 |  3.6MB/s
+  password: VMhGp5wEIyCDf90T
+  port: 15375
+  server: bsuqian01.dynu.net
+  type: ss
+- alterId: 2
+  cipher: auto
+  name: 0|🇹🇼6 |  1.2MB/s
+  network: ws
+  port: 23619
+  server: 19.mamamajd.site
   skip-cert-verify: true
-  sni: x100.flybar.work
-  tfo: true
-  type: trojan
+  tls: false
+  type: vmess
   udp: true
-- name: 0|🇹🇼8 |  5.2MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 36821
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z262.hongkongnode.top
-  tfo: true
-  type: trojan
-  udp: true
+  uuid: c04e3868-d4ce-3f4f-b4fa-a230098985c7
+  ws-opts:
+    headers:
+      Host: 19.mamamajd.site
+    path: /
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 13|🇹🇼 台湾2|@ripaojiedian

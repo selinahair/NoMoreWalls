@@ -1,22 +1,19 @@
 proxies:
-- name: 0|🇸🇬1 |  5.5MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20299
-  server: gy.58n.net
+- alterId: 2
+  cipher: auto
+  name: 0|🇸🇬2 |  3.9MB/s
+  network: ws
+  port: 23617
+  server: 17.mamamajd.site
   skip-cert-verify: true
-  sni: x299.flybar.work
-  tfo: true
-  type: trojan
+  tls: false
+  type: vmess
   udp: true
-- name: 0|🇸🇬2 |  6.2MB/s
-  password: a0f1c422-6546-3b71-aaa8-17c9137c0060
-  port: 20129
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: x129.flybar.work
-  tfo: true
-  type: trojan
-  udp: true
+  uuid: c04e3868-d4ce-3f4f-b4fa-a230098985c7
+  ws-opts:
+    headers:
+      Host: 17.mamamajd.site
+    path: /
 - cipher: aes-256-gcm
   client-fingerprint: chrome
   name: 13|🇸🇬 新加坡2|@ripaojiedian

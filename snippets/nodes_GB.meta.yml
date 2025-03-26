@@ -1,81 +1,27 @@
 proxies:
-- alterId: 2
-  cipher: auto
-  name: 0|🇬🇧1 |  2.8MB/s
-  network: ws
-  port: 23613
-  server: 13.mamamajd.site
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: aa88fdd8-f054-34dc-9bf4-2cbb611794b4
-  ws-opts:
-    headers:
-      Host: 13.mamamajd.site
-    path: /
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇬🇧2 |  4.1MB/s
-  network: ws
-  port: 2095
-  server: 156.238.18.60
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: redw.pooriam.ir
-    path: /Telegram@V2ray_Alpha/?ed=2560
-- client-fingerprint: ''
-  flow: ''
-  mode: ''
-  name: 0|🇬🇧3 |  4.4MB/s
-  network: ws
-  port: 8880
-  server: 45.149.12.201
-  servername: ''
-  tls: false
-  type: vless
-  udp: false
-  uuid: f6bd2c47-99da-4bca-bf70-7186aa9e7e06
-  ws-opts:
-    headers:
-      Host: photographipictureai.ir
-    path: /TABRIZ.NET, @Azarbayjab1.googleapis.com, @Azarbayjab1@Azarbayjab1/?ed=tabrizm137.com
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇬🇧4 |  5.2MB/s
+  name: 0|🇬🇧1 |  5.8MB/s
   network: tcp
-  port: 32055
+  port: 14659
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
   server: csuzhou01.1cooldns.com
-  servername: www.amazon.com
+  servername: www.nvidia.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- alterId: 2
-  cipher: auto
-  name: 0|🇬🇧5 |  5.2MB/s
-  network: ws
-  port: 23605
-  server: 5.mamamajd.site
-  skip-cert-verify: true
-  tls: false
-  type: vmess
-  udp: true
-  uuid: aa88fdd8-f054-34dc-9bf4-2cbb611794b4
-  ws-opts:
-    headers:
-      Host: 5.mamamajd.site
-    path: /
+- auth: 597dc9ce-5ce8-4ff5-833b-76cd4e5789e1
+  name: 0|🇬🇧2 |  4.5MB/s
+  password: 597dc9ce-5ce8-4ff5-833b-76cd4e5789e1
+  port: 8443
+  server: yg1.gywanglug.xyz
+  skip-cert-verify: false
+  sni: yg1.gywanglug.xyz
+  type: hysteria2
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇬🇧6 |  2.7MB/s
+  name: 0|🇬🇧3 |  5.6MB/s
   network: tcp
   port: 65053
   reality-opts:
@@ -87,13 +33,70 @@ proxies:
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇬🇧7 |  5.6MB/s
+  name: 0|🇬🇧4 |  5.1MB/s
   network: tcp
-  port: 14659
+  port: 35311
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: shenzhou02.mysynology.net
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- alterId: 2
+  cipher: auto
+  name: 0|🇬🇧5 |  4.6MB/s
+  network: ws
+  port: 23613
+  server: 13.mamamajd.site
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: c04e3868-d4ce-3f4f-b4fa-a230098985c7
+  ws-opts:
+    headers:
+      Host: 13.mamamajd.site
+    path: /
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  mode: ''
+  name: 0|🇬🇧6 |  5.5MB/s
+  network: tcp
+  port: 8443
+  reality-opts:
+    public-key: SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+    short-id: ''
+  server: 3.8.133.12
+  servername: zula.ir
+  tls: true
+  type: vless
+  udp: false
+  uuid: b285432e-8677-40e3-a86a-ca167cd9d5bd
+- alterId: 2
+  cipher: auto
+  name: 0|🇬🇧7 |  4.9MB/s
+  network: ws
+  port: 23605
+  server: 5.mamamajd.site
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  udp: true
+  uuid: c04e3868-d4ce-3f4f-b4fa-a230098985c7
+  ws-opts:
+    headers:
+      Host: 5.mamamajd.site
+    path: /
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 0|🇬🇧8 |  5.5MB/s
+  network: tcp
+  port: 32055
   reality-opts:
     public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
   server: csuzhou01.1cooldns.com
-  servername: www.nvidia.com
+  servername: www.amazon.com
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
