@@ -1,13 +1,7 @@
 proxies:
-- cipher: aes-128-gcm
-  name: 0|🇹🇼1 |  4.5MB/s
-  password: VMhGp5wEIyCDf90T
-  port: 33368
-  server: shenzhou05.mysynology.net
-  type: ss
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇹🇼2 |  1.8MB/s
+  name: 0|🇹🇼1 |  5.6MB/s
   network: tcp
   port: 37809
   reality-opts:
@@ -19,19 +13,7 @@ proxies:
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇹🇼3 |  6.2MB/s
-  network: tcp
-  port: 16704
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: zhee01.dynu.net
-  servername: www.yahoo.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 0|🇹🇼4 |  2.0MB/s
+  name: 0|🇹🇼2 |  6.2MB/s
   network: tcp
   port: 47531
   reality-opts:
@@ -43,28 +25,7 @@ proxies:
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇹🇼5 |  5.7MB/s
-  network: tcp
-  port: 50126
-  reality-opts:
-    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
-  server: 141.11.86.24
-  servername: www.yahoo.com
-  tls: true
-  type: vless
-  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇹🇼6 |  3.5MB/s
-  password: exaxgqkKkd0TAMrCxeonWg==
-  port: 1443
-  server: twmoon1-cdn-route.couldflare-cdn.com
-  skip-cert-verify: false
-  sni: twmoon1-cdn-route.couldflare-cdn.com
-  tls: true
-  type: http
-  username: mrwdfNTD8M79LCukCieldrqZWqs=
-- client-fingerprint: chrome
-  flow: xtls-rprx-vision
-  name: 0|🇹🇼7 |  5.4MB/s
+  name: 0|🇹🇼3 |  4.9MB/s
   network: tcp
   port: 15700
   reality-opts:
@@ -76,7 +37,7 @@ proxies:
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇹🇼8 |  6.2MB/s
+  name: 0|🇹🇼4 |  2.1MB/s
   network: tcp
   port: 13263
   reality-opts:
@@ -88,7 +49,7 @@ proxies:
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇹🇼9 |  6.2MB/s
+  name: 0|🇹🇼5 |  3.6MB/s
   network: tcp
   port: 34313
   reality-opts:
@@ -99,19 +60,26 @@ proxies:
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
 - client-fingerprint: chrome
-  name: 13,14|台湾2|@ripaojiedian
+  flow: xtls-rprx-vision
+  name: 0|🇹🇼6 |  5.1MB/s
   network: tcp
-  password: d7d8a8cd-239b-4b4e-93d9-dc3d89332ac9
-  port: 42765
-  server: wb.kaiqsz.com
-  skip-cert-verify: true
-  sni: mmbiz1.redapricotcloud.com
-  type: trojan
-- cipher: aes-256-gcm
-  client-fingerprint: chrome
-  name: 13|🇹🇼 台湾3|@ripaojiedian
-  password: RLPW44KAFL6K2LNA
-  port: 21005
-  server: 150.116.11.9
-  tfo: false
-  type: ss
+  port: 50126
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: 141.11.86.24
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
+- client-fingerprint: chrome
+  flow: xtls-rprx-vision
+  name: 0|🇹🇼7 |  5.6MB/s
+  network: tcp
+  port: 16704
+  reality-opts:
+    public-key: qhTzYYIgBzDLNYR79oxftqdo1kzL-1_hGJKfqrOliCY
+  server: zhee01.dynu.net
+  servername: www.yahoo.com
+  tls: true
+  type: vless
+  uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45

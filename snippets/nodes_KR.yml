@@ -1,17 +1,7 @@
 proxies:
-- name: 0|🇰🇷1 |  5.8MB/s
-  password: 6ac6075f-3a55-37e8-9e55-269199b4fcbf
-  port: 45168
-  server: gy.58n.net
-  skip-cert-verify: true
-  sni: z263.hongkongnode.top
-  type: trojan
-  udp: true
 - cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 13|🇰🇷 韩国特殊|@ripaojiedian
+  name: 0|🇰🇷1 |  6.0MB/s
   password: amazonskr05
   port: 443
-  server: 47.129.223.247
-  tfo: false
+  server: 43.203.249.105
   type: ss
