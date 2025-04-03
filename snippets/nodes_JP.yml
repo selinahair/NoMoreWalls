@@ -1,4 +1,41 @@
 proxies:
+- name: 0|🇯🇵2 |  5.8MB/s
+  password: 4657d049-1039-3c48-a194-a520909fe268
+  port: 20071
+  server: gy.58n.net
+  skip-cert-verify: true
+  sni: x71.flybar.work
+  type: trojan
+  udp: true
+- name: 0|🇯🇵4 |  6.3MB/s
+  password: 4657d049-1039-3c48-a194-a520909fe268
+  port: 20142
+  server: gy.58n.net
+  skip-cert-verify: true
+  sni: z142.hongkongnode.top
+  type: trojan
+  udp: true
+- name: 0|🇯🇵7 |  3.1MB/s
+  password: 4657d049-1039-3c48-a194-a520909fe268
+  port: 20059
+  server: gy.58n.net
+  skip-cert-verify: true
+  sni: x59.flybar.work
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
+  name: 0|🇯🇵10 |  1.0MB/s
+  network: tcp
+  port: 40125
+  server: 120.198.71.214
+  skip-cert-verify: true
+  tls: false
+  type: vmess
+  uuid: 418048af-a293-4b99-9b0c-98ca3580dd24
+  ws-headers:
+    Host: 120.198.71.214
+  ws-path: /
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 13|🇯🇵 日本|@ripaojiedian

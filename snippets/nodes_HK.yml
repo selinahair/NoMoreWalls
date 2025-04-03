@@ -1,6 +1,30 @@
 proxies:
+- name: 0|🇭🇰1 |  6.3MB/s
+  password: 4657d049-1039-3c48-a194-a520909fe268
+  port: 20278
+  server: gy.58n.net
+  skip-cert-verify: true
+  sni: z278.hongkongnode.top
+  type: trojan
+  udp: true
+- name: 0|🇭🇰3 |  5.2MB/s
+  password: 4657d049-1039-3c48-a194-a520909fe268
+  port: 28678
+  server: gy.58n.net
+  skip-cert-verify: true
+  sni: z143.hongkongnode.top
+  type: trojan
+  udp: true
+- name: 0|🇭🇰5 |  5.0MB/s
+  password: 4657d049-1039-3c48-a194-a520909fe268
+  port: 43337
+  server: gy.58n.net
+  skip-cert-verify: true
+  sni: z102.hongkongnode.top
+  type: trojan
+  udp: true
 - cipher: chacha20-ietf
-  name: 0|🇭🇰2 |  2.6MB/s
+  name: 0|🇭🇰14 |  1.1MB/s
   password: asd123456
   port: 8388
   server: 103.149.183.61
