@@ -1,4 +1,16 @@
 proxies:
+- name: 0|🇰🇷1 |  5.0MB/s
+  network: ws
+  port: 80
+  server: 45.131.4.228
+  servername: gozargah.validbv7996.ir
+  tls: false
+  type: vless
+  uuid: c5293efa-28f8-4a0f-8f34-541078970cee
+  ws-opts:
+    headers:
+      Host: gozargah.validbv7996.ir
+    path: /Telegram🇨🇳 @MxlShare@WangCai2
 - cipher: aes-256-cfb
   client-fingerprint: chrome
   name: 13|🇰🇷 韩国|@ripaojiedian
@@ -12,7 +24,7 @@ proxies:
   name: 13|🇰🇷 韩国特殊|@ripaojiedian
   password: amazonskr05
   port: 443
-  server: 47.129.230.32
+  server: 47.129.51.201
   tfo: false
   type: ss
 - name: 15|KR_speednode_0055
