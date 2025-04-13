@@ -1,7 +1,21 @@
 proxies:
+- name: 0|🇨🇦1 |  1.7MB/s
+  network: ws
+  port: 30012
+  server: 211.218.223.130
+  servername: vb.ylka.dpdns.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  ws-opts:
+    headers:
+      Host: vb.ylka.dpdns.org
+    path: /?ed=2560
 - alterId: 0
   cipher: auto
-  name: 0|🇨🇦1 |  5.5MB/s
+  name: 0|🇨🇦2 |  6.4MB/s
   network: ws
   port: 443
   raw:
@@ -29,9 +43,79 @@ proxies:
     headers:
       Host: MAxnETViP-ca2.mAxNETCloudsERVIcE.coM
     path: /linkws
+- name: 0|🇨🇦3 |  5.1MB/s
+  network: ws
+  port: 443
+  server: 192.18.130.65
+  servername: vb.ylka.dpdns.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  ws-opts:
+    headers:
+      Host: vb.ylka.dpdns.org
+    path: /?ed=2560
+- name: 0|🇨🇦4 |  2.8MB/s
+  network: ws
+  port: 5006
+  server: 45.154.98.99
+  servername: vb.ylka.dpdns.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  ws-opts:
+    headers:
+      Host: vb.ylka.dpdns.org
+    path: /?ed=2560
+- name: 0|🇨🇦5 |  4.2MB/s
+  network: ws
+  port: 443
+  server: 160.79.105.66
+  servername: vb.ylka.dpdns.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  ws-opts:
+    headers:
+      Host: vb.ylka.dpdns.org
+    path: /?ed=2560
+- name: 0|🇨🇦6 |  2.8MB/s
+  network: ws
+  port: 443
+  server: 45.67.215.143
+  servername: vb.ylka.dpdns.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  ws-opts:
+    headers:
+      host: vb.ylka.dpdns.org
+    path: /?ed=2560
+- name: 0|🇨🇦7 |  1.7MB/s
+  network: ws
+  port: 443
+  server: 185.133.35.67
+  servername: vb.ylka.dpdns.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  ws-opts:
+    headers:
+      Host: vb.ylka.dpdns.org
+    path: /?ed=2560
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 0|🇨🇦2 |  3.4MB/s
+  name: 0|🇨🇦8 |  1.8MB/s
   network: tcp
   port: 16011
   reality-opts:
@@ -41,24 +125,10 @@ proxies:
   tls: true
   type: vless
   uuid: 459b4a80-bd61-4ecd-a26b-e9c1809d9e45
-- name: 0|🇨🇦3 |  1.7MB/s
+- name: 0|🇨🇦9 |  4.0MB/s
   network: ws
-  port: 443
-  server: craig.ns.cloudflare.com
-  servername: vb.ylka.dpdns.org
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
-  ws-opts:
-    headers:
-      Host: vb.ylka.dpdns.org
-    path: /?ed=2560
-- name: 0|🇨🇦4 |  3.7MB/s
-  network: ws
-  port: 443
-  server: 138.2.107.107
+  port: 1010
+  server: 45.154.98.99
   servername: vb.ylka.dpdns.org
   skip-cert-verify: true
   tls: true
@@ -71,7 +141,8 @@ proxies:
     path: /?ed=2560
 - client-fingerprint: chrome
   flow: xtls-rprx-vision
-  name: 15|CA_speednode_0001
+  name: 0,15|CA_speednode_0001
+  network: tcp
   port: 42557
   reality-opts:
     public-key: LiHpb4jWrgHBSpi1mjKH3I8m2ahpVNexeNDh-sMW3Xo
@@ -83,3 +154,45 @@ proxies:
   type: vless
   udp: true
   uuid: 2429bee3-e0c1-47dd-b420-75e6512b184b
+- name: 0|🇨🇦11 |  2.1MB/s
+  network: ws
+  port: 443
+  server: 152.67.125.161
+  servername: vb.ylka.dpdns.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  ws-opts:
+    headers:
+      Host: vb.ylka.dpdns.org
+    path: /?ed=2560
+- name: 0|🇨🇦12 |  2.6MB/s
+  network: ws
+  port: 443
+  server: 160.123.255.18
+  servername: vb.ylka.dpdns.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  ws-opts:
+    headers:
+      Host: vb.ylka.dpdns.org
+    path: /?ed=2560
+- name: 0|🇨🇦13 |  5.2MB/s
+  network: ws
+  port: 443
+  server: 160.79.105.76
+  servername: vb.ylka.dpdns.org
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 06e4425e-a8cb-4b63-929f-2105604ab0a9
+  ws-opts:
+    headers:
+      host: vb.ylka.dpdns.org
+    path: /?ed=2560
