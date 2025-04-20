@@ -1,1 +1,21 @@
-proxies: []
+proxies:
+- allowInsecure: ''
+  name: 0|🇹🇼2 |  1.6MB/s
+  network: tcp
+  password: 30665d14-4a0a-4e41-960e-db36f1603b1c
+  port: 27202
+  server: 45.146.232.171
+  skip-cert-verify: false
+  sni: q08m.vgraxiw73s.hasyaf.cn
+  tls: true
+  type: trojan
+- allowInsecure: ''
+  name: 0|🇹🇼3 |  4.2MB/s
+  network: tcp
+  password: c3f13957-9155-4a0d-b5db-e318dff63b1f
+  port: 27201
+  server: 45.146.232.171
+  skip-cert-verify: false
+  sni: q08m.vgraxiw73s.hasyaf.cn
+  tls: true
+  type: trojan
