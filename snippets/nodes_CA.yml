@@ -1,7 +1,1 @@
-proxies:
-- name: 0|🇨🇦1 |  5.6MB/s
-  password: 8277ea93-58be-42fd-821c-489228eacee5
-  port: 34016
-  server: sla.cn.964e995b760.gogodns.xin
-  sni: q08m.vgraxiw73s.hasyaf.cn
-  type: trojan
+proxies: []
