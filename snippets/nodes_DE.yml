@@ -1,7 +1,7 @@
 proxies:
-- name: 0|🇩🇪12 |  1.2MB/s
-  password: f57f01e6-9bb1-4277-a5cb-75ad0ce1fa11
-  port: 21185
-  server: 125.94.40.162
-  sni: k27.tudou211.com
-  type: trojan
+- cipher: rc4-md5
+  name: 0|🇩🇪10 |  2.3MB/s
+  password: 14fFPrbezE3HDZzsMOr6
+  port: 8080
+  server: 193.108.119.230
+  type: ss
