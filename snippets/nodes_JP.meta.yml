@@ -1,20 +1,6 @@
 proxies:
-- name: 0|🇯🇵1 |  4.2MB/s|8%|Disney|Youtu...
-  network: ws
-  port: 12202
-  server: 14.56.226.68
-  servername: miku.mikuru.ip-ddns.com
-  skip-cert-verify: true
-  tls: true
-  type: vless
-  udp: true
-  uuid: 5543ae5c-c24f-405a-9266-597cbc43c818
-  ws-opts:
-    headers:
-      host: miku.mikuru.ip-ddns.com
-    path: /?ed=2560
 - client-fingerprint: chrome
-  name: 0|🇯🇵2 |  1.8MB/s|8%|Netflix|Disn...
+  name: 0|🇯🇵1 |  1.7MB/s|8%|Netflix|Disn...
   network: ws
   port: 50008
   server: 59.25.160.141
@@ -29,15 +15,18 @@ proxies:
       Host: miku.mikuru.ip-ddns.com
     path: /?ed=2560
 - client-fingerprint: chrome
-  name: 0|🇯🇵3 |  4.8MB/s|0%|Disney|Youtu...
-  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
-  port: 2053
-  server: 02.tokyometropolis.ivano-frankivsk.ua
-  sni: 45.32.28.232
-  type: trojan
+  name: 0|🇯🇵2 |  1.2MB/s|0%|Youtube|Open...
+  password: cacb4d4fa26f4eed25e4d17a6370083c
+  port: 443
+  server: tky03.sqx001.com
+  skip-cert-verify: true
+  sni: tky03.sqx001.com
+  tls: true
+  type: http
   udp: true
+  username: dmpyoary@mayorlogistic.com
 - client-fingerprint: chrome
-  name: 0|🇯🇵4 |  1.3MB/s|Netflix|Disney|...
+  name: 0|🇯🇵3 |  2.3MB/s|8%|Netflix|Disn...
   network: ws
   port: 10943
   server: 14.39.43.121
@@ -52,7 +41,7 @@ proxies:
       Host: miku.mikuru.ip-ddns.com
     path: /?ed=2560
 - client-fingerprint: chrome
-  name: 0|🇯🇵5 |  1.5MB/s|8%|Youtube|Open...
+  name: 0|🇯🇵4 |  5.7MB/s|8%|Netflix|Disn...
   network: ws
   port: 14896
   server: 222.117.231.32
@@ -66,11 +55,27 @@ proxies:
     headers:
       Host: miku.mikuru.ip-ddns.com
     path: /?ed=2560
-- client-fingerprint: random
-  name: 0|🇯🇵6 |  1.2MB/s|8%|Youtube|Open...
+- client-fingerprint: chrome
+  name: 0|🇯🇵5 |  1.8MB/s|8%|Netflix|Disn...
   network: ws
-  port: '10014'
-  server: 211.213.102.88
+  port: 12456
+  server: 121.129.91.180
+  servername: miku.mikuru.ip-ddns.com
+  skip-cert-verify: true
+  tls: true
+  type: vless
+  udp: true
+  uuid: 5543ae5c-c24f-405a-9266-597cbc43c818
+  ws-opts:
+    headers:
+      Host: miku.mikuru.ip-ddns.com
+    path: /?ed=2560
+- client-fingerprint: random
+  delay: 549
+  name: 0|🇯🇵6 |  6.2MB/s|8%|Disney|Youtu...
+  network: ws
+  port: 11223
+  server: 218.38.33.77
   servername: mikuyo.bpd67081tsq.ddns-ip.net
   tls: true
   type: vless
@@ -80,46 +85,9 @@ proxies:
     headers:
       Host: mikuyo.bpd67081tsq.ddns-ip.net
       User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/51.0.2704.103 Safari/537.36
+        Gecko) Chrome/57.0.2987.133 Safari/537.36
     path: /?ed=2560
   xudp: true
-- client-fingerprint: chrome
-  name: 0|🇯🇵7 |  1.8MB/s|13%|Netflix|You...
-  password: cacb4d4fa26f4eed25e4d17a6370083c
-  port: 443
-  server: tky03.sqx001.com
-  skip-cert-verify: true
-  sni: tky03.sqx001.com
-  tls: true
-  type: http
-  udp: true
-  username: dmpyoary@mayorlogistic.com
-- client-fingerprint: chrome
-  name: 0|🇯🇵8 |  2.3MB/s|Disney|Youtube|...
-  password: cacb4d4fa26f4eed25e4d17a6370083c
-  port: 443
-  server: tky02.sqx001.com
-  skip-cert-verify: true
-  sni: tky02.sqx001.com
-  tls: true
-  type: http
-  udp: true
-  username: dmpyoary@mayorlogistic.com
-- client-fingerprint: random
-  name: 0,15|KR_speednode_0022
-  network: ws
-  port: 10187
-  server: 121.189.106.45
-  servername: mot.luyuju.dpdns.org
-  skip-cert-verify: false
-  tls: true
-  type: vless
-  udp: true
-  uuid: f8e0a197-2d5c-441e-a724-525379e4db3a
-  ws-opts:
-    headers:
-      Host: mot.luyuju.dpdns.org
-    path: /?ed=2560
 - cipher: rc4-md5
   client-fingerprint: chrome
   name: 13|🇯🇵 日本|@ripaojiedian

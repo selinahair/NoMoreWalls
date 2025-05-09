@@ -1,4 +1,11 @@
 proxies:
+- cipher: aes-256-cfb
+  delay: 274
+  name: 0|🇰🇷11 |  2.4MB/s|Disney|Youtube...
+  password: 4QPol5
+  port: 23752
+  server: kr02.kkp.wtf
+  type: ss
 - cipher: chacha20-ietf-poly1305
   client-fingerprint: chrome
   name: 13|🇰🇷 韩国|@ripaojiedian

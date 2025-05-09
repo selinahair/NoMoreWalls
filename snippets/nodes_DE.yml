@@ -2,7 +2,7 @@ proxies:
 - alpn:
   - h3
   client-fingerprint: chrome
-  name: 0|🇩🇪3 |  4.4MB/s|21%|Disney|Yout...
+  name: 0|🇩🇪1 |  5.9MB/s|24%|Disney|Yout...
   network: ws
   password: bpb-trojan
   port: 443

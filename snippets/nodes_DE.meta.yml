@@ -1,37 +1,8 @@
 proxies:
-- name: 0|🇩🇪1 |  4.0MB/s|34%|Disney|Open...
-  network: ws
-  port: '80'
-  server: www.speedtest.net
-  servername: ipsychO.SUEx12.Ir
-  type: vless
-  udp: true
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: ipsycho.suex12.ir
-      User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/57.0.2987.133 Safari/537.36
-    path: /re5IzbZ9IZZMddtw?ed=2560/?JOKERRVPNJoin_Bade_Channel@JOKERRVPN
-  xudp: true
-- name: 0|🇩🇪2 |  1.3MB/s|Openai
-  network: ws
-  port: '2082'
-  server: 104.17.147.22
-  type: vless
-  udp: true
-  uuid: 7f1a728b-b722-4ad1-9f89-37f510f6f4db
-  ws-opts:
-    headers:
-      Host: novinsoft.ir.oradoshop.com.persiangsm.ir.digikala.com.abadis.ir.shad.ir.divar.ir.downloadly.com.aparat.com.cafebazar.ir.varzesh3.com.ninisite.com.abadis.ir.bama.ir.p30download.ir.telewebion.bmi.ir.shad.ir.mayket.com.ninisite.top.
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/56.0.2924.87 Safari/537.36
-    path: /@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn-@spikevpn?ed=2082
-  xudp: true
 - alpn:
   - h3
   client-fingerprint: chrome
-  name: 0|🇩🇪3 |  4.4MB/s|21%|Disney|Yout...
+  name: 0|🇩🇪1 |  5.9MB/s|24%|Disney|Yout...
   network: ws
   password: bpb-trojan
   port: 443
@@ -43,182 +14,50 @@ proxies:
     headers:
       Host: skwygx.top
     path: /tr?ed=2560
-- name: 0|🇩🇪4 |  5.7MB/s|21%|Youtube|Ope...
-  network: ws
-  port: '33274'
-  server: 116.203.149.50
-  type: vless
+- auth: ae845cbd-08fb-4346-929a-e28a6f3960a8
+  delay: 2786
+  name: 0|🇩🇪2 |  3.5MB/s|9%|Openai
+  password: ae845cbd-08fb-4346-929a-e28a6f3960a8
+  port: 23901
+  server: de1.shiyuandian.shop
+  sni: de1.shiyuandian.shop
+  type: hysteria2
   udp: true
-  uuid: a8700805-3075-4d13-9661-8af8c96333dd
-  ws-opts:
-    headers:
-      Host: ''
-      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/60.0.3112.113 Safari/537.36
-    path: /@drakvpn
-  xudp: true
-- client-fingerprint: chrome
-  name: 0|🇩🇪5 |  5.7MB/s|46%|Openai
+- country: 🇷🇺RU
+  delay: 750
+  name: 0|🇩🇪3 |  4.7MB/s|25%|Netflix|Dis...
+  password: 7ee32f14-b07b-4a5c-8417-af90530f06e4
+  port: 32548
+  server: 94.159.107.80
+  skip-cert-verify: true
+  sni: bing.com
+  type: hysteria2
+  udp: true
+- auth: 3e8ee9ac-aa4f-4f85-a843-aba393f4fdb0
+  delay: 1200
+  name: 0|🇩🇪4 |  3.0MB/s|59%|Disney|Yout...
+  obfs: salamander
+  obfs-password: LNAnPYDfFyesRAVn
+  password: 3e8ee9ac-aa4f-4f85-a843-aba393f4fdb0
+  port: 24036
+  ports: 21000-26000
+  server: dg1.gy6688.xyz
+  skip-cert-verify: true
+  sni: dg1.gy6688.xyz
+  type: hysteria2
+  udp: true
+- delay: 1577
+  name: 0|🇩🇪5 |  1.7MB/s|Openai
   network: ws
-  port: '8443'
-  server: 205.233.181.186
-  servername: CiR346yL3b.DeRaKhT.iNfO
+  port: 443
+  server: 5.10.245.75
+  servername: hax-eu.lzj520hxw.dpdns.org
+  skip-cert-verify: true
+  tfo: false
   tls: true
   type: vless
-  udp: true
-  uuid: 9e769ce1-34be-4e3f-b0a6-823f30eb8f69
+  uuid: 4f2b9193-ab76-401f-a254-10982ac2881a
   ws-opts:
     headers:
-      Host: CiR346yL3b.DeRaKhT.iNfO
-      User-Agent: Mozilla/5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/70.0.3538.77 Safari/537.36
-    path: /
-  xudp: true
-- name: 0|🇩🇪6 |  2.7MB/s|0%|Youtube|Open...
-  network: ws
-  port: '8880'
-  server: www.speedtest.net
-  type: vless
-  udp: true
-  uuid: dbbfc9a5-7bed-45fd-afae-a655f285788d
-  ws-opts:
-    headers:
-      Host: de-snapp.academigroup.ir.
-      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
-        Chrome/55.0.2883.87 Safari/537.36
-    path: /Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420--Join--EXPRESSVPN_420?ed=2048
-  xudp: true
-- client-fingerprint: chrome
-  name: 0|🇩🇪7 |  5.9MB/s|46%|Openai
-  network: ws
-  port: '2096'
-  server: 205.233.181.186
-  servername: DrOt0Ai1Oq.DeRaKhT.iNfO
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9e769ce1-34be-4e3f-b0a6-823f30eb8f69
-  ws-opts:
-    headers:
-      Host: DrOt0Ai1Oq.DeRaKhT.iNfO
-      User-Agent: Mozilla/5.0 (Windows NT 6.2; Win64; x64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/57.0.2987.133 Safari/537.36
-    path: /
-  xudp: true
-- name: 0|🇩🇪8 |  4.4MB/s|21%|Youtube|Ope...
-  network: ws
-  port: '33274'
-  server: p8n5b65s8931.contigolibre.com
-  type: vless
-  udp: true
-  uuid: 6feda658-531d-43da-a1c5-f14ce209f3fe
-  ws-opts:
-    headers:
-      Host: ''
-      User-Agent: Mozilla/5.0 (Linux; Android 7.0; SM-G610M Build/NRD90M) AppleWebKit/537.36
-        (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile Safari/537.36
-    path: /@drakvpn
-  xudp: true
-- client-fingerprint: chrome
-  name: 0|🇩🇪9 |  5.8MB/s|46%|Openai
-  network: ws
-  port: '2096'
-  server: 199.34.228.171
-  servername: DrOt0Ai1Oq.DeRaKhT.iNfO
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9e769ce1-34be-4e3f-b0a6-823f30eb8f69
-  ws-opts:
-    headers:
-      Host: DrOt0Ai1Oq.DeRaKhT.iNfO
-      User-Agent: Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/41.0.2272.118 Safari/537.36
-    path: /
-  xudp: true
-- alpn:
-  - h2
-  client-fingerprint: chrome
-  grpc-opts:
-    grpc-service-name: yZ1aB2cC3dD4eE5f6gH7iJ8kL9mNOoP
-  name: 0|🇩🇪10 |  4.2MB/s|34%|Netflix|Yo...
-  network: grpc
-  port: '443'
-  reality-opts:
-    public-key: Hng90MObJ5OBtIrfrf6U02WIx36R9srHLBwRsj1r7Dw
-    short-id: 05a6d4aa5e314637
-  server: 88.198.101.94
-  servername: stackoverflow.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 59a97ff0-435c-42e7-ba2c-c17d597c17cd
-  xudp: true
-- client-fingerprint: safari
-  flow: xtls-rprx-vision
-  http-opts:
-    headers: {}
-    path:
-    - /
-  name: 0|🇩🇪11 |  2.7MB/s|0%|Disney|Open...
-  network: tcp
-  port: '443'
-  server: 204.10.194.78
-  servername: yfnl1.xn--4gq62f52gppi29k.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: b8bd42a9-551f-419d-b70d-4aefdd2cb074
-  xudp: true
-- client-fingerprint: chrome
-  name: 0|🇩🇪12 |  2.0MB/s|46%|Openai
-  network: ws
-  port: '2096'
-  server: 199.34.228.174
-  servername: DrOt0Ai1Oq.DeRaKhT.iNfO
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9e769ce1-34be-4e3f-b0a6-823f30eb8f69
-  ws-opts:
-    headers:
-      Host: DrOt0Ai1Oq.DeRaKhT.iNfO
-      User-Agent: Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
-        Chrome/70.0.3538.67 Safari/537.36
-    path: /
-  xudp: true
-- alpn:
-  - h2
-  client-fingerprint: chrome
-  grpc-opts:
-    grpc-service-name: yZ1aB2cC3dD4eE5f6gH7iJ8kL9mNOoP
-  name: 0|🇩🇪13 |  2.6MB/s|34%|Netflix|Yo...
-  network: grpc
-  port: '443'
-  reality-opts:
-    public-key: Hng90MObJ5OBtIrfrf6U02WIx36R9srHLBwRsj1r7Dw
-    short-id: 05a6d4aa5e314637
-  server: dlhost.10dar15.ir
-  servername: stackoverflow.com
-  tls: true
-  type: vless
-  udp: true
-  uuid: 24a8db8e-a7c1-4eca-ad69-23bf5429fcc0
-  xudp: true
-- client-fingerprint: chrome
-  name: 0|🇩🇪14 |  4.0MB/s|46%|Openai
-  network: ws
-  port: '2096'
-  server: 199.34.228.164
-  servername: DrOt0Ai1Oq.DeRaKhT.iNfO
-  tls: true
-  type: vless
-  udp: true
-  uuid: 9e769ce1-34be-4e3f-b0a6-823f30eb8f69
-  ws-opts:
-    headers:
-      Host: DrOt0Ai1Oq.DeRaKhT.iNfO
-      User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML,
-        like Gecko) Chrome/46.0.2490.80 Safari/537.36
-    path: ''
-  xudp: true
+      Host: hax-eu.lzj520hxw.dpdns.org
+    path: /lzjjjjj

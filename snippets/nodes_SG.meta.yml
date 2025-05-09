@@ -1,51 +1,44 @@
 proxies:
-- cipher: aes-256-cfb
-  client-fingerprint: chrome
-  name: 0|🇸🇬1 |  6.6MB/s|Youtube|Openai
-  obfs: tls1.2_ticket_auth
-  obfs-param: sg2-cdn-route.couldflare-cdn.com
-  password: uiACqrIr
-  port: 56138
-  protocol: origin
-  protocol-param: ''
-  server: cm2.xcone.xyz
-  type: ssr
-- client-fingerprint: chrome
-  flow: none
-  name: 0|🇸🇬2 |  5.8MB/s|Youtube|Openai|...
+- name: 0|🇸🇬1 |  3.2MB/s|34%|Disney|Open...
   network: ws
-  port: '2096'
-  server: 141.193.213.21
-  servername: premium.vkehi.shop
-  tls: true
+  port: '80'
+  server: www.speedtest.net
+  servername: ipsychO.SUEx12.Ir
   type: vless
   udp: true
-  uuid: 93be59b7-ebce-4aec-8e66-4470e06e58ae
+  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
   ws-opts:
     headers:
-      Host: premium.vkehi.shop
-      User-Agent: Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
-        Gecko) Chrome/51.0.2704.106 Safari/537.36
-    path: '%2F'
+      Host: ipsycho.suex12.ir
+      User-Agent: Mozilla/5.0 (Windows NT 5.1; Win64; x64) AppleWebKit/537.36 (KHTML,
+        like Gecko) Chrome/57.0.2987.133 Safari/537.36
+    path: /re5IzbZ9IZZMddtw?ed=2560/?JOKERRVPNJoin_Bade_Channel@JOKERRVPN
   xudp: true
 - client-fingerprint: chrome
-  name: 0|🇸🇬3 |  2.1MB/s|0%|Disney|Opena...
-  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
-  port: '443'
-  server: 27.122.59.45
-  skip-cert-verify: false
-  sni: 45.32.28.232
-  type: trojan
+  name: 0|🇸🇬2 |  2.0MB/s|Youtube|Openai|...
+  password: cacb4d4fa26f4eed25e4d17a6370083c
+  port: 8444
+  server: singapore02.sqx001.com
+  skip-cert-verify: true
+  sni: singapore02.sqx001.com
+  tls: true
+  type: http
   udp: true
-- client-fingerprint: chrome
-  name: 0|🇸🇬4 |  2.6MB/s|0%|Netflix|Disn...
-  password: 6e1b9a65-884f-3aa9-9469-bf6ec0f08610
-  port: '443'
-  server: sg.singaporenodeserverone.co.ua
-  skip-cert-verify: false
-  sni: 45.32.28.232
-  type: trojan
-  udp: true
+  username: dmpyoary@mayorlogistic.com
+- alterId: 0
+  cipher: auto
+  delay: 1603
+  name: 0|🇸🇬3 |  5.4MB/s|62%|Netflix|Dis...
+  network: ws
+  port: 8080
+  server: yx1.niaoba.top
+  tls: false
+  type: vmess
+  uuid: 763b29f0-ffba-42e8-a054-d595092135e6
+  ws-opts:
+    headers:
+      Host: 1176552658409.vmsg3.taobao.pdd.niaoba.top
+    path: /
 - name: 12|新加坡
   password: a914681a-8dda-4c98-8468-c313f5539b14
   port: 2056
