@@ -1,81 +1,24 @@
 proxies:
-- alterId: 0
-  cipher: auto
-  client-fingerprint: chrome
-  name: 0|🇺🇸13 |  1.9MB/s|Openai
-  network: ws
-  port: 443
-  server: 5.10.244.72
-  servername: digitaloceanus.lzj520hxw.dpdns.org
-  tls: true
-  type: vmess
-  uuid: 9e43aec6-ba4d-4597-9344-4f6fcbd5c8a6
-  ws-opts:
-    headers:
-      Host: digitaloceanus.lzj520hxw.dpdns.org
-    path: /vmess-argo?ed=2048
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 0|🇺🇸31 |  2.5MB/s|0%|Netflix|Dis...
-  password: 887f01da-5b52-4dff-a80f-efe3380ac35f
-  port: 19161
-  server: chiyu.myfczy169.top
-  type: ss
-  udp: true
-- client-fingerprint: chrome
-  name: 0|🇺🇸47 |  2.0MB/s|56%
-  network: ws
-  password: aTArbZ2F0E
-  port: 443
-  server: 172.66.168.209
-  sni: uSa-vp-27.bLAzECLOUD.SITE
-  type: trojan
-  ws-opts:
-    headers:
-      Host: uSa-vp-27.bLAzECLOUD.SITE
-    path: /linkvkws
-- cipher: aes-256-cfb
-  delay: 637
-  name: 0|🇺🇸83 |  2.2MB/s|34%|Netflix|Op...
-  password: awsps0501
-  port: 443
-  server: 52.35.51.80
-  type: ss
-- cipher: aes-256-cfb
-  delay: 762
-  name: 0|🇺🇸84 |  2.7MB/s|34%|Openai|Gem...
-  password: awsps0501
-  port: 443
-  server: 35.91.223.234
-  type: ss
-- delay: 1278
-  name: 0|🇺🇸88 |  5.6MB/s|47%|Openai
-  password: 74e74e40-e134-11ee-bded-f23c913c8d2b
-  port: 443
-  server: ce178cf5-sw3ts0-tchszt-1quq9.la3.tcpbbr.net
-  sni: ce178cf5-sw3ts0-tchszt-1quq9.la3.tcpbbr.net
-  type: trojan
-  udp: true
-- delay: 983
-  name: 0|🇺🇸89 |  5.0MB/s|47%|Openai
-  password: 94614d84-9986-11ee-be7f-f23c9164ca5d
-  port: 443
-  server: 795f4c1e-sw3ts0-t7fl9b-1q16i.la3.tcpbbr.net
-  sni: 795f4c1e-sw3ts0-t7fl9b-1q16i.la3.tcpbbr.net
-  type: trojan
-  udp: true
 - delay: 1161
-  name: 0|🇺🇸90 |  3.5MB/s|47%|Openai
+  name: 0|🇺🇸33 |  1.7MB/s|47%|Openai
   password: 6e9cdc20-b92a-11ef-973a-f23c913c8d2b
   port: 443
   server: bbc02bbb-sw3ts0-sww7b0-1qwp5.la3.tcpbbr.net
   sni: bbc02bbb-sw3ts0-sww7b0-1qwp5.la3.tcpbbr.net
   type: trojan
   udp: true
+- delay: 1278
+  name: 0|🇺🇸34 |  1.3MB/s|47%|Openai
+  password: 74e74e40-e134-11ee-bded-f23c913c8d2b
+  port: 443
+  server: ce178cf5-sw3ts0-tchszt-1quq9.la3.tcpbbr.net
+  sni: ce178cf5-sw3ts0-tchszt-1quq9.la3.tcpbbr.net
+  type: trojan
+  udp: true
 - alterId: 0
   cipher: none
   delay: 1326
-  name: 0|🇺🇸112 |  1.9MB/s|62%|Openai|Ge...
+  name: 0|🇺🇸39 |  2.4MB/s|62%|Openai
   network: ws
   port: 3306
   server: ora2.aihi.uk
@@ -89,6 +32,69 @@ proxies:
     headers:
       Host: ora2.aihi.uk
     path: /ray
+- name: 0|🇺🇸41 |  5.4MB/s|47%|Openai
+  password: 6bcf5a10-bfe8-11ec-bd7c-f23c913c8d2b
+  port: 443
+  server: a8b14557-sw3ts0-t5urb7-1i1.la3.tcpbbr.net
+  skip-cert-verify: true
+  sni: a8b14557-sw3ts0-t5urb7-1i1.la3.tcpbbr.net
+  type: trojan
+  udp: true
+- alterId: 0
+  cipher: auto
+  country: 🇸🇬SG
+  delay: 1177
+  h2-opts: {}
+  http-opts: {}
+  name: 0|🇺🇸75 |  5.0MB/s|31%|Openai
+  network: ws
+  port: 443
+  server: new3.huvicloud.com
+  servername: new3.huvicloud.com
+  skip-cert-verify: true
+  tls: true
+  type: vmess
+  uuid: a10476b9-1c07-4de3-9d84-c51d24be599f
+  ws-opts:
+    headers:
+      HOST: new3.huvicloud.com
+    path: /a10476b9-1c07-4de3-9d84-c51d24be599f
+- cipher: aes-256-cfb
+  delay: 274
+  name: 0|🇺🇸86 |  1.9MB/s|Netflix|Disney...
+  password: 4QPol5
+  port: 23752
+  server: us04.kkp.wtf
+  type: ss
+- alterId: 0
+  cipher: auto
+  delay: 1218
+  name: 0|🇺🇸87 |  3.8MB/s|0%|Openai|Gemi...
+  network: ws
+  port: 443
+  server: xc132.meiziba5566.com
+  servername: xc132.meiziba5566.com
+  tls: true
+  type: vmess
+  udp: true
+  uuid: 28b33c85-3e14-4323-ed50-d6e4d4d773a8
+  ws-opts:
+    headers:
+      Host: xc132.meiziba5566.com
+    path: /28b33c85
+- alterId: '0'
+  cipher: auto
+  name: 0|🇺🇸92 |  5.3MB/s|Netflix|Openai...
+  network: ws
+  port: '443'
+  server: 5.10.244.41
+  tls: true
+  type: vmess
+  uuid: 569dda85-bc76-4f8b-ae03-609d97f9e76c
+  ws-opts:
+    headers:
+      host: cry-sf-analyses-latina.trycloudflare.com
+    path: /vmess-argo?ed=2048
 - alterId: 2
   cipher: auto
   client-fingerprint: chrome
@@ -178,6 +184,19 @@ proxies:
   sni: nacho-rerun-crepe.stark-industries.solutions
   type: trojan
   udp: true
+- name: 15|US_speednode_0057
+  network: ws
+  password: Aimer
+  port: 443
+  server: 209.208.227.79
+  skip-cert-verify: false
+  sni: epccj.ambercc.filegear-sg.me
+  type: trojan
+  udp: true
+  ws-opts:
+    headers:
+      Host: epccj.ambercc.filegear-sg.me
+    path: /?ed=2560
 - name: 15|US_speednode_0058
   password: 3482c71a-d01c-4ae5-b454-fa8cb3785f66
   port: 443
