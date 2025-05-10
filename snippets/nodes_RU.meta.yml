@@ -1,1 +1,38 @@
-proxies: []
+proxies:
+- alpn:
+  - h3
+  auth_str: dongtaiwang.com
+  down: 1000 Mbps
+  name: 0|🇷🇺1 |  4.4MB/s|50%
+  port: 10803
+  server: 185.22.155.71
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria
+  up: 1000 Mbps
+- delay: 713
+  down: ''
+  fingerprint: ''
+  name: 0|🇷🇺2 |  5.7MB/s|0%
+  obfs: ''
+  obfs-password: ''
+  password: dongtaiwang.com
+  port: 10011
+  server: 46.29.163.171
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  up: ''
+- delay: 699
+  down: ''
+  fingerprint: ''
+  name: 0|🇷🇺3 |  4.0MB/s|50%|Youtube
+  obfs: ''
+  obfs-password: ''
+  password: dongtaiwang.com
+  port: 10011
+  server: 46.17.41.217
+  skip-cert-verify: true
+  sni: www.bing.com
+  type: hysteria2
+  up: ''

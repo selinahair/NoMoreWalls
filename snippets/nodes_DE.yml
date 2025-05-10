@@ -1,12 +1,31 @@
 proxies:
+- cipher: rc4-md5
+  name: 0|🇩🇪2 |  1.6MB/s|100%|Openai
+  password: 14fFPrbezE3HDZzsMOr6
+  port: '8080'
+  server: 193.108.119.230
+  type: ss
+  udp: true
 - alpn:
   - http/1.1
   client-fingerprint: chrome
-  name: 0|🇩🇪2 |  1.5MB/s|34%|Openai
+  name: 0|🇩🇪15 |  5.6MB/s|34%|Youtube|Op...
+  network: tcp
+  password: telegram-id-privatevpns
+  port: '22222'
+  server: 52.29.199.75
+  skip-cert-verify: false
+  sni: trojan.burgerip.co.uk
+  type: trojan
+  udp: true
+- alpn:
+  - http/1.1
+  client-fingerprint: chrome
+  name: 0|🇩🇪16 |  5.7MB/s|34%|Youtube|Op...
   network: tcp
   password: telegram-id-directvpn
   port: '22223'
-  server: 18.157.170.126
+  server: 52.29.199.75
   skip-cert-verify: false
   sni: trojan.burgerip.co.uk
   type: trojan
