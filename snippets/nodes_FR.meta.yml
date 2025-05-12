@@ -237,17 +237,3 @@ proxies:
         like Gecko) Chrome/55.0.2883.87 Safari/537.36
     path: /@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7@V2RAYFAST_7
   xudp: true
-- name: 15|FR_speednode_0034
-  network: ws
-  port: 80
-  server: 46.8.224.211
-  servername: reedfree8mahsang2.redorg.ir
-  skip-cert-verify: true
-  tls: false
-  type: vless
-  udp: true
-  uuid: 53fa8faf-ba4b-4322-9c69-a3e5b1555049
-  ws-opts:
-    headers:
-      Host: reedfree8mahsang2.redorg.ir
-    path: /Telegram🇨🇳 @WangCai2 /?ed=2560
