@@ -1,17 +1,5 @@
 proxies:
-- name: 0|🇩🇪5 |  5.1MB/s|34%|Disney|Open...
-  network: ws
-  password: bpb-trojan
-  port: 443
-  server: 162.159.152.2
-  skip-cert-verify: false
-  sni: zamim340.ggff.net
-  type: trojan
-  ws-opts:
-    headers:
-      Host: zamim340.ggff.net
-    path: /tr?ed=2560
-- name: 0|🇩🇪6 |  5.0MB/s|21%|Disney|Yout...
+- name: 0|🇩🇪3 |  2.9MB/s|22%|Youtube|Ope...
   network: ws
   password: bpb-trojan
   port: 443
@@ -26,11 +14,11 @@ proxies:
 - alpn:
   - http/1.1
   client-fingerprint: chrome
-  name: 0|🇩🇪10 |  4.4MB/s|34%|Openai
+  name: 0|🇩🇪5 |  3.3MB/s|30%|Openai
   network: tcp
   password: telegram-id-privatevpns
   port: '22222'
-  server: 63.178.93.14
+  server: 35.156.70.183
   skip-cert-verify: false
   sni: trojan.burgerip.co.uk
   type: trojan
