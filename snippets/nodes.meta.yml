@@ -1658,16 +1658,6 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
-- name: 8|未命名
-  obfs: salamander
-  obfs-password: Bia-Telegram__SiNAVM-SiNAVM__Telegram__SiNAVM-SiNAVM
-  password: Bia-SiNAVM-Telegram-SiNAVM-Bia-SiNAVM
-  port: 80
-  server: sinavm.sinavm.ir
-  skip-cert-verify: false
-  sni: sinavm.sinavm.ir
-  tls: false
-  type: hysteria2
 - name: 12|CHANEL@v2rayngzendegimamad_Aq
   password: 3a10983a-d8b3-4b16-b3d5-fe3ed7ec724c
   port: 80
