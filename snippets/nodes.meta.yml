@@ -1683,6 +1683,14 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
+- name: 8|@v2ray_configs_poolFrance©️Par...
+  password: dongtaiwang.com
+  port: 31180
+  server: 51.159.111.32
+  skip-cert-verify: true
+  sni: apple.com
+  tls: false
+  type: hysteria2
 - cipher: aes-256-cfb
   name: 13|tg频道:@ripaojiedian
   password: awsps0501
