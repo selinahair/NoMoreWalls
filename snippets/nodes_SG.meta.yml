@@ -55,14 +55,6 @@ proxies:
   skip-cert-verify: true
   sni: www.baidu.com
   type: trojan
-- cipher: chacha20-ietf-poly1305
-  client-fingerprint: chrome
-  name: 13|🇸🇬 新加坡3|@ripaojiedian
-  password: YjFmZ
-  port: 8388
-  server: sg.opensocks.site
-  tfo: false
-  type: ss
 - client-fingerprint: chrome
   name: 13,14|新加坡4|@ripaojiedian
   network: tcp
