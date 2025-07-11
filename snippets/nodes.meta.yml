@@ -1677,7 +1677,7 @@ proxies:
   sni: zp1.eyujichang.xyz
   tls: false
   type: hysteria2
-- name: 7|ن¸œن؛¬
+- name: 7|东京
   password: 37d19f09-5fa4-4ad0-8484-55050b582a29
   port: 2056
   server: zp2.eyucdn.xyz
@@ -1685,7 +1685,7 @@ proxies:
   sni: zp2.eyujichang.xyz
   tls: false
   type: hysteria2
-- name: 7|ًں‡ًں‡ن¸œن؛¬2
+- name: 7|东京2
   password: 5d110f18-5a37-4db3-8cf6-f0bced38a1ae
   port: 443
   server: 154.85.18.233
@@ -1693,7 +1693,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 7|ًں‡ًں‡°2
+- name: 7|🇰2
   password: 5d110f18-5a37-4db3-8cf6-f0bced38a1ae
   port: 443
   server: 89.185.27.133
@@ -1709,7 +1709,7 @@ proxies:
   sni: ali.xiao666666.site
   tls: false
   type: hysteria2
-- name: 7|ًں‡؛ًں‡¸
+- name: 7|🇺🇸
   password: RKrGw4dSUwK3YAvqdQI8tcqNl0
   port: 34060
   server: 35.94.124.236
@@ -1717,14 +1717,14 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|ًں‡­ًں‡°é¦™و¸¯
+- name: 7|🇭🇰香港
   password: Wo9rLCYw6gzcfTgIu11mhBVciVs
   port: 29282
   server: 47.74.34.102
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 7|وه
+- name: '7|未命名 #1'
   password: a914681a-8dda-4c98-8468-c313f5539b14
   port: 2056
   server: sg3.eyucdn.xyz
@@ -1732,14 +1732,14 @@ proxies:
   sni: sg3.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '7|ًں‡­ًں‡°é¦™و¸¯ #1'
+- name: '7|🇭🇰香港 #1'
   password: b57bbf70-8958-4ae5-b6fd-bcf39b81900c
   port: 63518
   server: ovo.5188666.xyz
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 7|ًں‡¯ًں‡µو—¥وœ¬ن¸œن؛¬
+- name: 7|🇯🇵日本东京
   password: b866d83a-d301-4270-b699-40f322bf52fb
   port: 443
   server: 154.85.19.63
@@ -1747,7 +1747,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 7|ًں‡­ًں‡°é¦™و¸¯2
+- name: 7|🇭🇰香港2
   password: b866d83a-d301-4270-b699-40f322bf52fb
   port: 443
   server: 89.185.27.133
@@ -1755,13 +1755,13 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 7|وœ‚
+- name: '7|未命名 #2'
   password: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
   port: 10086
   server: asg.pagate.top
   tls: false
   type: hysteria2
-- name: 7|–°هٹ ه‌،
+- name: 7|新加坡
   password: vlJbyJEtcNjHvV6dnkZ1Z4VjpI
   port: 10264
   server: 13.212.75.22
@@ -1803,7 +1803,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|ًں‡؛ًں‡¸USA-Hysteria2-@Filter_...
+- name: 8|🇺🇸USA-Hysteria2-@Filter_breake...
   password: 627712cf-d0e1-4545-81fb-241e7fda0284
   port: 443
   server: 108.181.23.241
@@ -1811,7 +1811,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|ًں‡؛ًں‡¸USA-Hysteria2-@Filter_... #1'
+- name: '8|🇺🇸USA-Hysteria2-@Filter_breake... #1'
   password: 627712cf-d0e1-4545-81fb-241e7fda0284
   port: 443
   server: 108.181.23.249
@@ -1819,7 +1819,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|ًں‡؛ًں‡¸USA-Hysteria2-@Filter_... #2'
+- name: '8|🇺🇸USA-Hysteria2-@Filter_breake... #2'
   password: 627712cf-d0e1-4545-81fb-241e7fda0284
   port: 443
   server: 108.181.23.255
@@ -1827,7 +1827,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|ًں‡؛ًں‡¸USA-Hysteria2-@Filter_... #3'
+- name: '8|🇺🇸USA-Hysteria2-@Filter_breake... #3'
   password: 627712cf-d0e1-4545-81fb-241e7fda0284
   port: 443
   server: 204.10.194.86
@@ -1878,7 +1878,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|18ًں@V2aryng_vpn
+- name: 8|18@V2aryng_vpn
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1888,7 +1888,7 @@ proxies:
   sni: pichondan.com
   tls: false
   type: hysteria2
-- name: 8|25ًں«’@V2aryng_vpn
+- name: 8|25🫒@V2aryng_vpn
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1981,7 +1981,7 @@ proxies:
   sni: yjjdhl.yunjijd.xyz
   tls: false
   type: hysteria2
-- name: 8|@v2rayngzendegimamadًںï¸ڈ
+- name: 8|@v2rayngzendegimamad
   password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
   port: 45979
   server: 150.230.30.237
@@ -2037,7 +2037,7 @@ proxies:
   sni: hk.nfsn666.gq
   tls: false
   type: hysteria2
-- name: 8|@HiByeVPNNًں
+- name: '8|@HiByeVPNN #1'
   obfs: salamander
   obfs-password: mkv_SEfr-salamdash
   password: user10.thisismeSUperkl19201
@@ -2046,7 +2046,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: '8|@HiByeVPNN #1'
+- name: '8|@HiByeVPNN #2'
   obfs: salamander
   obfs-password: The_Sefr-salamdash
   password: user11.serverTest1234
@@ -2064,7 +2064,7 @@ proxies:
   skip-cert-verify: false
   tls: false
   type: hysteria2
-- name: 8|@HiByeVPNNًں©¶
+- name: 8|@HiByeVPNN🩶
   obfs: salamander
   obfs-password: mkv_SEfr-salamdash
   password: user15.SEFRlolpip192761
