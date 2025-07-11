@@ -1870,14 +1870,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #1'
-  password: 8418fb71-419d-4fc3-8b29-d7fee8de76c7
-  port: 443
-  server: 104.168.34.109
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: 8|18@V2aryng_vpn
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1973,22 +1965,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #2'
-  password: be81e21d-02d8-4a60-a07e-c2202a50a549
-  port: 26923
-  server: yjjdhl.yunjijd.xyz
-  skip-cert-verify: true
-  sni: yjjdhl.yunjijd.xyz
-  tls: false
-  type: hysteria2
-- name: 8|@v2rayngzendegimamad
-  password: cfe032e4-1bc3-454f-9d09-301b0aea08ff
-  port: 45979
-  server: 150.230.30.237
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '8|@V2aryng_vpn #5'
   password: dongtaiwang.com
   port: 50850
@@ -2004,7 +1980,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #3'
+- name: '8|@meli_proxyy #1'
   password: dongtaiwang.com
   port: 30033
   server: 46.17.41.217
@@ -2029,12 +2005,13 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #4'
-  password: nfsn666
-  port: 8888
-  server: 45.207.222.138
-  skip-cert-verify: true
-  sni: hk.nfsn666.gq
+- name: 8|@HiByeVPNN
+  obfs: salamander
+  obfs-password: The_Sefr-chibegam
+  password: user10.khobbebinSEFRinjast128161
+  port: 443
+  server: lake.zone1.center
+  skip-cert-verify: false
   tls: false
   type: hysteria2
 - name: '8|@HiByeVPNN #1'
@@ -2043,15 +2020,6 @@ proxies:
   password: user10.thisismeSUperkl19201
   port: 443
   server: shade.zone1.center
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: '8|@HiByeVPNN #2'
-  obfs: salamander
-  obfs-password: The_Sefr-salamdash
-  password: user11.serverTest1234
-  port: 443
-  server: knock.zone1.center
   skip-cert-verify: false
   tls: false
   type: hysteria2
