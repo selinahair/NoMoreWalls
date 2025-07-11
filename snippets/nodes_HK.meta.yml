@@ -13,28 +13,6 @@ proxies:
     headers:
       Host: broadcastlv.chat.bilibili.com
     path: /
-- name: 7|🇭🇰香港
-  password: Wo9rLCYw6gzcfTgIu11mhBVciVs
-  port: 29282
-  server: 47.74.34.102
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '7|🇭🇰香港 #1'
-  password: b57bbf70-8958-4ae5-b6fd-bcf39b81900c
-  port: 63518
-  server: ovo.5188666.xyz
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 7|🇭🇰香港2
-  password: b866d83a-d301-4270-b699-40f322bf52fb
-  port: 443
-  server: 89.185.27.133
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - alterId: 0
   cipher: auto
   client-fingerprint: chrome
@@ -108,3 +86,31 @@ proxies:
   tls: false
   type: vmess
   uuid: dd0d30ae-a4d1-4d1e-8553-42bfff66fd27
+- name: 15|HK_speednode_0064
+  network: ws
+  port: 443
+  server: 47.76.218.163
+  servername: steep.skyfigure.top
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 63601f9f-7c67-4952-919a-1ef802b5a7ec
+  ws-opts:
+    headers:
+      Host: steep.skyfigure.top
+    path: /Telegram @SRCVPN/?ed=2560
+- name: 15|HK_speednode_0065
+  network: ws
+  port: 443
+  server: 47.76.218.163
+  servername: steep.skyfigure.top
+  skip-cert-verify: false
+  tls: true
+  type: vless
+  udp: true
+  uuid: 63601f9f-7c67-4952-919a-1ef802b5a7ec
+  ws-opts:
+    headers:
+      Host: steep.skyfigure.top
+    path: /Telegram @V2ray_Alpha/?ed=2560
