@@ -1657,15 +1657,15 @@ proxies:
         Gecko) Chrome/53.0.2785.143 Safari/537.36
     path: /
   xudp: true
-- name: 7|🇯🇵日本
+- name: 7|未命名
   password: 2a9b85bd-27cc-4e3b-b77d-54dbe5bc23af
   port: 443
-  server: aws-linkhy17.liangxin1.xyz
+  server: aws-linkhy2.liangxin1.xyz
   skip-cert-verify: true
-  sni: www.apple.com.cn
+  sni: www.tesla.cn
   tls: false
   type: hysteria2
-- name: 7|未命名
+- name: '7|未命名 #1'
   password: 37d19f09-5fa4-4ad0-8484-55050b582a29
   port: 2056
   server: zp1.eyucdn.xyz
@@ -1728,7 +1728,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: '7|未命名 #1'
+- name: '7|未命名 #2'
   password: a914681a-8dda-4c98-8468-c313f5539b14
   port: 2056
   server: sg3.eyucdn.xyz
@@ -1775,7 +1775,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #2'
+- name: '7|未命名 #3'
   password: e6d8d743-a9bc-48c9-be99-8f3cc94d16e1
   port: 10086
   server: asg.pagate.top
@@ -2126,15 +2126,6 @@ proxies:
   password: user12.myserverSEFR097
   port: 443
   server: knock.zone1.center
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
-- name: '8|@HiByeVPNN #1'
-  obfs: salamander
-  obfs-password: mkv_SEfr-salamdash
-  password: user15.SEFRlolpip192761
-  port: 443
-  server: shade.zone1.center
   skip-cert-verify: false
   tls: false
   type: hysteria2
