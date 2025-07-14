@@ -2122,15 +2122,6 @@ proxies:
   sni: hk.nfsn666.gq
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #20'
-  obfs: salamander
-  obfs-password: The_Sefr-salamdash
-  password: user12.myserverSEFR097
-  port: 443
-  server: knock.zone1.center
-  skip-cert-verify: false
-  tls: false
-  type: hysteria2
 - name: 12|@drakvpn🐉
   password: dongtaiwang.com
   port: 12904
