@@ -1705,7 +1705,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #1'
+- name: 7,8|@CanfigVip+
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
@@ -1761,7 +1761,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #3'
+- name: '7|✅@v2ray_configs_pools #2'
   password: dongtaiwang.com
   port: 4710
   server: 108.181.5.130
@@ -1769,7 +1769,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: '7,8|@meli_proxyy #5'
+- name: '7|✅@v2ray_configs_pools #3'
   password: dongtaiwang.com
   port: 30033
   server: 46.17.41.217
@@ -1831,40 +1831,6 @@ proxies:
   server: 109.120.135.123
   skip-cert-verify: true
   sni: www.google.com
-  tls: false
-  type: hysteria2
-- name: 8|@meli_proxyy
-  password: 65a43b6e-19c5-4fab-b960-d110a07d66a4
-  port: 3234
-  server: 209.141.47.127
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 8|v2raybluecrystal2
-  obfs: salamander
-  obfs-password: v2raybluecrystal
-  password: 6E7ZX07Att
-  port: 19338
-  server: v2raybluecrystal.3dfigures.ir
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 8|v2raybluecrystal
-  obfs: salamander
-  obfs-password: v2raybluecrystal
-  password: 6E7ZX07Att
-  port: 40408
-  server: v2raybluecrystal.3dfigures.ir
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 8|v2raybluecrystal3
-  obfs: salamander
-  obfs-password: v2raybluecrystal
-  password: 6E7ZX07Att
-  port: 47294
-  server: v2raybluecrystal.3dfigures.ir
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '8|@V2rayNG3 #3'
@@ -1930,16 +1896,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #2'
-  obfs: salamander
-  obfs-password: Telegram-->@Ln2Ray
-  password: Telegram-->@Ln2Ray
-  port: 45000
-  server: gavazn.lnmarketplace.net
-  skip-cert-verify: true
-  sni: gavazn.55994421.xyz
-  tls: false
-  type: hysteria2
 - name: '8|@warp_city #1'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -1967,13 +1923,6 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|@V2ray_Alpha--All-54
-  password: dongtaiwang.com
-  port: 4710
-  server: 108.181.5.130
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 8|@v2ray_configs_pools
   password: dongtaiwang.com
   port: 50850
@@ -1998,33 +1947,6 @@ proxies:
   server: 62.60.231.189
   skip-cert-verify: true
   sni: www.google.com
-  tls: false
-  type: hysteria2
-- name: '8|v2raybluecrystal2 #1'
-  obfs: salamander
-  obfs-password: v2raybluecrystal
-  password: o753T2a9zD
-  port: 18865
-  server: v2raybluecrystal3.3dfigures.ir
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '8|v2raybluecrystal #1'
-  obfs: salamander
-  obfs-password: v2raybluecrystal
-  password: o753T2a9zD
-  port: 20675
-  server: v2raybluecrystal3.3dfigures.ir
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: '8|v2raybluecrystal3 #1'
-  obfs: salamander
-  obfs-password: v2raybluecrystal
-  password: o753T2a9zD
-  port: 50757
-  server: v2raybluecrystal3.3dfigures.ir
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '8|Telegram@vmessorg #2'
