@@ -1781,6 +1781,13 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 8|@meli_proxyy
+  password: 07a95561-a7c6-40fb-b964-45c83a2833bf
+  port: 51234
+  server: 185.184.70.120
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 8|@V2rayNG3
   password: '123456'
   port: 443
@@ -1805,6 +1812,46 @@ proxies:
   server: 109.120.135.123
   skip-cert-verify: true
   sni: www.google.com
+  tls: false
+  type: hysteria2
+- name: 8|@v2ray_configs_pool
+  obfs: salamander
+  obfs-password: do6T6UBnoZ9FhY4a
+  password: 37db38c0-f8c4-473e-8792-4b9a71da0233
+  port: 2053
+  server: 107.172.50.179
+  skip-cert-verify: true
+  sni: us01.kittycdn.pp.ua
+  tls: false
+  type: hysteria2
+- name: '8|@v2ray_configs_pool #1'
+  obfs: salamander
+  obfs-password: rUPgVV6WUIHqn4kC
+  password: 37db38c0-f8c4-473e-8792-4b9a71da0233
+  port: 2053
+  server: 107.175.32.216
+  skip-cert-verify: true
+  sni: us02.kittycdn.pp.ua
+  tls: false
+  type: hysteria2
+- name: '8|@v2ray_configs_pool #2'
+  obfs: salamander
+  obfs-password: do6T6UBnoZ9FhY4a
+  password: 4246e115-aec2-4fa2-8c55-b06fe2fcac67
+  port: 2053
+  server: 107.172.50.179
+  skip-cert-verify: true
+  sni: us01.kittycdn.pp.ua
+  tls: false
+  type: hysteria2
+- name: '8|@v2ray_configs_pool #3'
+  obfs: salamander
+  obfs-password: rUPgVV6WUIHqn4kC
+  password: 4246e115-aec2-4fa2-8c55-b06fe2fcac67
+  port: 2053
+  server: 107.175.32.216
+  skip-cert-verify: true
+  sni: us02.kittycdn.pp.ua
   tls: false
   type: hysteria2
 - name: 8|@Daily_Configs
@@ -1896,7 +1943,17 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: 8|@meli_proxyy
+- name: '8|@meli_proxyy #1'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36600
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: true
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #2'
   password: cf125f42-759d-4112-82c3-014d2ffcb1e7
   port: 1443
   server: 185.85.242.177
@@ -1959,6 +2016,26 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
+- name: '8|@v2ray_configs_pool #4'
+  obfs: salamander
+  obfs-password: do6T6UBnoZ9FhY4a
+  password: ed5ff2e7-56c7-40be-8af5-9aa8f9f47ce3
+  port: 2053
+  server: 107.172.50.179
+  skip-cert-verify: true
+  sni: us01.kittycdn.pp.ua
+  tls: false
+  type: hysteria2
+- name: '8|@v2ray_configs_pool #5'
+  obfs: salamander
+  obfs-password: rUPgVV6WUIHqn4kC
+  password: ed5ff2e7-56c7-40be-8af5-9aa8f9f47ce3
+  port: 2053
+  server: 107.175.32.216
+  skip-cert-verify: true
+  sni: us02.kittycdn.pp.ua
+  tls: false
+  type: hysteria2
 - name: '8|@V2rayNG3 #9'
   obfs: salamander
   obfs-password: dbc688df29e582d3
@@ -1969,7 +2046,7 @@ proxies:
   sni: www.google.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #1'
+- name: '8|@meli_proxyy #3'
   password: kWlrCka5jzfKbD2z7ucwANEdZM
   port: 26404
   server: 47.245.53.59
