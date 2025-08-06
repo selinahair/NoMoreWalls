@@ -1759,7 +1759,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 7|🇬新加坡
+- name: 7|🇸🇬新加坡
   password: e10ea0d5-4244-4aec-9ba0-cafe77cc6d90
   port: 443
   server: aws-linkhy10.liangxin1.xyz
@@ -2003,7 +2003,7 @@ proxies:
   sni: www.google.com
   tls: false
   type: hysteria2
-- name: '8|@meli_proxyy #3'
+- name: '8|@Daily_Configs #3'
   password: kWlrCka5jzfKbD2z7ucwANEdZM
   port: 26404
   server: 47.245.53.59
