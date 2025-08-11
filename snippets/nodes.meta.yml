@@ -1870,6 +1870,22 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
+- name: 8|RGB🚀
+  password: 9c859345-959f-491b-b6fc-65cd7a57aeb3
+  port: 46502
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
+- name: '8|RGB🚀 #1'
+  password: 9c859345-959f-491b-b6fc-65cd7a57aeb3
+  port: 59494
+  server: 185.126.255.78
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
 - name: '8|未命名 #4'
   obfs: salamander
   obfs-password: cP2sbTFOTkuTq1sW
@@ -2007,6 +2023,16 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
+- name: '8|RGB🚀 #2'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36300
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
 - name: 8|@Tunder_vpn-WiFi--6
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -2015,6 +2041,30 @@ proxies:
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: true
   sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: 8|@Academi_vpn6
+  password: c5c2bdda-30f9-4252-b074-1f515e38adde
+  port: 1443
+  server: de2.587458.xyz
+  skip-cert-verify: false
+  sni: de2.587458.xyz
+  tls: false
+  type: hysteria2
+- name: '8|RGB🚀 #3'
+  password: c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a
+  port: 46502
+  server: 172.252.236.213
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
+  tls: false
+  type: hysteria2
+- name: '8|RGB🚀 #4'
+  password: c6e02cd8-ce11-40f0-afeb-e2c412b6cc3a
+  port: 59494
+  server: 185.126.255.78
+  skip-cert-verify: false
+  sni: real.getafreenode.sbs
   tls: false
   type: hysteria2
 - name: 8|@V2ray1_Ng
