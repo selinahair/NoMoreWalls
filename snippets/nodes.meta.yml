@@ -190,14 +190,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|🍰28@oneclickvpnkeys
-  password: 7fb6dcc5-5396-4b95-bfe3-789f5c0120be
-  port: 22153
-  server: hsxg.huasuan666.top
-  skip-cert-verify: true
-  sni: hsxg.huasuan666.top
-  tls: false
-  type: hysteria2
 - name: 7|2@oneclickvpnkeys
   obfs: salamander
   obfs-password: GdQ4bgvT8RFwuWi2
@@ -306,7 +298,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|🍰30@oneclickvpnkeys
+- name: '7|SG #5'
   password: Y5kSCRNcOSz5YQUkjehzVXeT2mk
   port: 19298
   server: 175.41.154.215
@@ -598,6 +590,16 @@ proxies:
   port: 44929
   server: p1.punchline.ir
   skip-cert-verify: true
+  tls: false
+  type: hysteria2
+- name: 8|+@Azarakhsh_Proxy+
+  obfs: salamander
+  obfs-password: KevinZakarian
+  password: KevinZakarian
+  port: 8443
+  server: 179.61.132.96
+  skip-cert-verify: true
+  sni: 179.61.132.96
   tls: false
   type: hysteria2
 - name: 8|@Selinc
