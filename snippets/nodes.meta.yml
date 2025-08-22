@@ -134,14 +134,6 @@ proxies:
   sni: cn.cremedelamer.com
   tls: false
   type: hysteria2
-- name: 7|82@oneclickvpnkeys
-  password: 5CBqBh6MeDq6GajcilBiDg==
-  port: 61001
-  server: 192.227.152.86
-  skip-cert-verify: true
-  sni: 192-227-152-86.nip.io
-  tls: false
-  type: hysteria2
 - name: '7|SG #2'
   password: 5OiuCsPmULZ0lJwts89fegLJE
   port: 17193
