@@ -6,13 +6,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 7|🧁78@oneclickvpnkeys
-  password: 0076436c-9459-458b-8c6f-57c379acbbe3
-  port: 8080
-  server: zl.youxuan.wiki
-  skip-cert-verify: true
-  tls: false
-  type: hysteria2
 - name: 7|37@oneclickvpnkeys
   obfs: salamander
   obfs-password: LNAnPYDfFyesRAVn
@@ -110,7 +103,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7|FR
+- name: '7,8|@ #1'
   password: 45b46edb-679b-4ea5-befd-88c05bb94f80
   port: 2056
   server: de.eyucdn.xyz
@@ -497,6 +490,14 @@ proxies:
   server: 109.120.135.123
   skip-cert-verify: true
   sni: www.google.com
+  tls: false
+  type: hysteria2
+- name: 8|@
+  password: 366dad01-dd99-47be-92fa-6beddd09fff9
+  port: 22157
+  server: hshl.huasuan666.top
+  skip-cert-verify: true
+  sni: hshl.huasuan666.top
   tls: false
   type: hysteria2
 - name: '8|none #2'
