@@ -361,6 +361,16 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 8|@Mr_Config_Group
+  obfs: salamander
+  obfs-password: xFGh9dsyreJV9sMs1RUnFbwRdon
+  password: 10822856-7452-43ec-b35b-6f24ea33530f
+  port: 29662
+  server: chervhill.hajalii.com
+  skip-cert-verify: false
+  sni: chervhill.hajalii.com
+  tls: false
+  type: hysteria2
 - name: 8|@V2rayNG3
   password: '123456'
   port: 443
@@ -416,6 +426,16 @@ proxies:
   server: 77.223.214.193
   skip-cert-verify: true
   sni: www.bing.com
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #2'
+  obfs: salamander
+  obfs-password: U1wBrYQyFm
+  password: 80747420-96c4-4a2f-83e6-eea4e46beb09
+  port: 20335
+  server: drhystuichdfy.samanidempire.org
+  skip-cert-verify: false
+  sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
 - name: '8|🇩🇪@FreakConfig #2'
@@ -555,6 +575,16 @@ proxies:
   port: 35000
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: true
+  sni: YAPC-1.afshin.ir
+  tls: false
+  type: hysteria2
+- name: '8|@meli_proxyy #3'
+  obfs: salamander
+  obfs-password: Yet-Another-Public-Config-1
+  password: Yet-Another-Public-Config-1
+  port: 36300
+  server: yapc-1.adamhayward.co.uk
+  skip-cert-verify: false
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
