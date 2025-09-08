@@ -51,14 +51,6 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 8|@FreakConfig
-  password: 55ca7a9e-cf90-49df-b14a-9346c59b73b9
-  port: 58718
-  server: 172.252.236.213
-  skip-cert-verify: false
-  sni: real.getafreenode.sbs
-  tls: false
-  type: hysteria2
 - name: 8|@HiByeVPNN️
   password: 77b85b4f-8f73-495c-b919-a8fb386ca541
   port: 22160
@@ -67,7 +59,7 @@ proxies:
   sni: hsels.huasuan666.top
   tls: false
   type: hysteria2
-- name: '8|🇩🇪@FreakConfig #1'
+- name: '8|@Daily_Configs #3'
   password: 79c4fe11-9787-406b-bf94-c1c1dbf59e28
   port: 31468
   server: 77.223.214.193
@@ -83,13 +75,6 @@ proxies:
   server: drhystuichdfy.samanidempire.org
   skip-cert-verify: true
   sni: drhystuichdfy.samanidempire.org
-  tls: false
-  type: hysteria2
-- name: '8|🇩🇪@FreakConfig #2'
-  password: 88984417-da74-4a6e-a6fe-9336adf8e644
-  port: 20340
-  server: 77.90.50.59
-  skip-cert-verify: true
   tls: false
   type: hysteria2
 - name: '8|@Daily_Configs #4'
@@ -109,7 +94,7 @@ proxies:
   sni: de.youyacloud.me
   tls: false
   type: hysteria2
-- name: '8|@FreakConfig #1'
+- name: 8|@FreakConfig
   password: 934766f0-204c-42be-8cf7-9afc2a8b5eaf
   port: 22156
   server: hsyg.huasuan666.top
@@ -165,7 +150,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|@FreakConfig #2'
+- name: 8|🇱@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -234,7 +219,7 @@ proxies:
   sni: slack.com
   tls: false
   type: hysteria2
-- name: '8|@FreakConfig #3'
+- name: '8|@Selinc #1'
   password: dongtaiwang.com
   port: 63015
   server: 108.181.5.130
@@ -242,7 +227,7 @@ proxies:
   sni: apple.com
   tls: false
   type: hysteria2
-- name: 8|rya
+- name: '8|WI-FI--@IRAN_V2RAY1 #1'
   password: dongtaiwang.com
   port: 5355
   server: 51.159.111.32
@@ -250,7 +235,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|🇺🇲@FreakConfig
+- name: 8|🇺@FreakConfig
   password: miaoge110
   port: 12687
   server: 45.58.38.153
