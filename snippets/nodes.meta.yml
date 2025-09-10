@@ -205,7 +205,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|🇺@FreakConfig
+- name: '8|@FreakConfig #1'
   password: miaoge110
   port: 12687
   server: 45.58.38.153
