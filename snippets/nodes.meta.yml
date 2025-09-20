@@ -7,6 +7,13 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
+- name: 8|telegram-@ISVvpn
+  password: 6803bc9b-1157-431b-8f73-970a6deb741f
+  port: 29854
+  server: fra-nb-02.linlujs.pw
+  skip-cert-verify: false
+  tls: false
+  type: hysteria2
 - name: 8|@IRAN_V2RAY1
   obfs: salamander
   obfs-password: U1wBrYQyFm
