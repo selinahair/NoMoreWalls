@@ -853,14 +853,6 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|1
-  password: 52d0cb21-56da-4f00-862f-be01b66446a8
-  port: 443
-  server: lundun2.nezhasu.com
-  skip-cert-verify: true
-  sni: lundun2.nezhasu.com
-  tls: false
-  type: hysteria2
 - name: '8|🔸@V2ray1_Ng💘 #2'
   password: 537d7098-fdbe-11ef-8ebc-f23c93141fad
   port: 1743
