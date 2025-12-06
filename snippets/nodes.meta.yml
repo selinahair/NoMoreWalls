@@ -432,7 +432,7 @@ proxies:
   sni: gazprombank.ru
   tls: false
   type: hysteria2
-- name: 7,8|🇳🇱@FreakConfig
+- name: 7,8|🇱@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -442,7 +442,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '7,8|🇳🇱@FreakConfig #1'
+- name: 7,8|🇳🇱@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -470,14 +470,6 @@ proxies:
   server: yapc-1.adamhayward.co.uk
   skip-cert-verify: false
   sni: YAPC-1.afshin.ir
-  tls: false
-  type: hysteria2
-- name: '7,8|🔸@V2ray1_Ng💘 #4'
-  password: a084933d-0b41-4571-ae0c-7163b8c71ed1
-  port: 2056
-  server: de.eyucdn.xyz
-  skip-cert-verify: true
-  sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
 - name: 7|🔴56@oneclickvpnkeys
@@ -584,7 +576,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '7,8|🇳🇱@FreakConfig #3'
+- name: '7,8|🇳🇱@FreakConfig #2'
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -1295,7 +1287,7 @@ proxies:
   sni: xjp2.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #1'
+- name: 8|All--@IRAN_V2RAY1
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -1305,7 +1297,7 @@ proxies:
   sni: drhystuichdfy.samanidempire.org
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #2'
+- name: '8|All--@IRAN_V2RAY1 #1'
   obfs: salamander
   obfs-password: U1wBrYQyFm
   password: 80747420-96c4-4a2f-83e6-eea4e46beb09
@@ -1333,7 +1325,7 @@ proxies:
   sni: net2025.afsharidempire.uk
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1🇺🇸 #1'
+- name: '8|All--@IRAN_V2RAY1🇺🇸 #2'
   password: 92b2a3d4-f353-11ef-b714-f23c93136cb3
   port: 443
   server: 9b91d3c4-t53wg0-t6h87s-63bp.la.shifen.uk
@@ -1357,7 +1349,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1🇺🇸 #2'
+- name: '8|All--@IRAN_V2RAY1🇺🇸 #3'
   password: 9772ecf2-6732-4bfb-a8b1-f48af577c76c
   port: 63979
   server: 113.192.61.19
@@ -1417,7 +1409,15 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #3'
+- name: '8|r♡ya #1'
+  password: SNItest
+  port: 443
+  server: 46.243.232.105
+  skip-cert-verify: true
+  sni: gosuslugi.ru
+  tls: false
+  type: hysteria2
+- name: '8|All--@IRAN_V2RAY1 #2'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1437,7 +1437,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #5'
+- name: '8|All--@IRAN_V2RAY1 #4'
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1447,7 +1447,7 @@ proxies:
   sni: YAPC-1.afshin.ir
   tls: false
   type: hysteria2
-- name: '8|All--@IRAN_V2RAY1 #6'
+- name: '8|All--@IRAN_V2RAY1 #5'
   obfs: salamander
   obfs-password: khameniiko@smad@ret
   password: YwuvGJk36B
@@ -1455,6 +1455,14 @@ proxies:
   server: 81.168.83.89
   skip-cert-verify: true
   sni: kotlet.arshiacomplus.dpdns.org
+  tls: false
+  type: hysteria2
+- name: '8|🔸@V2ray1_Ng💘 #4'
+  password: a084933d-0b41-4571-ae0c-7163b8c71ed1
+  port: 2056
+  server: de.eyucdn.xyz
+  skip-cert-verify: true
+  sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
 - name: '8|All-@V2ray_Alpha--6 #1'
@@ -1492,7 +1500,7 @@ proxies:
   sni: ea9466bf-t3dk00-t3i5yp-b4pt.la.shifen.uk
   tls: false
   type: hysteria2
-- name: '8|@sunflowerplato🌻 #1'
+- name: '8|@sunflowerplato #1'
   password: c232f411-96b5-4b07-b2f7-66a434725ffb
   port: 23891
   server: 108.165.213.197
@@ -1611,7 +1619,7 @@ proxies:
   sni: www.google.com
   tls: false
   type: hysteria2
-- name: '8|@sunflowerplato🌻 #2'
+- name: '8|@sunflowerplato🌻 #1'
   password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1
   port: 30000
   server: de3.oomz.ru
@@ -1660,7 +1668,7 @@ proxies:
   network: tcp
   password: 79314e99f0a473fe86efc7827942ad00
   port: 443
-  server: 58.152.18.78
+  server: 58.152.110.154
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -1680,25 +1688,10 @@ proxies:
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- alterId: 2
-  cipher: auto
-  name: 13,14|香港6|@ripaojiedian
-  network: ws
-  port: '80'
-  server: fe3a9432-sv0xs0-sywkhi-1o4kv.hk3.p5pv.com
-  servername: ''
-  skip-cert-verify: false
-  tls: false
-  type: vmess
-  uuid: 87b31a02-172e-11ee-a11f-f23c913c8d2b
-  ws-opts:
-    headers:
-      Host: fe3a9432-sv0xs0-sywkhi-1o4kv.hk3.p5pv.com
-    path: /
 - name: 13,14|日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 26378
+  port: 4012
   server: jp.baidu.com
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
@@ -1706,8 +1699,8 @@ proxies:
 - name: 13,14|日本2|@ripaojiedian
   network: tcp
   password: 79314e99f0a473fe86efc7827942ad00
-  port: 1331
-  server: 160.16.70.180
+  port: 3169
+  server: 160.16.87.174
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -1715,39 +1708,49 @@ proxies:
   network: tcp
   password: 79314e99f0a473fe86efc7827942ad00
   port: 3093
-  server: 160.16.130.66
+  server: 160.16.72.33
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
+- cipher: chacha20-ietf-poly1305
+  name: 13|🇯🇵 日本4|@ripaojiedian
+  password: t0srmdxrm3xyjnvqz9ewlxb2myq7rjuv
+  plugin: obfs
+  plugin-opts:
+    host: a4ebd80:164401
+    mode: tls
+  port: 2377
+  server: 172.237.6.53
+  type: ss
 - name: 13,14|新加坡|@ripaojiedian
   network: tcp
   password: 79314e99f0a473fe86efc7827942ad00
-  port: 127
-  server: 160.16.131.243
+  port: 507
+  server: 153.121.44.99
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 13,14|新加坡2|@ripaojiedian
   network: tcp
   password: 79314e99f0a473fe86efc7827942ad00
-  port: 1596
-  server: 160.16.68.250
+  port: 507
+  server: 160.16.107.37
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 13,14|新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 2673
-  server: 43.198.90.142
+  port: 3579
+  server: 54.199.213.179
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 13,14|美国|@ripaojiedian
   network: tcp
   password: 79314e99f0a473fe86efc7827942ad00
-  port: 2890
-  server: 160.16.151.196
+  port: 4054
+  server: 153.121.39.240
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -1755,7 +1758,7 @@ proxies:
   network: tcp
   password: 79314e99f0a473fe86efc7827942ad00
   port: 2890
-  server: 160.16.131.243
+  server: 160.16.116.227
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
@@ -1763,21 +1766,15 @@ proxies:
   network: tcp
   password: BxceQaOe
   port: 1112
-  server: 54.46.125.108
+  server: 18.163.210.14
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
-- cipher: aes-256-gcm
-  name: 13|🇺🇸 美国4|@ripaojiedian
-  password: 57dtozbdQRZT9MaL
-  port: 26351
-  server: 67.209.177.69
-  type: ss
 - cipher: aes-256-cfb
   name: 13|🇻🇳 越南|@ripaojiedian
   password: Xn8jKdmDM00IeO%#$#fJAMtsEAEUOpH/YWYtYqDFnT0SV
   port: 38388
-  server: 103.186.154.174
+  server: 103.186.155.138
   type: ss
 - alterId: 2
   cipher: auto
