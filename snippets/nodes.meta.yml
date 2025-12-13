@@ -246,14 +246,6 @@ proxies:
   sni: apps.apple.com
   tls: false
   type: hysteria2
-- name: 7|⚛️6@oneclickvpnkeys
-  password: 7f1744fb-e014-43e9-ab39-1dca96f5e604
-  port: 443
-  server: 5.180.30.16
-  skip-cert-verify: true
-  sni: api.push.apple.com
-  tls: false
-  type: hysteria2
 - name: 7|HK
   password: 84123645-b62d-4a3b-bd74-d58ea4023c65
   port: 44507
@@ -343,22 +335,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 7,8|@IRAN_V2RAY1💘
-  password: SNItest
-  port: 443
-  server: 37.18.14.169
-  skip-cert-verify: true
-  sni: megafon.ru
-  tls: false
-  type: hysteria2
-- name: 7|⚛️13@oneclickvpnkeys
-  password: SNItest
-  port: 443
-  server: 46.243.235.119
-  skip-cert-verify: true
-  sni: gazprombank.ru
-  tls: false
-  type: hysteria2
 - name: '7|SG #6'
   password: XON4wZ0sXe1YaqFY2FeM7uZY4
   port: 15221
@@ -431,7 +407,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 7,8|All--@V2rayAlpha-0
+- name: 7,8|rya
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -607,6 +583,14 @@ proxies:
   server: 47.245.0.72
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 8|MCI-IR--@V2rayAlpha-16
+  password: 05fd3f79-dca0-4358-a803-c8d4711c17a3
+  port: 58338
+  server: lsyd1.lansecs.top
+  skip-cert-verify: true
+  sni: lsyd1.lansecs.top
   tls: false
   type: hysteria2
 - name: 8|All-#V2rayAlpha--19
@@ -999,7 +983,15 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 8|🇳🇱@FreakConfig
+- name: 8|@IRAN_V2RAY1💘
+  password: SNItest
+  port: 443
+  server: 37.18.14.169
+  skip-cert-verify: true
+  sni: megafon.ru
+  tls: false
+  type: hysteria2
+- name: 8|🇱@FreakConfig
   obfs: salamander
   obfs-password: Telegram-->@Ln2Ray
   password: Telegram-->@Ln2Ray
@@ -1019,7 +1011,7 @@ proxies:
   sni: gavazn.55994421.xyz
   tls: false
   type: hysteria2
-- name: '8|🇳🇱@FreakConfig #2'
+- name: 8|🇳🇱@FreakConfig
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -1261,14 +1253,6 @@ proxies:
   server: 9c329770-t6ngg0-t6k5ga-1bonh.hk1.hyhuawei.com
   skip-cert-verify: false
   sni: 9c329770-t6ngg0-t6k5ga-1bonh.hk1.hyhuawei.com
-  tls: false
-  type: hysteria2
-- name: 8|@sunflowerplato🌻
-  password: faa8b629-13ea-4ccd-94dd-ff1615cb1ba1
-  port: 30000
-  server: de3.oomz.ru
-  skip-cert-verify: true
-  sni: bing.com
   tls: false
   type: hysteria2
 - name: 8|✅سرورهایبیشتردرکانال:prrofile_...
