@@ -139,4 +139,4 @@ trojan://5a2c16f9@135.84.73.238:2096?allowInsecure=1&sni=snippets.kkii.eu.org&ty
 trojan://5a2c16f9@135.84.73.238:2096?allowInsecure=1&sni=snippets.kkii.eu.org&type=ws&host=snippets.kkii.eu.org&path=/Telegram🇨🇳WangCai2#15%7CUS_speednode_0017
 https://mBClkx.absslk.xyz/6d3e7e5c2eb16392ff26beb0bc5f642d
 hhy2://16461a78-363c-457a-92f9-83b0a68edc37@hk.eyucdn.xyz:2056/?insecure=1&sni=hk.eyucdn.xyz#
-https://KOUsRt.mcsslk.xyz/9cd79c8665617db9457a808d7a0417c1
+https://UG5a65.mcsslk.xyz/e1713a9793156da6fa5bec0c023f3401
