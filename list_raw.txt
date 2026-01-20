@@ -64,5 +64,5 @@ vless://00000000-0000-4000-8000-000000000000@43.165.190.11:42841?allowInsecure=0
 vless://0d93b787-b66b-4696-a036-a0f549764f69@91.224.74.91:443?allowInsecure=0&sni=kz.fasti.win&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUA_speednode_0029
 vless://18805ff3-b420-45de-af18-93be14024ae8@47.251.25.74:443?allowInsecure=0&sni=www.amazon.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0030
 vless://0d93b787-b66b-4696-a036-a0f549764f69@desrv.fasti.win:443?allowInsecure=0&sni=desrv.fasti.win&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0031
-https://ceWcSI.mcsslk.xyz/961e5d81abe8f8f59544dc8d93add806
-https://46FenF.absslk.xyz/70033aa111c94818926ba4882b98c05a
+https://1oS8xp.absslk.xyz/9627d25feb0addd0b41eeff07fbae847
+https://fpHWx4.mcsslk.xyz/875da5e8887874ea1d04192d6802c09a
