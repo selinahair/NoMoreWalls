@@ -45,5 +45,5 @@ vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.16.63:443?allowInsecure=0&s
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.21.224.5:443?allowInsecure=0&sni=l.ayovo.netlib.re&type=ws&host=l.ayovo.netlib.re&path=/?ed=2560fp=chrome&security=tls#15%7CUS_speednode_0024
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.21.227.134:443?allowInsecure=0&sni=l.ayovo.netlib.re&type=ws&host=l.ayovo.netlib.re&path=/?ed=2560fp=chrome&security=tls#15%7CUS_speednode_0025
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@cloudflare.182682.xyz:443?allowInsecure=0&sni=l.ayovo.netlib.re&type=ws&host=l.ayovo.netlib.re&path=/?ed=2560fp=chrome&security=tls#15%7CUS_speednode_0026
-https://Xm4dnN.absslk.xyz/f8bac36bdd006549aaeda5f60d8286f8
-https://iYgfWy.mcsslk.xyz/34ce589e8c36d16e8a9e3cc1bee92696
+https://qLVlbo.mcsslk.xyz/f35fd31424ed454686bf5e5f98fac82d
+https://TpX1of.absslk.xyz/2a51a7e7be80be35cd8f5e4381d940a2
