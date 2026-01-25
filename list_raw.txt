@@ -207,4 +207,4 @@ vless://6b1348aa-43de-4c14-af6a-bcbe02b0c7d5@www.speedtest.net:80?allowInsecure=
 vless://0524840c-b9c9-4994-82db-129ac8caeac5@iran.zone-server-irani.ir:2053?allowInsecure=1&sni=wizwiz.vidboxco.ir&type=ws&host=wizwiz.vidboxco.ir&path=/?ed=2048fp=chrome&security=tls#15%7CUS_speednode_0198
 vless://0524840c-b9c9-4994-82db-129ac8caeac5@cf.zone-server-irani.ir:2053?allowInsecure=0&sni=sepah.systemgamingirani.ir&type=ws&host=sepah.systemgamingirani.ir&path=/?ed=2048fp=chrome&security=tls#15%7CUS_speednode_0199
 https://vu37uF.absslk.xyz/a0d9f2b32e2aaa548146bde4b55ec2b9
-https://uG7IdQ.mcsslk.xyz/0fb46e491adea81ea6a6647f413c0f10
+https://TMW2g4.mcsslk.xyz/2dbe217ce669dc9ef2653d60732b8756
