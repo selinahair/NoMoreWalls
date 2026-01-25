@@ -44,5 +44,5 @@ vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.152.4:443?allowInsecure=0&s
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@www.shopify.com:2095?allowInsecure=0&sni=cnmfangbinxing.fangbinxingnmsl-666.workers.dev&type=ws&host=cnmfangbinxing.fangbinxingnmsl-666.workers.dev&path=/fp=randomized#15%7CUS_speednode_0021
 vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@docs.cloudflare.com:2095?allowInsecure=0&sni=cnmfangbinxingnmsl.cnm-fangbinxingnmsl.workers.dev&type=ws&host=cnmfangbinxingnmsl.cnm-fangbinxingnmsl.workers.dev&path=/fp=randomized#15%7CUS_speednode_0022
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@162.159.16.63:443?allowInsecure=0&sni=l.ayovo.netlib.re&type=ws&host=l.ayovo.netlib.re&path=/x-aniu/?ed=2560security=tls#15%7CUS_speednode_0023
-https://OqiyoY.absslk.xyz/721eb273f07bcf980ef5dbf9f434d327
-https://evt6th.mcsslk.xyz/ea2b321fd5843f55a71571196b837f68
+https://PGc6mO.mcsslk.xyz/850f1031529cf12db7e43912107f5842
+https://kEHMJt.absslk.xyz/37e08566669c71dc17aa6a533447fea1
