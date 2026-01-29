@@ -63,4 +63,4 @@ vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@198.62.62.241:443?allowInsecure=0&s
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.21.224.5:443?allowInsecure=0&sni=l.ayovo.netlib.re&type=ws&host=l.ayovo.netlib.re&path=/x-aniu/?ed=2560security=tls#15%7CUS_speednode_0041
 vless://3e2e3c21-3fc8-468f-9ab5-e782bdf5bf97@104.21.227.134:443?allowInsecure=0&sni=l.ayovo.netlib.re&type=ws&host=l.ayovo.netlib.re&path=/?ed=2560security=tls#15%7CUS_speednode_0042
 https://f6GiHH.absslk.xyz/e839db566caf442aa8c692f8c25776ad
-https://OzMKqN.mcsslk.xyz/289f5872ddc457ec2e49edbdec922b8f
+https://Yy7W8g.mcsslk.xyz/af9ef38a0937283b3a1fd6104daacedf
