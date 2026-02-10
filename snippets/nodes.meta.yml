@@ -7,6 +7,14 @@ proxies:
   sni: mg2.mangshe.xyz
   tls: false
   type: hysteria2
+- name: 7|1
+  password: 78c2bad7-f5f3-41f2-88cc-81de9d05040b
+  port: 2055
+  server: xjp1.mangshe.xyz
+  skip-cert-verify: true
+  sni: xjp1.mangshe.xyz
+  tls: false
+  type: hysteria2
 - name: 7|JP
   password: 95D27EEF-B7AE-4076-BA39-40FDFA3D0F61
   port: 13778
@@ -14,7 +22,7 @@ proxies:
   skip-cert-verify: true
   tls: false
   type: hysteria2
-- name: 7|️32@oneclickvpnkeys
+- name: 7|♻️32@proxy_kafee
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
   password: Yet-Another-Public-Config-1
@@ -32,7 +40,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 7|☺️92@oneclickvpnkeys
+- name: 7,8|IR-@V2rayAlpha--5
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -68,6 +76,16 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 7|♻️53@oneclickvpnkeys
+  obfs: salamander
+  obfs-password: 3Lse3bDmcLLlEa77sdYZe0o6kywbTwII
+  password: spectrumvpn
+  port: 443
+  server: uk.spectrum.vu
+  skip-cert-verify: true
+  sni: google.com
+  tls: false
+  type: hysteria2
 - name: 8|All_7--@V2rayAlpha
   obfs: salamander
   obfs-password: Yet-Another-Public-Config-1
@@ -88,7 +106,7 @@ proxies:
   sni: jnir.pichondan.com
   tls: false
   type: hysteria2
-- name: 8|@icv2ray
+- name: 8|@meliproxyy
   obfs: salamander
   obfs-password: '@JavidnamanIran-Javid-SHAH-KingRezaPahlavi'
   password: b4bd0613-ff7c-4f2f-954d-185915e6ddad
@@ -127,47 +145,47 @@ proxies:
   network: tcp
   password: 5fb072e0ddd631cf66cf752b09210480
   port: 3373
-  server: 52.195.8.127
+  server: 43.207.166.42
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 13,14|香港4|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 4183
-  server: 43.199.47.199
+  port: 443
+  server: 203.198.123.162
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 13,14|香港5|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 3292
-  server: 43.199.47.199
+  port: 443
+  server: 58.152.18.130
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
 - name: 13,14|日本|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 26378
-  server: 54.249.105.25
+  port: 2762
+  server: 13.115.255.135
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 13,14|日本2|@ripaojiedian
   network: tcp
   password: 5fb072e0ddd631cf66cf752b09210480
-  port: 4006
-  server: 160.16.68.250
+  port: 1933
+  server: 43.207.149.110
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 13,14|日本3|@ripaojiedian
   network: tcp
   password: 5fb072e0ddd631cf66cf752b09210480
-  port: 4006
-  server: 160.16.138.24
+  port: 1933
+  server: 160.16.72.33
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
@@ -175,47 +193,47 @@ proxies:
   network: tcp
   password: 5fb072e0ddd631cf66cf752b09210480
   port: 3901
-  server: 160.16.138.24
+  server: 160.16.106.99
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 13,14|新加坡2|@ripaojiedian
   network: tcp
   password: 5fb072e0ddd631cf66cf752b09210480
-  port: 3901
-  server: 153.121.45.139
+  port: 544
+  server: 160.16.124.17
   skip-cert-verify: true
   sni: www.nintendogames.net
   type: trojan
 - name: 13,14|新加坡3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 381
-  server: 43.198.233.56
+  port: 1691
+  server: 54.150.247.142
   skip-cert-verify: true
   sni: t.me%252Fripaojiedian
   type: trojan
 - name: 13,14|美国|@ripaojiedian
   network: tcp
   password: 5fb072e0ddd631cf66cf752b09210480
-  port: 127
-  server: 54.250.24.198
+  port: 276
+  server: 160.16.72.205
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 13,14|美国2|@ripaojiedian
   network: tcp
   password: 5fb072e0ddd631cf66cf752b09210480
-  port: 127
-  server: 160.16.85.33
+  port: 276
+  server: 43.207.149.110
   skip-cert-verify: false
   sni: www.nintendogames.net
   type: trojan
 - name: 13,14|美国3|@ripaojiedian
   network: tcp
   password: BxceQaOe
-  port: 2569
-  server: 43.199.47.199
+  port: 3159
+  server: 18.163.2.13
   skip-cert-verify: true
   sni: t.me%2Fripaojiedian
   type: trojan
