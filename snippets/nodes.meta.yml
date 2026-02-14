@@ -15,7 +15,7 @@ proxies:
   sni: mlxy2.xiaoliyu.us
   tls: false
   type: hysteria2
-- name: 7,8|@vpnbaz
+- name: '7|@Trick_mobil #2'
   password: 17cdeb6c-f046-11ee-bdac-f23c93141fad
   port: 1743
   server: c37b0be5n-t3kyo0-t3lvgh-2gok.la.shifen.uk
@@ -86,6 +86,14 @@ proxies:
   server: tw.oomz.ru
   skip-cert-verify: true
   sni: bing.com
+  tls: false
+  type: hysteria2
+- name: 7|2@oneclickvpnkeys
+  password: zhangyang
+  port: 6443
+  server: 130.61.50.75
+  skip-cert-verify: true
+  sni: dash.cloudflare.com
   tls: false
   type: hysteria2
 - name: 8|none
