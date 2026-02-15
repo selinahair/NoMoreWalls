@@ -50,4 +50,4 @@ vless://12cb9911-a48d-4147-85cc-68dd678e94c6@64.188.64.59:443?allowInsecure=0&sn
 vless://b183589d-5e32-4141-a39a-6cb747964c67@pl2.jugsenkeys4pays.su:443?allowInsecure=0&sni=pl2.jugsenkeys4pays.su&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0015
 hhy2://41aec03d-4345-4bff-9bab-69d36d80033c@ru.eyucdn.xyz:2056/?insecure=1&sni=ru.eyucdn.xyz#@Trick_mobil
 https://VBzfQV.mcsslk.xyz/50ea1ee75d64f4f4e42236ecb9b9f6ef
-https://KtzHDN.absslk.xyz/6ce776cadcdf1d6e74dd4a390b9562f9
+https://1PnIF5.absslk.xyz/8e1fb45c2a647f2c514901dd2767d80f
