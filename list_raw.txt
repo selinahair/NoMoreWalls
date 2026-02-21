@@ -50,5 +50,5 @@ vless://c6977f74-e620-4748-a2d3-4351a588c659@203.10.96.138:443?allowInsecure=0&s
 vless://12cb9911-a48d-4147-85cc-68dd678e94c6@64.188.64.59:443?allowInsecure=0&sni=yandex.ru&fp=chrome&security=tls#15%7CUS_speednode_0014
 vless://b183589d-5e32-4141-a39a-6cb747964c67@pl2.jugsenkeys4pays.su:443?allowInsecure=0&sni=pl2.jugsenkeys4pays.su&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0015
 hhy2://5046SHWqk6@91.132.51.160:844/#@Trick_mobil
-https://z3UsN0.absslk.xyz/7629a096d8350714be1f67a3c0a011a2
 https://sYo6aY.mcsslk.xyz/1e8d2aa97fbc5b997834d2692c1388db
+https://4PNFbu.absslk.xyz/a8ce9082855e045cdc9f0c3e240813ce
