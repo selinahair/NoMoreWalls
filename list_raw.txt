@@ -96,4 +96,4 @@ vless://2baffe9c-099d-481b-8d9c-7eb351c9bf35@us.netvora.space:443?allowInsecure=
 vless://26524cce-d514-4014-a426-365fb266a14d@152.70.113.150:52125?allowInsecure=0&sni=k7ryegiaeu.chinam.eu.org&type=ws&host=k7ryegiaeu.chinam.eu.org&path=/danfengfp=random&security=tls#15%7CUS_speednode_0070
 vless://cbdf8ca4-62a9-3822-60b7-d83b5534ed7b@74.211.102.111:443?allowInsecure=0&sni=8pa3.y23.edukg.dpdns.org&type=ws&host=8pa3.y23.edukg.dpdns.org&path=/security=tls#15%7CUS_speednode_0071
 https://E6fucQ.absslk.xyz/cc0cd8aac428f9dd2bcc7d7c14c65b5d
-https://QKeSfw.mcsslk.xyz/18e1ca5e850bc1591b4f50e1b970cfd2
+https://jUp8Uk.mcsslk.xyz/84443172ba9814d99d495ce8360b403f
