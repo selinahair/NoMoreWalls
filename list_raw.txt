@@ -42,5 +42,5 @@ vless://6202b230-417c-4d8e-b624-0f71afa9c75d@198.204.227.171:2053?allowInsecure=
 vless://5a4abb78-ecd7-4d68-ab2a-c11a3842f261@198.62.62.235:443?allowInsecure=1&sni=bank.alaska-tigr.info&type=ws&host=bank.alaska-tigr.info&path=/lovesecurity=tls#15%7CUS_speednode_0018
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@23.169.184.123:443?allowInsecure=0&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=/?ed=2560security=tls#15%7CUS_speednode_0019
 vless://6202b230-417c-4d8e-b624-0f71afa9c75d@135.84.64.74:443?allowInsecure=0&sni=sni.111000.dynv6.net&type=ws&host=sni.111000.dynv6.net&path=/?ed=2560security=tls#15%7CUS_speednode_0020
-https://9Cnqjm.mcsslk.xyz/821d8f78493d6bf1639934a6e43ac954
-https://aEavkt.absslk.xyz/6356cbf9bea79849e8a07723cc4fcb1e
+https://2GbEAh.absslk.xyz/bf8c8161624e532a65ec477a87ffa650
+https://eSxQjx.mcsslk.xyz/a89886a122b95b5ee92e9939712735a4
