@@ -66,3 +66,4 @@ vless://6d1dfcdf-f221-4765-b104-30216a977914@142.91.108.54:443?allowInsecure=1&s
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@199.119.137.78:2053?allowInsecure=0&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560security=tls#15%7CUS_speednode_0054
 vless://981fca81-5be1-41f8-ac9b-d138e8109943@199.119.137.41:2053?allowInsecure=0&sni=babayaga-6i7.pages.dev&type=ws&host=babayaga-6i7.pages.dev&path=/?ed=2560security=tls#15%7CUS_speednode_0055
 https://bPCW6s.absslk.xyz/8b7cb65329ad31b9102b044abbfc2e1c
+hhysteria2://DBUklcvOyH@45.81.19.251:443?security=tls&insecure=1&sni=web.bale.ai#@Hddify
