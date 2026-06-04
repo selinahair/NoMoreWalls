@@ -169,11 +169,12 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|🇩🇪DE-@VPNine1
+- name: 8|@V2Ray_Hub1200
   obfs: salamander
   obfs-password: masir_sefid
   password: masir_sefid
   port: 443
+  ports: 500-56000
   server: 3.121.136.75
   skip-cert-verify: false
   sni: content.masir-sefid.shop
