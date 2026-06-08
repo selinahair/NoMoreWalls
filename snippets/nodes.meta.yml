@@ -46,16 +46,6 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|@internet_azad_2026
-  obfs: salamander
-  obfs-password: Masir_Sefid
-  password: '@Masir_Sefid'
-  port: 1040
-  server: 18.157.222.169
-  skip-cert-verify: false
-  sni: free.masir-sefid.shop
-  tls: false
-  type: hysteria2
 - name: 8|@FreakConfig
   obfs: salamander
   obfs-password: Masir_Sefid
@@ -86,7 +76,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #3'
+- name: '8|@internet_azad_2026 #2'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
@@ -106,7 +96,7 @@ proxies:
   sni: free.masir-sefid.shop
   tls: false
   type: hysteria2
-- name: '8|@internet_azad_2026 #5'
+- name: '8|@internet_azad_2026 #4'
   obfs: salamander
   obfs-password: Masir_Sefid
   password: '@Masir_Sefid'
