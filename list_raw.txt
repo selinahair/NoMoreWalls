@@ -9,6 +9,7 @@ hysteria2://940f51d6-e0a4-4add-b96b-328e4a84b642@140.245.27.220:51000?insecure=1
 hysteria2://EsimHy2Game_7xK9mPq2@198.105.112.118:443?sni=nl.esimpson.org&obfs=salamander&obfs-password=EsimObfs_9mK2x7#8%7C70%40oneclickvpnkeys
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
 hysteria2://T%24me%24V2RayyNGvpn@70.34.205.15:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T.me$V2RayyNGvpn#8%7C%40V2RayyNGvpn%F0%9F%87%B8%F0%9F%87%AA
+hysteria2://T%24me%24V2RayyNGvpn@70.34.206.217:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T$me$V2RayyNGVpn@V2RayyNGvpn#8%7C%F0%9F%87%B8%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%B8%F0%9F%87%AA
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
 hysteria2://be7441a663ef465566e3a6e441a16357@188.225.80.130:7443?insecure=1&sni=tw-vds.t1n2.com#8%7C%E2%9C%88%EF%B8%8F17%40oneclickvpnkeys
@@ -81,4 +82,4 @@ trojan://eeb6823c-b926-4ea2-866a-5542edd26e59@69.63.223.42:443?allowInsecure=0&s
 vless://23cb9aa7-9756-459f-aa84-3a27bdf6ad64@154.17.16.176:443?allowInsecure=1&sni=s5.868001.xyz&type=ws&host=s5.868001.xyz&path=/proxyip=ProxyIP.CMLiussss.netfp=chrome&security=tls#15%7CUS_speednode_0071
 vless://83afd88f-200f-4d89-bfc7-66eff160c1d8@172.64.35.7:2053?allowInsecure=1&sni=josni.hoyes.cloudns.ch&type=ws&host=josni.hoyes.cloudns.ch&path=/security=tls#15%7CUS_speednode_0072
 vless://e1ebbd5e-ba89-4b05-8336-de7834d14164@104.16.80.73:443?allowInsecure=0&sni=amirsa.pages.dev&type=ws&host=amirsa.pages.dev&path=/fp=chrome&security=tls#15%7CUS_speednode_0073
-https://diuBtq.absslk.xyz/6cff4c536d9a6221184e9443f7a864fd
+https://Uan2Tf.absslk.xyz/0de4554883e4567a463ac1c32745cd57
