@@ -6,9 +6,14 @@ hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@sg3.oomz.ru:30000?insecure=1&sn
 hysteria2://e7965e64-e001-4e8c-8273-39c61ff4a094@tw.oomz.ru:30000?insecure=1&sni=bing.com#7%7CTW
 hysteria2://3xkqzhpnfhaahx0q@atts5vkx96ec.dxdx5.com:5426?insecure=0&obfs=salamander&obfs-password=lmzo7ebpr6m8theh#8%7C%40mehrosaboran
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
+hysteria2://Telegram--%3E%40Ln2Ray@gavazn.lnmarketplace.net:45000?insecure=1&sni=gavazn.55994421.xyz&obfs=salamander&obfs-password=Telegram-->@Ln2Ray#8%7C%40FreakConfig
 hysteria2://V2RayyNGvpn@66.92.161.94:80?insecure=1&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#8%7C%40V2RayyNGvpn%F0%9F%87%A8%F0%9F%87%A6
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:35000?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7C%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36400?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7C%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%231
+hysteria2://Yet-Another-Public-Config-1@206.71.158.37:36600?insecure=1&sni=YAPC-1.afshin.ir&obfs=salamander&obfs-password=Yet-Another-Public-Config-1#8%7C%F0%9F%87%B3%F0%9F%87%B1%40FreakConfig%20%232
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
+hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@77.90.41.197:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%F0%9F%87%A9%F0%9F%87%AA%40FreakConfig
 hysteria2://c6b2924e-a913-4864-a910-b446b9841b4b@connect-ger2.gadmap.online:443?sni=connect-ger2.gadmap.online#8%7C%40ReleaseNet
 hysteria2://cFihfSrWtH@185.250.41.245:443?insecure=1&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#8%7C%40meliproxyy
 hysteria2://kjMoXj9ZxP@66.92.161.94:443?insecure=1&sni=www.wordreference.com&obfs=salamander&obfs-password=T.me/V2RayyNGvpn#8%7C%F0%9F%87%A8%F0%9F%87%A6%40V2RayyNGvpn%F0%9F%87%A8%F0%9F%87%A6
@@ -94,4 +99,4 @@ vless://86c50e3a-5b87-49dd-bd20-03c7f2735e40@itarmy.com.ua:2095?allowInsecure=0&
 vless://b69a71ef-51dc-48c6-b3df-4c3533062606@assets.trorays.com:443?allowInsecure=0&sni=assets.trorays.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0129
 vless://e5d07969-f008-42ee-bbab-7995ef4d1e1d@185.173.144.212:38334?allowInsecure=0&sni=www.yahoo.com&fp=chrome&security=tls#15%7CUS_speednode_0130
 vless://7e6d3393-bb84-45c7-9eef-35de95805b7e@142.91.108.139:443?allowInsecure=0&sni=jp.api-yandex.net&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0131
-https://O1DAcr.absslk.xyz/1de06078c36980a88bcd7dea41d2f305
+https://VCzoCE.absslk.xyz/bcda1ab3df7b00985fd99eb1a23ed70d
