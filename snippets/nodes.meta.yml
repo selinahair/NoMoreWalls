@@ -105,13 +105,6 @@ proxies:
   sni: 179.61.132.96
   tls: false
   type: hysteria2
-- name: 8|74@oneclickvpnkeys
-  password: MySecurePassword123
-  port: 8443
-  server: 157.230.222.46
-  sni: wuhantravel.duckdns.org
-  tls: false
-  type: hysteria2
 - name: 8|@V2RayyNGvpn🇪
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
@@ -170,14 +163,6 @@ proxies:
   server: 185.250.41.245
   skip-cert-verify: true
   sni: www.wordreference.com
-  tls: false
-  type: hysteria2
-- name: 8|💟75@oneclickvpnkeys
-  password: qQe1z5kU8kN6SlKnDt9Ru3Qp
-  port: 443
-  server: vpn-sg-001.fastervpn.world
-  skip-cert-verify: true
-  sni: vpn-sg-001.fastervpn.world
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
