@@ -96,13 +96,6 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 8|28@oneclickvpnkeys
-  password: 8bc63720-5ec8-45b5-b6a6-9a21ffb490e8
-  port: 443
-  server: 31.76.28.28
-  sni: argg5.auragg.org
-  tls: false
-  type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
   obfs: salamander
   obfs-password: KevinZakarian
@@ -173,14 +166,13 @@ proxies:
   sni: www.wordreference.com
   tls: false
   type: hysteria2
-- name: '8|🇩🇪@V2RayyNGvpn🇩🇪 #3'
+- name: 8|49@oneclickvpnkeys
   obfs: salamander
-  obfs-password: T.me/V2RayyNGvpn
-  password: ockdTdb3vU
+  obfs-password: 2a7e8084206388f4
+  password: gdubbi2zb6gdp0c8
   port: 443
-  server: 185.250.41.245
-  skip-cert-verify: true
-  sni: www.wordreference.com
+  server: 103.251.167.168
+  sni: gettestin.xxee.ru
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb
