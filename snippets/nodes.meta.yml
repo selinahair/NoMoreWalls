@@ -105,7 +105,7 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
-- name: 8|🇩🇪@FreakConfig
+- name: 8|🇩🇪@irconfiig
   obfs: salamander
   obfs-password: T.me/V2RayyNGvpn
   password: Z7MFGgpuzh
