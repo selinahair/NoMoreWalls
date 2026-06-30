@@ -105,7 +105,7 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: 8|18@oneclickvpnkeys
+- name: 8|💙18@oneclickvpnkeys
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: 653m8mmiy7048p0f
@@ -144,6 +144,16 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 8|🇩🇪💎hysteria-@hollowcon
+  password: hk6ah4vgb0qp2koh
+  port: 4526
+  server: panel.riziro.ir
+  sni: ger1.riziro.ir
+  tls: false
+  type: hysteria2
 - name: 8|@vmesskhodam
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -152,16 +162,6 @@ proxies:
   server: 130.49.161.70
   skip-cert-verify: false
   sni: hy2.aspidnet.xyz
-  tls: false
-  type: hysteria2
-- name: 8|Finland🇫🇮
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: s0e9dylundefinedundefinedn
-  port: 443
-  server: 65.109.177.191
-  skip-cert-verify: true
-  sni: www.oracle.com
   tls: false
   type: hysteria2
 - name: 8|France-Hy🇨🇵

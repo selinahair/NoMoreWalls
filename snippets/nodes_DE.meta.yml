@@ -7,3 +7,13 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  fingerprint: chrome
+  name: 8|🇩🇪💎hysteria-@hollowcon
+  password: hk6ah4vgb0qp2koh
+  port: 4526
+  server: panel.riziro.ir
+  sni: ger1.riziro.ir
+  tls: false
+  type: hysteria2
