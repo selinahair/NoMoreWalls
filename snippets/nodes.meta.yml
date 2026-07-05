@@ -46,7 +46,7 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
-- name: 8|️@ATLAS_V2VPN️️432️
+- name: 8|️️@ATLAS_V2VPN️️432️
   obfs: salamander
   obfs-password: 3sv5vpdl9xr84lyb
   password: 653m8mmiy7048p0f
@@ -92,6 +92,14 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 8|FR-@VPNine1
+  password: dongtaiwang.com
+  port: 22000
+  server: 62.210.124.146
+  skip-cert-verify: true
+  sni: www.microsoft.com
   tls: false
   type: hysteria2
 - alpn:
