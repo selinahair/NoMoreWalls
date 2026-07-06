@@ -46,6 +46,22 @@ proxies:
   sni: bing.com
   tls: false
   type: hysteria2
+- name: 8|🕹️74@oneclickvpnkeys
+  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
+  port: 8449
+  server: 45.196.182.168
+  skip-cert-verify: true
+  sni: sni.fi-m247-02.com
+  tls: false
+  type: hysteria2
+- name: 8|🕹️73@oneclickvpnkeys
+  password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
+  port: 8449
+  server: 45.196.182.199
+  skip-cert-verify: true
+  sni: sni.fi-m247-02.com
+  tls: false
+  type: hysteria2
 - name: 8|🕹️17@oneclickvpnkeys
   password: 03e7f55f-22f8-4564-880f-b86c8cdbf140
   port: 8449
