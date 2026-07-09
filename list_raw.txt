@@ -20,9 +20,8 @@ hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@34.219.182.57:443?insecure=1#8%7C%F0%9F%92%
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.149.34.181:443?insecure=1#8%7C%F0%9F%92%A153%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@54.245.180.117:443?insecure=1#8%7C%F0%9F%92%A156%40oneclickvpnkeys
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-us-003.fastervpn.world:443?insecure=1&sni=vpn-us-003.fastervpn.world#8%7C%F0%9F%92%A154%40oneclickvpnkeys
-hysteria2://Hd04Vxxpn2@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7C%40V2RayyNGvpn
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
-hysteria2://QjdEEystFJ@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
+hysteria2://QjdEEystFJ@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7C%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://TGzLlWQaFb@91.107.152.188:40460?insecure=1&sni=www.amd.com&obfs=salamander&obfs-password=t-me-V2RayyNGvpn#8%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
