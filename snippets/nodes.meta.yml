@@ -83,17 +83,7 @@ proxies:
   sni: 169.40.32.218
   tls: false
   type: hysteria2
-- name: 8|@V2RayyNGvpn🇩🇪hy
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: CakZRUUlundefinedS
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 8|Telegram🇩🇪V2RayyNGvpn🇩🇪
+- name: 8|Telegram🇩🇪V2RayyNGvpn🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: D0KVsHbDlj
@@ -103,7 +93,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|TelegramV2RayyNGvpn🇵
+- name: 8|Telegram🇨🇵V2RayyNGvpn🇨🇵
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: H2I53e3OzO
@@ -141,6 +131,16 @@ proxies:
   server: cuetara.name.cuetara.name
   tls: false
   type: hysteria2
+- name: 8|未命名
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: V2RAYYNGVPN
+  port: 40460
+  server: 91.107.152.188
+  skip-cert-verify: true
+  sni: ''
+  tls: false
+  type: hysteria2
 - name: 8|Telegram🇩🇪V2RayyNGvpn
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
@@ -171,7 +171,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|🇫🇮FI-🚀@VPNine1
+- name: 8|@vmesskhodam
   obfs: salamander
   obfs-password: gu74jg3ym0e21zco
   password: elknam6l7izf3z71
@@ -181,7 +181,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@vmesskhodam
+- name: '8|@vmesskhodam #1'
   obfs: salamander
   obfs-password: ielzukpwth087afx
   password: elknam6l7izf3z71
@@ -191,7 +191,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@vmesskhodam #1'
+- name: '8|@vmesskhodam #2'
   obfs: salamander
   obfs-password: cukfjxud1ebjuuzs
   password: elknam6l7izf3z71
@@ -201,19 +201,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: 8|@v2ray_configs_pools
-  obfs: salamander
-  obfs-password: 53cgqwhojoxri5lr
-  password: elknam6l7izf3z71
-  port: 52018
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '8|@vmesskhodam #2'
+- name: '8|@vmesskhodam #3'
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: elknam6l7izf3z71
