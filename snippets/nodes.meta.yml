@@ -53,7 +53,7 @@ proxies:
   sni: hyst-1.hysteria.ltd
   tls: false
   type: hysteria2
-- name: 8|15@oneclickvpnkeys
+- name: 8|🎡15@oneclickvpnkeys
   password: 88f839f2-c3c0-487d-aac3-f8c089d2369d
   port: 55000
   server: 45.154.205.25
@@ -61,7 +61,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: 8|🇩🇪@FreakConfig
+- name: 8|@FreakConfig
   obfs: salamander
   obfs-password: ngljeqgna3hmfr2s
   password: 91uokb9ud7raz0fk
@@ -171,7 +171,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: 8|@filembad
+- name: 8|🇫🇮FI-🚀@VPNine1
   obfs: salamander
   obfs-password: gu74jg3ym0e21zco
   password: elknam6l7izf3z71
@@ -260,16 +260,6 @@ proxies:
   server: 80.66.81.78
   skip-cert-verify: false
   sni: tunel1.washing.help
-  tls: false
-  type: hysteria2
-- name: 8|🇩🇪@V2RayyNGvpn🇩🇪hy
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: tU9Tcz3TMp
-  port: 40460
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
   tls: false
   type: hysteria2
 - name: 8|9@oneclickvpnkeys
