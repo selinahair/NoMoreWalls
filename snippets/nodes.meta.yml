@@ -68,7 +68,7 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: 8|@Badangellll-JOIN
+  name: 8|@filembad
   obfs: salamander
   obfs-password: lwhvz2y1ntz8p5nf
   password: BADANGELLLL
@@ -128,7 +128,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@Napsternetvirani #1'
+- name: 8|@Napsternetvirani👾
   obfs: salamander
   obfs-password: ielzukpwth087afx
   password: elknam6l7izf3z71
@@ -148,7 +148,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@filembad #1'
+- name: '8|@FreakConfig #1'
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: elknam6l7izf3z71
@@ -158,47 +158,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|@filembad #2'
-  obfs: salamander
-  obfs-password: l6l4n5a0q9epnr5k
-  password: elknam6l7izf3z71
-  port: 52051
-  server: soskeynets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '8|@filembad #3'
-  obfs: salamander
-  obfs-password: fd3olglr2bmimgje
-  password: elknam6l7izf3z71
-  port: 52061
-  server: soskeynets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '8|@filembad #4'
-  obfs: salamander
-  obfs-password: txwr28j1lntoy0sj
-  password: elknam6l7izf3z71
-  port: 52067
-  server: soskeynets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: 8|️️@ATLAS_V2VPN️️447️
-  obfs: salamander
-  obfs-password: 3sv5vpdl9xr84lyb
-  password: eltgrek81o6w5cd4
-  port: 443
-  server: social.klipp.su
-  skip-cert-verify: false
-  sni: social.klipp.su
-  tls: false
-  type: hysteria2
-- name: '8|@Alpha_v2rayIP #2'
+- name: '8|@erfanandroid #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -218,7 +178,7 @@ proxies:
   sni: tunel1.washing.help
   tls: false
   type: hysteria2
-- name: '8|@Alpha_v2rayIP #3'
+- name: '8|@Alpha_v2rayIP #1'
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: tf5LINcpQy
