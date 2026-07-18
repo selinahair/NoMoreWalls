@@ -7,7 +7,7 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: 8|️Telegram=V2RayyNGvpn🇩🇪
+- name: 8|Telegram=V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: KJX4HQHodA
@@ -77,7 +77,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '8|T.Me=V2RayyNGvpn🇩🇪 #1'
+- name: 8|🚀T.Me=V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: T-ME-V2RayyNGvpn
   password: kfCR7ekba6
