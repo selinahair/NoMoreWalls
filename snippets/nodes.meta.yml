@@ -176,7 +176,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|🇫🇮FI-@VPNine1
+- name: 8|FI-@VPNine1
   obfs: salamander
   obfs-password: 53cgqwhojoxri5lr
   password: elknam6l7izf3z71
