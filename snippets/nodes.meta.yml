@@ -64,6 +64,16 @@ proxies:
   sni: www.oracle.com
   tls: false
   type: hysteria2
+- name: 8|@V2RayyNGvpn🇵
+  obfs: salamander
+  obfs-password: t-me-V2RayyNGvpn
+  password: 76TeSy4hi8
+  port: 55809
+  server: 51.159.137.79
+  skip-cert-verify: true
+  sni: www.amd.com
+  tls: false
+  type: hysteria2
 - name: 8|@AzarAndoozVPNbot
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
