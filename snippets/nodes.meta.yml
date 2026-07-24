@@ -54,16 +54,6 @@ proxies:
   server: zz12343qq.265897.xyz
   tls: false
   type: hysteria2
-- name: 8|@V2RayyNGvpn🇩🇪
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: 5NLxoNSwj0
-  port: 40837
-  server: 162.19.181.176
-  skip-cert-verify: true
-  sni: www.oracle.com
-  tls: false
-  type: hysteria2
 - name: 8|34@oneclickvpnkeys
   password: 68b4b16e-2759-47a4-8a69-33118edf5ce6
   port: 443
@@ -92,16 +82,6 @@ proxies:
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: ALg6h4f8Mo
-  port: 31999
-  server: 91.107.152.188
-  skip-cert-verify: true
-  sni: www.amd.com
-  tls: false
-  type: hysteria2
-- name: 8|@icv2ray
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: IoFmkhjUlE
   port: 31999
   server: 91.107.152.188
   skip-cert-verify: true
@@ -168,7 +148,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: 8|@Napsternetvirani
+- name: '8|@Napsternetvirani #1'
   obfs: salamander
   obfs-password: lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF
   password: hy2_czaawdhc
