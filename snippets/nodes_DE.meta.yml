@@ -7,13 +7,13 @@ proxies:
   sni: de.eyucdn.xyz
   tls: false
   type: hysteria2
-- name: '8|Telegram=V2RayyNGvpn🇩🇪 #1'
+- name: 8|@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
-  password: fGc3qPlaQk
-  port: 31999
-  server: 91.107.152.188
+  password: 5NLxoNSwj0
+  port: 40837
+  server: 162.19.181.176
   skip-cert-verify: true
-  sni: www.amd.com
+  sni: www.oracle.com
   tls: false
   type: hysteria2
