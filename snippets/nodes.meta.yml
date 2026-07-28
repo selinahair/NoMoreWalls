@@ -1,12 +1,10 @@
 proxies:
-- name: 8|@vmess_ir
-  obfs: salamander
-  obfs-password: mtg2vchyir6la3et
-  password: 4z2oldt85p494bgb
-  port: 52021
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
+- name: 7|🇳🇱
+  password: LzMWgm6LaNWCm11bFTbynDPq2TqQj03t
+  port: 443
+  server: 5.255.102.165
+  skip-cert-verify: true
+  sni: www.microsoft.com
   tls: false
   type: hysteria2
 - name: 8|@vmesskhodam
@@ -19,7 +17,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@FarazV2ray
+- name: 8|️@ATLAS_V2VPN️️491️
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 4z2oldt85p494bgb
@@ -39,7 +37,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@V2RayyNGvpn🇩🇪
+- name: 8|🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: V2RayyNGvpn
   password: EaDTeupk9I
@@ -107,7 +105,7 @@ proxies:
   sni: www.amd.com
   tls: false
   type: hysteria2
-- name: '8|@mehrosaboran #1'
+- name: '8|@meliproxyy #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
@@ -124,7 +122,7 @@ proxies:
   sni: gretacoin.shop
   tls: false
   type: hysteria2
-- name: 8|86@oneclickvpnkeys
+- name: '8|@meliproxyy #3'
   obfs: salamander
   obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
   password: voQTxwGh4I
