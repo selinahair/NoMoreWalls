@@ -104,7 +104,7 @@ proxies:
   sni: musicclips.videolinks.ru
   tls: false
   type: hysteria2
-- name: 8|70@oneclickvpnkeys
+- name: 8|📯70@oneclickvpnkeys
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
   password: o3774es6cfv74kaf
