@@ -2,9 +2,9 @@ hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=ww
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52025?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=iknjsvsjagi449mm#8%7C%40vmesskhodam
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#8%7C%EF%B8%8F%40ATLAS_V2VPN%EF%B8%8F%EF%B8%8F491%EF%B8%8F
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=fd3olglr2bmimgje#8%7C%40Alpha_v2rayIP
+hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#8%7C%40filembad
 hysteria2://EaDTeupk9I@91.107.178.22:43913?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=V2RayyNGvpn#8%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=salamander&obfs-password=KevinZakarian#8%7C%2B%40Azarakhsh_Proxy%2B
-hysteria2://LzMWgm6LaNWCm11bFTbynDPq2TqQj03t@5.255.102.165:443?insecure=1&sni=5.255.102.165#8%7C99%40oneclickvpnkeys
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
 hysteria2://hy2_czaawdhc@2.26.92.136:443?insecure=0&sni=nl2.cleanersaz.help&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF#8%7C%40bored_vpn

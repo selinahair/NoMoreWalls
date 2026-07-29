@@ -37,6 +37,16 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
+- name: 8|@filembad
+  obfs: salamander
+  obfs-password: l960g2kn19nphlra
+  password: 84eyebdtl3tcbssn
+  port: 52060
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: 8|🇩🇪@V2RayyNGvpn🇩🇪
   obfs: salamander
   obfs-password: V2RayyNGvpn
@@ -55,14 +65,6 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
-  tls: false
-  type: hysteria2
-- name: 8|99@oneclickvpnkeys
-  password: LzMWgm6LaNWCm11bFTbynDPq2TqQj03t
-  port: 443
-  server: 5.255.102.165
-  skip-cert-verify: true
-  sni: 5.255.102.165
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
