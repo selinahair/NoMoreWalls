@@ -6,7 +6,7 @@ hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52060?insecure=0&sni=asse
 hysteria2://4z2oldt85p494bgb@assets.gateway-stream.com:52061?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=fd3olglr2bmimgje#8%7C%40Alpha_v2rayIP
 hysteria2://68b4b16e-2759-47a4-8a69-33118edf5ce6@150.241.124.145:443?sni=ger.leontunel.ru#8%7C55%40oneclickvpnkeys
 hysteria2://76713d07-5a6b-49c2-abd8-bc450a2fa7fc@usa1.spectrumproxy.shop:443?sni=usa1.spectrumproxy.shop#8%7C52%40oneclickvpnkeys
-hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#8%7C%F0%9F%87%AB%F0%9F%87%AEFI-%F0%9F%9A%80%40VPNine1
+hysteria2://84eyebdtl3tcbssn@assets.gateway-stream.com:52060?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=l960g2kn19nphlra#8%7C%40erfanandroid%20%231
 hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@76.164.202.214:8443?sni=mercedes-grape.yyuyy.com#8%7C60%40oneclickvpnkeys
 hysteria2://EaDTeupk9I@91.107.178.22:43913?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=V2RayyNGvpn#8%7C%F0%9F%87%A9%F0%9F%87%AA%40V2RayyNGvpn%F0%9F%87%A9%F0%9F%87%AA
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-ca-002.fastervpn.world:443?insecure=1&sni=vpn-ca-002.fastervpn.world#8%7C50%40oneclickvpnkeys
@@ -18,7 +18,7 @@ hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@5.175.249.174:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2%20%232
 hysteria2://d2e3768f-cb23-4cfc-a884-dbd6813cb70b@de1-hy2.veilvpn.life:8433?sni=de1-hy2.veilvpn.life#8%7C58%40oneclickvpnkeys
 hysteria2://e04a51d1-0450-4919-b924-bd08501934bf@2.59.163.171:443?sni=2.59.163.171.nip.io#8%7C56%40oneclickvpnkeys
-hysteria2://e04a51d1-0450-4919-b924-bd08501934bf@80.66.78.105:443?sni=80.66.78.105.nip.io#8%7C47%40oneclickvpnkeys
+hysteria2://e04a51d1-0450-4919-b924-bd08501934bf@80.66.78.105:443?insecure=0&sni=80.66.78.105.nip.io#8%7C%40Napsternetvirani%20%231
 hysteria2://ew9_M93_6a31Qd45_hUX3984F_jNZ83x_Nz1l_f@94.20.88.13:8443?sni=azer-tea-grape.bumbleshrimp.com#8%7C54%40oneclickvpnkeys
 hysteria2://hy2_czaawdhc@2.26.92.136:443?insecure=0&sni=nl2.cleanersaz.help&obfs=salamander&obfs-password=lvy1Hw_j4Hwx8oIL2tEa315Sb4t7QrjF#8%7C%40bored_vpn
 hysteria2://mkL3AfdSZIpTWRB9TcWPn9vywPGN89MRHg3ToRDj@91.196.32.163:443?insecure=1&sni=germany3.h2corp.local#8%7C49%40oneclickvpnkeys

@@ -68,7 +68,7 @@ proxies:
   sni: usa1.spectrumproxy.shop
   tls: false
   type: hysteria2
-- name: 8|🇫🇮FI-🚀@VPNine1
+- name: '8|@erfanandroid #1'
   obfs: salamander
   obfs-password: l960g2kn19nphlra
   password: 84eyebdtl3tcbssn
@@ -170,10 +170,11 @@ proxies:
   sni: 2.59.163.171.nip.io
   tls: false
   type: hysteria2
-- name: 8|47@oneclickvpnkeys
+- name: '8|@Napsternetvirani #1'
   password: e04a51d1-0450-4919-b924-bd08501934bf
   port: 443
   server: 80.66.78.105
+  skip-cert-verify: false
   sni: 80.66.78.105.nip.io
   tls: false
   type: hysteria2
