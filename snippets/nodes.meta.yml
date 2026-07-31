@@ -32,18 +32,6 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- alpn:
-  - h3
-  name: '8|未命名 #1'
-  obfs: salamander
-  obfs-password: f7jlf6m0hwvcl593
-  password: 0puq3lmwv7qtp76t
-  port: 52070
-  server: assets.gateway-stream.com
-  skip-cert-verify: true
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 8|🦄43@oneclickvpnkeys
   password: 1hOIVDVBG2hdKtJwOV2aUEFTDaFArCSH9-HrcOnps8yqQZeq
   port: 443
@@ -97,6 +85,13 @@ proxies:
   port: 443
   server: wopa9.api3-max.ru
   sni: wopa9.api3-max.ru
+  tls: false
+  type: hysteria2
+- name: '8|未命名 #1'
+  password: 71cada65-d23e-418c-88e4-a06188d14689
+  port: 443
+  server: 2.26.85.26
+  sni: fi-one.quiet-rogue.site
   tls: false
   type: hysteria2
 - name: 8|🦄36@oneclickvpnkeys
@@ -160,7 +155,7 @@ proxies:
   sni: hy2.561891.xyz
   tls: false
   type: hysteria2
-- name: 8|65@oneclickvpnkeys
+- name: 8|🎒65@oneclickvpnkeys
   password: dongtaiwang.com
   port: 44356
   server: hy2.561891.xyz
