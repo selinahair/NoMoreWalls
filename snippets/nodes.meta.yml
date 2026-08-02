@@ -127,6 +127,13 @@ proxies:
   sni: wopa3.api3-max.ru
   tls: false
   type: hysteria2
+- name: 8|👁️‍🗨️23@oneclickvpnkeys
+  password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
+  port: 443
+  server: wopa5.api3-max.ru
+  sni: wopa5.api3-max.ru
+  tls: false
+  type: hysteria2
 - name: 8|👁️‍🗨️58@oneclickvpnkeys
   password: 67a1454f-5a95-4e30-9723-1ffcbe7e97f9
   port: 443
@@ -163,7 +170,7 @@ proxies:
   sni: swe-one.quiet-rogue.site
   tls: false
   type: hysteria2
-- name: 8|@Napsternetvirani
+- name: 8|@FarazV2ray
   obfs: salamander
   obfs-password: 93lc6r07zfx4crct
   password: 76kyzc055ahiyfzy
@@ -277,6 +284,16 @@ proxies:
   server: 5.175.249.174
   skip-cert-verify: true
   sni: api.kermanshahi.org
+  tls: false
+  type: hysteria2
+- name: 8|@meliproxyy
+  obfs: salamander
+  obfs-password: RedmEthIS-Join-V2RayyNGvpn-oBsPaHard183hgak
+  password: jeLq05gFPe
+  port: 443
+  server: 91.107.178.22
+  skip-cert-verify: true
+  sni: www.refersion.com
   tls: false
   type: hysteria2
 - name: 8|@Selinc
