@@ -42,11 +42,3 @@ proxies:
   sni: bel-03.node.lumixnet.com
   tls: false
   type: hysteria2
-- name: 8|47@oneclickvpnkeys
-  password: FPSfGfmZs5rjz5dlqreuDK7B
-  port: 62202
-  server: 37.120.189.107
-  skip-cert-verify: true
-  sni: de1.143259.xyz
-  tls: false
-  type: hysteria2
