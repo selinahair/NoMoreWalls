@@ -582,6 +582,16 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
+- name: 8|🇫🇮ConfigV2RayNG
+  obfs: salamander
+  obfs-password: pha76a5o7ormjepb
+  password: kjq3gpn1xom1ted9
+  port: 52056
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: 8|@Daily_Configs
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
