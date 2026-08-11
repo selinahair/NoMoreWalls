@@ -6,14 +6,6 @@ proxies:
   sni: nl1.noesissite.ru
   tls: false
   type: hysteria2
-- name: 7|JP
-  password: 0c3bd8c8-53db-4126-a98f-d12d908d5301
-  port: 11000
-  server: jpa.nnpy.org
-  skip-cert-verify: true
-  sni: www.bing.com
-  tls: false
-  type: hysteria2
 - name: '7|荷兰 #1'
   password: 16ab4d4a-fd81-4535-9b7b-346677226ce8
   port: 443
@@ -307,6 +299,13 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
+- name: '7|荷兰 #7'
+  password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
+  port: 8443
+  server: 86.107.178.69
+  sni: grape-zet-turbo-nl.yyuyy.com
+  tls: false
+  type: hysteria2
 - name: 7|🇯🇵JP
   password: STYyftThFn
   port: 12765
@@ -347,7 +346,7 @@ proxies:
   sni: quic.tyr-agentstvo.tech
   tls: false
   type: hysteria2
-- name: '7|荷兰 #7'
+- name: '7|荷兰 #8'
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -431,7 +430,7 @@ proxies:
   sni: www.amazon.com
   tls: false
   type: hysteria2
-- name: '7|荷兰 #8'
+- name: '7|荷兰 #9'
   password: gf1
   port: 443
   server: 5.129.235.85
@@ -453,7 +452,7 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: '7|荷兰 #9'
+- name: '7|荷兰 #10'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.219
@@ -464,6 +463,13 @@ proxies:
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.220
+  sni: grape-turbo-fr.roxa.org
+  tls: false
+  type: hysteria2
+- name: '7|国 #4'
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 205.237.109.221
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
@@ -479,19 +485,19 @@ proxies:
   type: hysteria2
 - name: 8|🇫🇮FI-🚀@VPNine1
   obfs: salamander
-  obfs-password: ielzukpwth087afx
+  obfs-password: v8h63irhnay97090
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52002
+  port: 52029
   server: assets.gateway-stream.com
   skip-cert-verify: false
-  sni: ''
+  sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
 - name: '8|🇫🇮FI-🚀@VPNine1 #1'
   obfs: salamander
-  obfs-password: ielzukpwth087afx
+  obfs-password: fd3olglr2bmimgje
   password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52002
+  port: 52061
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
@@ -557,7 +563,7 @@ proxies:
   sni: api.kermanshahi.org
   tls: false
   type: hysteria2
-- name: '8|未命名 #12'
+- name: 8|🇵
   obfs: salamander
   obfs-password: mtg2vchyir6la3et
   password: k1dom6dyqelryllv
@@ -651,7 +657,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: '8|未命名 #14'
+- name: '8|未命名 #13'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
