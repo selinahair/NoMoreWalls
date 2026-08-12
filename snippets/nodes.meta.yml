@@ -44,7 +44,7 @@ proxies:
   sni: yg3.mangshe.xyz
   tls: false
   type: hysteria2
-- name: '7|兰 #1'
+- name: 7,8|️89@oneclickvpnkeys
   obfs: salamander
   obfs-password: 8zzng75tz4tf82pj
   password: 22j0d00lev7mq0yv
@@ -64,10 +64,11 @@ proxies:
   sni: pl6.lckdwn.ru
   tls: false
   type: hysteria2
-- name: '7|未命名 #1'
+- name: 7,8|️70@oneclickvpnkeys
   password: 2ef4cf10-34df-4c0f-9d82-bf6ca9e45025
   port: 443
   server: node-degame.bangboonet.ru
+  skip-cert-verify: true
   sni: node-degame.bangboonet.ru
   tls: false
   type: hysteria2
@@ -324,10 +325,11 @@ proxies:
   sni: nl2.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '7|法国 #1'
+- name: 7,8|️73@oneclickvpnkeys
   password: d1a0857bc1eb833a9edf96be4c1f999e
   port: 55443
   server: host-vds2-fr.kvncococ.org
+  skip-cert-verify: true
   sni: host-vds2-fr.kvncococ.org
   tls: false
   type: hysteria2
@@ -641,16 +643,6 @@ proxies:
   sni: nl2.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '8|未命名 #9'
-  obfs: salamander
-  obfs-password: mtg2vchyir6la3et
-  password: k1dom6dyqelryllv
-  port: 52021
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   name: 8|N
@@ -675,16 +667,6 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|🇨
-  obfs: salamander
-  obfs-password: zducqb7ro143x0t2
-  password: k1dom6dyqelryllv
-  port: 52076
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 8|@configprxy
   obfs: salamander
   obfs-password: p61ckuavkc1s2hfl
@@ -695,7 +677,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|🇷
+- name: '8|@configprxy #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
