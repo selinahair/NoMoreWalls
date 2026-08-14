@@ -227,7 +227,7 @@ proxies:
   sni: www.cloudflare.com
   tls: false
   type: hysteria2
-- name: 7,8|10@oneclickvpnkeys
+- name: '7|荷兰 #4'
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.66
@@ -235,19 +235,17 @@ proxies:
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: 7,8|8@oneclickvpnkeys
+- name: '7|荷兰 #5'
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.68
-  skip-cert-verify: true
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
-- name: 7,8|🎗️24@oneclickvpnkeys
+- name: '7|荷兰 #6'
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.69
-  skip-cert-verify: true
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
@@ -364,7 +362,7 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 7,8|️42@oneclickvpnkeys
+- name: '7|荷兰 #9'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.219
@@ -378,7 +376,7 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 7,8|🎗️37@oneclickvpnkeys
+- name: '7|国 #6'
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 205.237.109.221
@@ -430,13 +428,6 @@ proxies:
   server: social.klipp.su
   skip-cert-verify: false
   sni: social.klipp.su
-  tls: false
-  type: hysteria2
-- name: 8|40@oneclickvpnkeys
-  password: 2ef4cf10-34df-4c0f-9d82-bf6ca9e45025
-  port: 443
-  server: 103.27.156.125
-  sni: node-degame.bangboonet.ru
   tls: false
   type: hysteria2
 - name: 8|@vmess_ir
