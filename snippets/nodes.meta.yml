@@ -349,7 +349,7 @@ proxies:
   sni: www.dell.com
   tls: false
   type: hysteria2
-- name: 7,8|🇳🇱NL-🚀@VPNine1
+- name: 7,8|⚛️48@oneclickvpnkeys
   password: gf1
   port: 443
   server: 5.129.235.85
@@ -500,7 +500,7 @@ proxies:
   sni: a26738d5774ad803.devmrzero.ir
   tls: false
   type: hysteria2
-- name: 8|@Configvibes🇹
+- name: 8|@Configvibes🇷
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
   password: '@Telegram@Configvibes'
@@ -510,7 +510,7 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: 8|🛎️96@oneclickvpnkeys
+- name: 8|️96@oneclickvpnkeys
   password: Apt1923_N9x234gn_Nal5Nx3j_s
   port: 8443
   server: 222.167.212.24
@@ -619,21 +619,9 @@ proxies:
   - h3
   name: 8|🇫🇮FI-🚀@VPNine1
   obfs: salamander
-  obfs-password: v8h63irhnay97090
+  obfs-password: txwr28j1lntoy0sj
   password: d86efa900c2f4bb6bde662f1ef6413b8
-  port: 52029
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: ''
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: '8|🇫🇮FI-🚀@VPNine1 #1'
-  obfs: salamander
-  obfs-password: v8h63irhnay97090
-  password: d86efa900c2f4bb6bde662f1ef6413b8
-  port: 52029
+  port: 52067
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
@@ -641,11 +629,11 @@ proxies:
   type: hysteria2
 - alpn:
   - h3
-  name: '8|🇫🇮FI-🚀@VPNine1 #2'
+  name: '8|🇫🇮FI-🚀@VPNine1 #1'
   obfs: salamander
-  obfs-password: txwr28j1lntoy0sj
+  obfs-password: ene2f0oo4n8i3inf
   password: d86efa900c2f4bb6bde662f1ef6413b8
-  port: 52067
+  port: 52068
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
