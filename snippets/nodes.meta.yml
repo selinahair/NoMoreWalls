@@ -212,7 +212,7 @@ proxies:
   sni: grape-zet-ro-turbo.bumbleshrimp.com
   tls: false
   type: hysteria2
-- name: 7,8|️95@oneclickvpnkeys
+- name: 7,8|🛎️95@oneclickvpnkeys
   password: Krab9Hyst2_Rk7pQ2xL
   port: 36723
   server: fr.vpn.legendaah.xyz
@@ -422,28 +422,6 @@ proxies:
   sni: social.klipp.su
   tls: false
   type: hysteria2
-- name: 8|@vmess_ir
-  obfs: salamander
-  obfs-password: hg7rfvz151ftjh0w
-  password: 4ff4adfb8e7a4bae9c959c54fa5af52f
-  port: 52062
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 8|TELEGRAM:@ConfigV2RayNG
-  obfs: salamander
-  obfs-password: 1wcfqg6gwoyxlplo
-  password: 544a7fdaa05a4dbe868288f8a9fb023c
-  port: 52022
-  server: assets.gateway-stream.com
-  skip-cert-verify: false
-  sni: assets.gateway-stream.com
-  tls: false
-  type: hysteria2
 - name: 8|@FreakConfig
   obfs: salamander
   obfs-password: AIbOe_791iQ4k6kPUgdsO7B9
@@ -471,7 +449,7 @@ proxies:
   sni: grape-power-pl.ddnsguru.com
   tls: false
   type: hysteria2
-- name: 8|️97@oneclickvpnkeys
+- name: 8|🛎️97@oneclickvpnkeys
   password: Apt1923_N9x234gn_Nal5Nx3j_s
   port: 8443
   server: 222.167.212.79
