@@ -107,5 +107,5 @@ vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:31877?allowInsecure=
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:39395?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0125
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:9713?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0127
 vless://53b59cb5-c741-3399-9065-93dc34685f5b@155.117.199.12:29709?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0137
-hhysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?sni=gorbachev-new-th.kvnfreetest.uk#⚛️46@oneclickvpnkeys
 https://Nr5naf.absslk.xyz/e98af01c1d1a5c4506aead30efa93f08
+hhysteria2://083417772bc618cd61f0cca23dd91680@167.179.34.31:55443/?sni=gorbachev-new-th.kvnfreetest.uk#⚛️46@oneclickvpnkeys
