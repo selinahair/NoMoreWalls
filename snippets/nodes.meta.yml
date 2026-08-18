@@ -417,16 +417,6 @@ proxies:
   sni: flkf3.mangshe.xyz
   tls: false
   type: hysteria2
-- name: 8|V2RayyNGvpn🇨🇦
-  obfs: salamander
-  obfs-password: t-me-V2RayyNGvpn
-  password: 4T3sB0DeFo
-  port: 38871
-  server: 51.79.91.52
-  skip-cert-verify: true
-  sni: play.google.com
-  tls: false
-  type: hysteria2
 - name: 8|🇩🇪@FreakConfig
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -437,13 +427,22 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
+- name: '8|未命名 #9'
+  obfs: salamander
+  obfs-password: uw9b2qq5rx
+  password: 6aab8efdf13945829ae3699c342be406
+  port: 443
+  server: 31.76.80.69
+  skip-cert-verify: false
+  sni: fiproxy1.lockdwn.com@freenettir³
+  tls: false
+  type: hysteria2
 - name: '8|@meliproxyy #1'
   obfs: salamander
   obfs-password: uw9b2qq5rx
   password: 6aab8efdf13945829ae3699c342be406
   port: 443
   server: fiproxy1.lockdwn.com
-  skip-cert-verify: false
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
@@ -503,7 +502,7 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: 8|🇨🇦V2RayyNGvpn🇨🇦
+- name: 8|🇦V2RayyNGvpn🇨🇦
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: IJMFOXhvbQ
@@ -582,7 +581,7 @@ proxies:
   sni: 155.248.209.237
   tls: false
   type: hysteria2
-- name: 8|🎈46@oneclickvpnkeys
+- name: 8|46@oneclickvpnkeys
   password: ed77b662dbdf1a817d5eb75ae940cac4
   port: 50160
   server: 198-46-188-116.liao.kdns.fr
@@ -618,7 +617,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@Napsternetvirani
+- name: '8|@vmesskhodam #3'
   obfs: salamander
   obfs-password: 1wcfqg6gwoyxlplo
   password: m3bqxk03mg221yi2
