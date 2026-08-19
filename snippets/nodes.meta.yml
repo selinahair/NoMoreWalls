@@ -269,7 +269,7 @@ proxies:
   sni: eh-spl1.craft-supply.org
   tls: false
   type: hysteria2
-- name: 7|KR
+- name: 7|🇷KR
   password: dfb54e674104158210fdfcac45e5679d
   port: 50160
   server: 193.122.104.200
@@ -491,7 +491,7 @@ proxies:
   sni: 198-46-188-116.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: '8|kurdconfig #2'
+- name: 8|🇫🇮@FreakConfig
   obfs: salamander
   obfs-password: gu74jg3ym0e21zco
   password: m3bqxk03mg221yi2
@@ -559,7 +559,7 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 8|🇫🇮@FreakConfig
+- name: '8|🇫🇮@FreakConfig #1'
   obfs: salamander
   obfs-password: d6pv15sghiq1onts
   password: t8t2qojzsykqazfu
