@@ -6,12 +6,12 @@ proxies:
   sni: nl.prisma-access.club
   tls: false
   type: hysteria2
-- name: 7|兰
-  password: 08794874-93d0-4cf2-b9d6-1f2774cdffeb
-  port: 2101
-  server: 144.31.5.9
+- name: 7|SG
+  password: 1427eb10-7529-4d38-a6a2-01b337868b37
+  port: 1935
+  server: sg2.xiaoliyu.cyou
   skip-cert-verify: true
-  sni: panel.vlessbotkey.ru
+  sni: sg2.xiaoliyu.cyou
   tls: false
   type: hysteria2
 - name: 7|未命名
@@ -27,14 +27,6 @@ proxies:
   server: lsj1.mangshe.xyz
   skip-cert-verify: true
   sni: lsj1.mangshe.xyz
-  tls: false
-  type: hysteria2
-- name: 7|SG
-  password: 22d891f5-ad85-4824-b0b8-e30cf3d37eb5
-  port: 2060
-  server: xjp4.mangshe.xyz
-  skip-cert-verify: true
-  sni: xjp4.mangshe.xyz
   tls: false
   type: hysteria2
 - name: 7|波兰
@@ -129,7 +121,7 @@ proxies:
   sni: j47lq.pleiades.codes
   tls: false
   type: hysteria2
-- name: '7,8|@Configvibes🇹🇷 #2'
+- name: '7,8|@Configvibes🇹🇷 #1'
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
   password: '@Telegram@Configvibes'
@@ -139,7 +131,7 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: '7|兰 #1'
+- name: 7|兰
   password: Apt1923_N9x234gn_Nal5Nx3j_s
   port: 8443
   server: 222.167.212.80
@@ -192,10 +184,11 @@ proxies:
   sni: www.cloudflare.com
   tls: false
   type: hysteria2
-- name: '7|兰 #2'
+- name: 7,8|16@oneclickvpnkeys
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 86.107.178.69
+  skip-cert-verify: true
   sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
@@ -277,7 +270,7 @@ proxies:
   sni: 193-122-104-200.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: 7,8|🌀3@oneclickvpnkeys
+- name: 7|🇩🇪DE
   password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
   port: 8443
   server: 194.180.188.21
@@ -354,6 +347,13 @@ proxies:
   sni: 185.47.172.226
   tls: false
   type: hysteria2
+- name: 8|🇰🇿KZ-@VPNine1
+  password: 3b8c82ed-fe66-472d-915e-034ccb57103f
+  port: 443
+  server: kz.frkn.org
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 8|🇩🇪@FreakConfig
   obfs: salamander
   obfs-password: uw9b2qq5rx
@@ -373,10 +373,18 @@ proxies:
   sni: fiproxy1.lockdwn.com
   tls: false
   type: hysteria2
-- name: 8|6@oneclickvpnkeys
+- name: 8|14@oneclickvpnkeys
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
-  server: 162.249.124.104
+  server: 162.249.124.102
+  skip-cert-verify: true
+  sni: mercedes-grape.yyuyy.com
+  tls: false
+  type: hysteria2
+- name: 8|9@oneclickvpnkeys
+  password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
+  port: 8443
+  server: 162.249.124.99
   skip-cert-verify: true
   sni: mercedes-grape.yyuyy.com
   tls: false
@@ -391,7 +399,7 @@ proxies:
   sni: a26738d5774ad803.devmrzero.ir
   tls: false
   type: hysteria2
-- name: 8|@Configvibes🇹🇷
+- name: 8|@Configvibes🇷
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------
   password: '@Tel@Configvibes'
@@ -401,7 +409,7 @@ proxies:
   sni: archive.ubuntu.com
   tls: false
   type: hysteria2
-- name: '8|@Configvibes🇹🇷 #1'
+- name: 8|@Configvibes🇹🇷
   obfs: salamander
   obfs-password: Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes------Configvibes
   password: '@Telegram@Configvibes'
@@ -411,7 +419,7 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: 8|🇦V2RayyNGvpn🇨🇦
+- name: 8|V2RayyNGvpn🇨🇦
   obfs: salamander
   obfs-password: t-me-V2RayyNGvpn
   password: IJMFOXhvbQ
@@ -429,6 +437,14 @@ proxies:
   server: 179.61.132.96
   skip-cert-verify: true
   sni: 179.61.132.96
+  tls: false
+  type: hysteria2
+- name: 8|29@oneclickvpnkeys
+  password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
+  port: 8443
+  server: 86.107.178.66
+  skip-cert-verify: true
+  sni: grape-zet-turbo-nl.yyuyy.com
   tls: false
   type: hysteria2
 - alpn:
@@ -491,6 +507,13 @@ proxies:
   sni: 198-46-188-116.liao.kdns.fr
   tls: false
   type: hysteria2
+- name: 8|🇳🇱NL-🚀@VPNine1
+  password: gf1
+  port: 443
+  server: 5.129.235.85
+  skip-cert-verify: true
+  tls: false
+  type: hysteria2
 - name: 8|🇫🇮@FreakConfig
   obfs: salamander
   obfs-password: gu74jg3ym0e21zco
@@ -551,14 +574,6 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|7@oneclickvpnkeys
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 46.229.243.132
-  skip-cert-verify: true
-  sni: grape-turbo-fr.roxa.org
-  tls: false
-  type: hysteria2
 - name: '8|🇫🇮@FreakConfig #1'
   obfs: salamander
   obfs-password: d6pv15sghiq1onts
@@ -577,6 +592,14 @@ proxies:
   server: assets.gateway-stream.com
   skip-cert-verify: false
   sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 8|🇩🇪DE-🚀@VPNine1
+  password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
+  port: 443
+  server: 5.83.129.11
+  skip-cert-verify: true
+  sni: germany1.h2corp.local
   tls: false
   type: hysteria2
 - cipher: aes-256-cfb

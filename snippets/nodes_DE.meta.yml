@@ -6,7 +6,7 @@ proxies:
   sni: bel-03.node.lumixnet.com
   tls: false
   type: hysteria2
-- name: 7,8|🌀3@oneclickvpnkeys
+- name: 7|🇩🇪DE
   password: dsfa_k0123WFzerrf_kZ3490VNb03J_m30_s
   port: 8443
   server: 194.180.188.21
@@ -20,6 +20,14 @@ proxies:
   server: de.1.23.h2corp.org
   skip-cert-verify: true
   sni: germany3.h2corp.local
+  tls: false
+  type: hysteria2
+- name: 8|🇩🇪DE-🚀@VPNine1
+  password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
+  port: 443
+  server: 5.83.129.11
+  skip-cert-verify: true
+  sni: germany1.h2corp.local
   tls: false
   type: hysteria2
 - name: 15|DE_speednode_0001
