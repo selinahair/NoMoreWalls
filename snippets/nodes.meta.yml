@@ -395,7 +395,7 @@ proxies:
   sni: grape-turbo-fr.roxa.org
   tls: false
   type: hysteria2
-- name: 7,8|74@oneclickvpnkeys
+- name: 7,8|88@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8080
   server: 46.229.243.141
@@ -424,14 +424,6 @@ proxies:
   server: 144.31.148.87
   skip-cert-verify: true
   sni: replay.wwwinternetvideo.click
-  tls: false
-  type: hysteria2
-- name: 8|26@oneclickvpnkeys
-  password: 2vwMMy8t5Sjl5lfK9dNF1OrU9d0K25V2RNWLbTKwJ6o
-  port: 443
-  server: 89.125.156.80
-  skip-cert-verify: true
-  sni: pixelcast.wwwinternetvideo.click
   tls: false
   type: hysteria2
 - name: 8|Telegram:@v2rayng3
@@ -480,14 +472,11 @@ proxies:
   sni: ftp.debian.org
   tls: false
   type: hysteria2
-- name: 8|🏓61@oneclickvpnkeys
-  obfs: salamander
-  obfs-password: SalamanderDE2026
-  password: Germany2026hy
-  port: 8443
-  server: 45.128.99.14
-  skip-cert-verify: true
-  sni: de.nobelchat.ru
+- name: 8|80@oneclickvpnkeys
+  password: GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_
+  port: 443
+  server: hy2-switzerlandgopota.unlimited-access.ru
+  sni: hy2-switzerlandgopota.unlimited-access.ru
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -614,15 +603,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|🏓32@oneclickvpnkeys
-  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
-  port: 8443
-  server: 46.229.243.132
-  skip-cert-verify: true
-  sni: grape-turbo-fr.roxa.org
-  tls: false
-  type: hysteria2
-- name: 8|77@oneclickvpnkeys
+- name: 8|🍑77@oneclickvpnkeys
   password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
   port: 8443
   server: 46.229.243.142
@@ -640,7 +621,7 @@ proxies:
   sni: assets.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|62@oneclickvpnkeys
+- name: 8|🥎62@oneclickvpnkeys
   password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
   port: 443
   server: 5.83.129.11
@@ -648,7 +629,7 @@ proxies:
   sni: germany1.h2corp.local
   tls: false
   type: hysteria2
-- name: 8|66@oneclickvpnkeys
+- name: 8|🥎66@oneclickvpnkeys
   password: umnDU7jgFYUjpVjVM2sW9HL0rRYLJNgzVwRu2HzWEhyZKkRx
   port: 443
   server: de.1.22.washing.help
