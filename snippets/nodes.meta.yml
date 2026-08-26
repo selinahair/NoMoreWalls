@@ -380,14 +380,6 @@ proxies:
   sni: cabinet.wwwinternetvideo.click
   tls: false
   type: hysteria2
-- name: 8|67@oneclickvpnkeys
-  password: 16ab4d4a-fd81-4535-9b7b-346677226ce8
-  port: 443
-  server: 177.3.212.155
-  skip-cert-verify: true
-  sni: olp.crsmaps.com
-  tls: false
-  type: hysteria2
 - name: 8|2🏓@oneclickvpnkeys
   password: 16ab4d4a-fd81-4535-9b7b-346677226ce8
   port: 443
@@ -535,7 +527,7 @@ proxies:
   sni: nl.nobelchat.ru
   tls: false
   type: hysteria2
-- name: 8|76@oneclickvpnkeys
+- name: 8|🍑76@oneclickvpnkeys
   password: Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s
   port: 8443
   server: 205.237.109.162
@@ -642,7 +634,7 @@ proxies:
   sni: hys22.wba-pn.ru
   tls: false
   type: hysteria2
-- name: 8|@v2raybaaz
+- name: 8|🍑52@ConfigV2RayNG
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
   password: p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR
