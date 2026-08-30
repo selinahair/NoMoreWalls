@@ -71,8 +71,9 @@ hysteria2://g2d0ooqq3ykzsacc@giftcard.gateway-stream.com:52067?insecure=0&alpn=h
 hysteria2://g2d0ooqq3ykzsacc@giftcard.gateway-stream.com:52070?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40meliproxyy%20%233
 hysteria2://jbmuokj7p4kg4h4s@giftcard.gateway-stream.com:52029?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40vmesskhodam
 hysteria2://jbmuokj7p4kg4h4s@giftcard.gateway-stream.com:52067?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40vmesskhodam%20%231
+hysteria2://k1dom6dyqelryllv@assets.gateway-stream.com:52021?insecure=0&sni=assets.gateway-stream.com&obfs=salamander&obfs-password=mtg2vchyir6la3et#8%7C%40filembad
 hysteria2://p7Q76LzlnS4hIzr1W3staBOnUe_WwSkR@130.49.161.70:443?insecure=0&sni=hy2.aspidnet.xyz&obfs=salamander&obfs-password=rG07s3COMIEvdnQipRyWzx_H_2xygNC3#8%7C%40meliproxyy%20%235
-hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#8%7C94%40oneclickvpnkeys
+hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@vpn-de-001.fastervpn.world:443?insecure=1&sni=vpn-de-001.fastervpn.world#8%7C%F0%9F%9A%9894%40oneclickvpnkeys
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.133:8443?sni=grape-turbo-fr.roxa.org#8%7C%F0%9F%9A%9836%40oneclickvpnkeys
 hysteria2://s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z@46.229.243.147:8443?insecure=1&sni=grape-turbo-fr.roxa.org#8%7C14%40oneclickvpnkeys
 hysteria2://sxc15led4b0vp5fy@social.klipp.su:443?sni=social.klipp.su&obfs=salamander&obfs-password=3sv5vpdl9xr84lyb#8%7C%F0%9F%9A%9849%40oneclickvpnkeys

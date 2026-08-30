@@ -620,6 +620,16 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- name: 8|@filembad
+  obfs: salamander
+  obfs-password: mtg2vchyir6la3et
+  password: k1dom6dyqelryllv
+  port: 52021
+  server: assets.gateway-stream.com
+  skip-cert-verify: false
+  sni: assets.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: '8|@meliproxyy #5'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -630,7 +640,7 @@ proxies:
   sni: hy2.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|94@oneclickvpnkeys
+- name: 8|🚘94@oneclickvpnkeys
   password: qQe1z5kU8kN6SlKnDt9Ru3Qp
   port: 443
   server: vpn-de-001.fastervpn.world
