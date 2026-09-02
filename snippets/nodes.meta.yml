@@ -307,6 +307,18 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: 8|VCONFING
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 1m1xfvpaa5ek4omq
+  port: 52030
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: '8|@v2ray_phoenix #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -327,6 +339,18 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: '8|VCONFING #1'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 1w61o8j0slf0q9yj
+  port: 52030
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: 8|@Daily_Configs
   password: 4savc5ig1n3549e4
   port: 52023
@@ -339,18 +363,6 @@ proxies:
   obfs-password: fuw2k1ddrouwxr3u
   password: 4savc5ig1n3549e4
   port: 52034
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- alpn:
-  - h3
-  name: 8|@MIGAVPNPRO
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: 4savc5ig1n3549e4
-  port: 52062
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
@@ -422,6 +434,18 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: '8|VCONFING #2'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: 8f0gvz5eul6omhq4
+  port: 52030
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: 8|🇷AZARBAYJAB1
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -430,6 +454,13 @@ proxies:
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 8|96@oneclickvpnkeys
+  password: GSPOBvG-ZwYcBFMr0ekFGO_Zga3wK6v_
+  port: 443
+  server: hy2-latvia2.unlimited-access.ru
+  sni: hy2-latvia2.unlimited-access.ru
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -464,6 +495,14 @@ proxies:
   server: 77.110.96.201
   skip-cert-verify: true
   sni: se.vpnjey2.dpdns.org
+  tls: false
+  type: hysteria2
+- name: 8|94@oneclickvpnkeys
+  password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
+  port: 443
+  server: admin.wwwinternetvideo.click
+  skip-cert-verify: true
+  sni: admin.wwwinternetvideo.click
   tls: false
   type: hysteria2
 - name: 8|@KAFING_2
@@ -512,6 +551,18 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
+- alpn:
+  - h3
+  name: '8|VCONFING #3'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: clz08qwil91241w7
+  port: 52030
+  server: giftcard.gateway-stream.com
+  skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
 - name: '8|@tootffarangi🍓-12 #1'
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
@@ -532,16 +583,6 @@ proxies:
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
-- name: 8|@configprxy
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: g2d0ooqq3ykzsacc
-  port: 52000
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
 - alpn:
   - h3
   name: 8|@B2Hub
@@ -549,16 +590,6 @@ proxies:
   obfs-password: fuw2k1ddrouwxr3u
   password: g2d0ooqq3ykzsacc
   port: 52029
-  server: giftcard.gateway-stream.com
-  skip-cert-verify: false
-  sni: giftcard.gateway-stream.com
-  tls: false
-  type: hysteria2
-- name: '8|@configprxy #1'
-  obfs: salamander
-  obfs-password: fuw2k1ddrouwxr3u
-  password: g2d0ooqq3ykzsacc
-  port: 52056
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
   sni: giftcard.gateway-stream.com
