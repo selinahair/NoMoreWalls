@@ -35,6 +35,10 @@ hysteria2://1m1xfvpaa5ek4omq@giftcard.gateway-stream.com:52033?insecure=0&sni=gi
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52023?sni=giftcard.gateway-stream.com#8%7C%40Daily_Configs
 hysteria2://4savc5ig1n3549e4@giftcard.gateway-stream.com:52034?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40v2ray_phoenix%20%233
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7CTelegram%3A%40v2rayng3
+hysteria2://6mk75ho4jzef3uuj@giftcard.gateway-stream.com:52022?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%F0%9F%87%A9%F0%9F%87%AA%40AZARBAYJAB1
+hysteria2://6mk75ho4jzef3uuj@giftcard.gateway-stream.com:52026?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7CConfigV2RayNG
+hysteria2://6mk75ho4jzef3uuj@giftcard.gateway-stream.com:52030?insecure=0&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%F0%9F%87%AB%F0%9F%87%B7%40AZARBAYJAB1
+hysteria2://6mk75ho4jzef3uuj@giftcard.gateway-stream.com:52057?insecure=0&alpn=h3&sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40ConfigV2RayNG
 hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52016?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40Daily_Configs%20%231
 hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52022?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40Daily_Configs%20%232
 hysteria2://8f0gvz5eul6omhq4@giftcard.gateway-stream.com:52024?sni=giftcard.gateway-stream.com&obfs=salamander&obfs-password=fuw2k1ddrouwxr3u#8%7C%40Daily_Configs%20%233
@@ -47,6 +51,7 @@ hysteria2://KevinZakarian@179.61.132.96:8443?insecure=1&sni=179.61.132.96&obfs=s
 hysteria2://OD6gGbGU9a@195.133.24.124:443?sni=hys26.wba-pn.ru#8%7C%E2%98%BA%EF%B8%8F29%40oneclickvpnkeys
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.166:8443?sni=hopp-netherland-new.dynuddns.net#8%7C%F0%9F%A9%B318%40oneclickvpnkeys
 hysteria2://Oz_Kx9342gefwJ89x3_M9z32kzf9KJq003_s@205.237.109.168:8443?insecure=1&sni=hopp-netherland-new.dynuddns.net#8%7C%F0%9F%A9%B320%40oneclickvpnkeys
+hysteria2://Telegram%40vpnjey@31.76.27.23:37009?insecure=0&sni=de.vpnjey.store&obfs=salamander&obfs-password=Telegram@vpnjey#8%7C%F0%9F%87%A9%F0%9F%87%AAConfigV2RayNG
 hysteria2://Telegram%40vpnjey@31.76.27.23:37009?insecure=1&alpn=h3&sni=de.vpnjey.store&obfs=salamander&obfs-password=Telegram@vpnjey#8%7CTelegram%40vpnjey
 hysteria2://Telegram%40vpnjey@77.110.96.201:36264?insecure=1&alpn=h3&sni=se.vpnjey2.dpdns.org&obfs=salamander&obfs-password=Telegram@vpnjey#8%7CTelegram%40vpnjey%20%231
 hysteria2://b4bd0613-ff7c-4f2f-954d-185915e6ddad@181.214.99.162:35000?insecure=1&sni=api.kermanshahi.org&obfs=salamander&obfs-password=@JavidnamanIran-Javid-SHAH-KingRezaPahlavi#8%7C%40KAFING_2
