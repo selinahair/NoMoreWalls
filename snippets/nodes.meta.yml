@@ -10,6 +10,12 @@ proxies:
   tls: false
   type: hysteria2
 - name: 7|未命名
+  password: 14f7504c-bd01-4d88-bd42-80dc6bf6b202
+  port: 443
+  server: samurai.h4ck.me
+  tls: false
+  type: hysteria2
+- name: '7|未命名 #1'
   password: 1671a252e2a97dc2bda4e515475931da
   port: 50160
   server: 132.226.226.189
@@ -25,7 +31,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #1'
+- name: '7|未命名 #2'
   password: 19f72087-4591-4d72-930b-2697078ec2be
   port: 1933
   server: sg1.xiaoliyu.cyou
@@ -41,7 +47,7 @@ proxies:
   sni: cloud.mail.ru
   tls: false
   type: hysteria2
-- name: '7|未命名 #2'
+- name: '7|未命名 #3'
   password: 41f0d6d3-4a45-4635-8225-2abd2284189b
   port: 2056
   server: lmny.mangshe.xyz
@@ -57,7 +63,7 @@ proxies:
   sni: www.bing.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #3'
+- name: '7|未命名 #4'
   password: 60e2a548-96aa-4850-a279-1edab743c39b
   port: 443
   server: md1.cnyvpn.com
@@ -98,7 +104,7 @@ proxies:
   sni: crt.ultimagamest.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #4'
+- name: '7|未命名 #5'
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8080
   server: 162.249.124.118
@@ -137,7 +143,7 @@ proxies:
   sni: whatsapp.com
   tls: false
   type: hysteria2
-- name: '7|未命名 #5'
+- name: '7|未命名 #6'
   password: H7mP2xY9kJ4nQ8wR5tF6vB3z
   port: 443
   server: vpn-in-001.fastervpn.world
@@ -168,7 +174,7 @@ proxies:
   sni: hopp-romania-new.roxa.org
   tls: false
   type: hysteria2
-- name: '7|未命名 #6'
+- name: '7|未命名 #7'
   password: YutbgyXL1mGaSlBXDoEucWvYbrDCINgUcQ6R6_At5Pjr2xCc
   port: 443
   server: go.wwwinternetvideo.click
@@ -244,7 +250,7 @@ proxies:
   sni: gta.internet-card.sbs
   tls: false
   type: hysteria2
-- name: '7|未命名 #7'
+- name: '7|未命名 #8'
   password: sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX
   port: 443
   server: news.gazette.help
@@ -268,14 +274,14 @@ proxies:
   sni: germany1.h2corp.local
   tls: false
   type: hysteria2
-- name: 8|21@oneclickvpnkeys
+- name: 8|🎡21@oneclickvpnkeys
   password: 32df539b-e48b-4f0b-8d2d-30edc856cd23
   port: 443
   server: de-four.online-vpn.online
   sni: de-four.online-vpn.online
   tls: false
   type: hysteria2
-- name: 8|20@oneclickvpnkeys
+- name: 8|🎡20@oneclickvpnkeys
   password: 32df539b-e48b-4f0b-8d2d-30edc856cd23
   port: 443
   server: nl-two.online-vpn.online
@@ -388,7 +394,7 @@ proxies:
   sni: hopp-netherland-new.dynuddns.net
   tls: false
   type: hysteria2
-- name: 8|@vmesskhodam
+- name: 8|@proxy_kafee
   obfs: salamander
   obfs-password: c1b4086fea89914496c7e10967a419216566
   password: QCgqi_I4EkV8UR-OgQ_tG4EnVTEVvIyR2GgRBzrIn2s
@@ -509,7 +515,7 @@ proxies:
   sni: ru1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: '8|@vmesskhodam #1'
+- name: 8|♾️𝗝𝗼𝗶𝗻➠🆔️@ATLAS_V2VPN🆓️📶‎🛰️552...
   obfs: salamander
   obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
   password: cd74c0a406664a5bc0bac098220a2468
@@ -519,7 +525,17 @@ proxies:
   sni: nl1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 8|@FreakConfig
+- name: '8|@v2raybaaz #1'
+  obfs: salamander
+  obfs-password: 44f1c1e2f8b99e792ceed574627a1eb0
+  password: cd74c0a406664a5bc0bac098220a2468
+  port: 443
+  server: 2.27.59.206
+  skip-cert-verify: true
+  sni: de1.sferavpn.pro
+  tls: false
+  type: hysteria2
+- name: 8|️@FreakConfig
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: dmbbfqabkdu46mo3
@@ -573,6 +589,33 @@ proxies:
   port: 52006
   server: giftcard.gateway-stream.com
   skip-cert-verify: false
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: 8|@Sparrk_VPN
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: fr9p9ji70krwnup6
+  port: 52009
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '8|@Sparrk_VPN #1'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: fr9p9ji70krwnup6
+  port: 52058
+  server: giftcard.gateway-stream.com
+  sni: giftcard.gateway-stream.com
+  tls: false
+  type: hysteria2
+- name: '8|@Sparrk_VPN #2'
+  obfs: salamander
+  obfs-password: fuw2k1ddrouwxr3u
+  password: fr9p9ji70krwnup6
+  port: 52067
+  server: giftcard.gateway-stream.com
   sni: giftcard.gateway-stream.com
   tls: false
   type: hysteria2
@@ -644,7 +687,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 8|🇪1@JKVPN
+  name: 8|🇩🇪1@JKVPN
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: s6gt5e4mof43sfg8
@@ -656,7 +699,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 8|2@JKVPN
+  name: 8|🇪2@JKVPN
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: s6gt5e4mof43sfg8
@@ -740,7 +783,7 @@ proxies:
 - alpn:
   - h3
   fingerprint: chrome
-  name: 8|🇸9@JKVPN
+  name: 8|🇺🇸9@JKVPN
   obfs: salamander
   obfs-password: fuw2k1ddrouwxr3u
   password: s6gt5e4mof43sfg8
@@ -757,7 +800,7 @@ proxies:
   sni: www.microsoft.com
   tls: false
   type: hysteria2
-- name: '8|@V2ray_confiig #3'
+- name: '8|@V2ray_confiig #4'
   obfs: salamander
   obfs-password: b6d1f3888ab1d90dd11aac1dce427b81
   password: tnnls
