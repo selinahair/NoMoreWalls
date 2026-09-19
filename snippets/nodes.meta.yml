@@ -32,11 +32,10 @@ proxies:
   sni: 152-69-231-175.liao.kdns.fr
   tls: false
   type: hysteria2
-- name: 7,8|🐊54@oneclickvpnkeys
+- name: 7|咕咕
   password: 9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z
   port: 8443
   server: 162.249.126.7
-  skip-cert-verify: true
   sni: hopp-germany-new.ddnsguru.com
   tls: false
   type: hysteria2
@@ -123,14 +122,6 @@ proxies:
   port: 4433
   server: es1.xiaoliyu.cyou
   skip-cert-verify: true
-  tls: false
-  type: hysteria2
-- name: 8|🐊59@oneclickvpnkeys
-  password: 29ffde49-e1d6-4dcd-a135-352920f9f0b8
-  port: 25443
-  server: de-node.rumedia-cdn.com
-  skip-cert-verify: true
-  sni: cf6.rumedia-cdn.com
   tls: false
   type: hysteria2
 - name: 8|Telegram:@v2rayng3

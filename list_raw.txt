@@ -2,7 +2,7 @@ hysteria2://07a4fcf5553a80cf300374d325386038@141.147.151.58:443?insecure=1&sni=w
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@es1.xiaoliyu.cyou:4433?insecure=1&sni=es1.xiaoliyu.cyou#7%7C%E5%92%95%E5%98%8E
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@se.xiaoliyu.cyou:4433?insecure=1&sni=se.xiaoliyu.cyou#7%7C%E5%98%8E%E5%98%8E
 hysteria2://1beb216e3f60aea9555dae60d219a5ca@152-69-231-175.liao.kdns.fr:50160?sni=152-69-231-175.liao.kdns.fr#7%7C%E5%92%95
-hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.7:8443?insecure=1&sni=hopp-germany-new.ddnsguru.com#7%2C8%7C%F0%9F%90%8A54%40oneclickvpnkeys
+hysteria2://9Me_Jx935gnHx13_Nx45M_NYXe037js_Be4z@162.249.126.7:8443?sni=hopp-germany-new.ddnsguru.com#7%7C%E5%92%95%E5%92%95
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@35.181.169.140:443?insecure=1&sni=35.181.169.140#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-au-002.fastervpn.world:443?insecure=1&sni=whatsapp.com#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%231
 hysteria2://H7mP2xY9kJ4nQ8wR5tF6vB3z@vpn-uk-001.fastervpn.world:443?insecure=1&sni=vpn-uk-001.fastervpn.world#7%7C%E5%9B%BD
@@ -14,7 +14,6 @@ hysteria2://qQe1z5kU8kN6SlKnDt9Ru3Qp@47.129.241.226:443?insecure=1&sni=vpn-sg-00
 hysteria2://sOiWCQ2AdIV0OWNuqQVyWp4JZnRxdyLROSjX@news.gazette.help:443?sni=news.gazette.help#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%234
 hysteria2://sxc15led4b0vp5fy@musicclips.videolinks.ru:8443?sni=musicclips.videolinks.ru&obfs=salamander&obfs-password=8zzng75tz4tf82pj#7%7C%E6%9C%AA%E5%91%BD%E5%90%8D%20%235
 hysteria2://19f72087-4591-4d72-930b-2697078ec2be@es1.xiaoliyu.cyou:4433?insecure=1#8%7C%F0%9F%90%8A92%40oneclickvpnkeys
-hysteria2://29ffde49-e1d6-4dcd-a135-352920f9f0b8@de-node.rumedia-cdn.com:25443?insecure=1&sni=cf6.rumedia-cdn.com#8%7C%F0%9F%90%8A59%40oneclickvpnkeys
 hysteria2://6aab8efdf13945829ae3699c342be406@31.76.80.69:443?insecure=0&sni=fiproxy1.lockdwn.com&obfs=salamander&obfs-password=uw9b2qq5rx#8%7CTelegram%3A%40v2rayng3
 hysteria2://865e271f7c97b549b024255c9d02cebe9cc0c2c070a82b1e11bb11b9cd88dd01@streambox.wwwinternetvideo.click:443?sni=streambox.wwwinternetvideo.click#8%7C%F0%9F%90%8A75%40oneclickvpnkeys
 hysteria2://8fb328f0-d8e0-4b11-a6db-3dadfc4f02a3@nl01ntrhy01.tcp-reset-club.net:443?insecure=1&sni=127.0.0.1#8%7C%F0%9F%90%8A87%40oneclickvpnkeys
