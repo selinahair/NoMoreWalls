@@ -45,7 +45,7 @@ proxies:
   sni: hy2-new.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: '8|🇩🇪@FreakConfig #1'
+- name: 8|🇩🇪@FreakConfig
   obfs: salamander
   obfs-password: V2RayyNGvpn
   password: Telegram=V2RayyNGvpn
@@ -55,7 +55,7 @@ proxies:
   sni: Play.google.com
   tls: false
   type: hysteria2
-- name: '8|🇩🇪@FreakConfig #2'
+- name: '8|kurdconfig #2'
   obfs: salamander
   obfs-password: V2RayyNGvpn
   password: V2RayyNGvpn
