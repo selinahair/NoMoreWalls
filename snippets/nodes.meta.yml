@@ -45,7 +45,7 @@ proxies:
   sni: hy2-new.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|️🆔️@ATLAS_V2VPN️️597
+- name: 8|🆔️@ATLAS_V2VPN️️597
   obfs: salamander
   obfs-password: 6ccfcef2e116b03ce9047333
   password: TPey1Zqj9th9y2JKyiuqVPRTvfjQC-nB
@@ -125,14 +125,6 @@ proxies:
   sni: onecloudstream.com
   tls: false
   type: hysteria2
-- name: 8|🗳️37@oneclickvpnkeys
-  password: e3c3b722-1264-4cdc-a97c-b0a1bb73cd67
-  port: 9443
-  server: 95.85.252.78
-  skip-cert-verify: true
-  sni: onecloudstream.com
-  tls: false
-  type: hysteria2
 - name: '8|@confiig_hub #1'
   obfs: salamander
   obfs-password: rG07s3COMIEvdnQipRyWzx_H_2xygNC3
@@ -148,6 +140,13 @@ proxies:
   port: 8443
   server: 77.74.123.102
   skip-cert-verify: false
+  sni: grape-test-italy.dynuddns.net
+  tls: false
+  type: hysteria2
+- name: 8|14@oneclickvpnkeys
+  password: s0_sdK93x9wer_D02Lz9cvK3_Sa014Oakl_C2z
+  port: 8443
+  server: 77.74.123.103
   sni: grape-test-italy.dynuddns.net
   tls: false
   type: hysteria2
