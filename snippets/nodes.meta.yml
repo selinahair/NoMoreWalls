@@ -1,20 +1,4 @@
 proxies:
-- name: 7|咕咕嘎嘎
-  password: 19f72087-4591-4d72-930b-2697078ec2be
-  port: 4433
-  server: es1.xiaoliyu.cyou
-  skip-cert-verify: true
-  sni: es1.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
-- name: 7|嘎嘎
-  password: 19f72087-4591-4d72-930b-2697078ec2be
-  port: 4433
-  server: se.xiaoliyu.cyou
-  skip-cert-verify: true
-  sni: se.xiaoliyu.cyou
-  tls: false
-  type: hysteria2
 - name: 8|@meliproxyy
   obfs: salamander
   obfs-password: eba1b4766d2a26d6c167e2d2e9efabf4
@@ -143,7 +127,7 @@ proxies:
   sni: hy2-new.aspidnet.xyz
   tls: false
   type: hysteria2
-- name: 8|️🆔️@ATLAS_V2VPN️️597
+- name: 8|🆔️@ATLAS_V2VPN️️597
   obfs: salamander
   obfs-password: 6ccfcef2e116b03ce9047333
   password: TPey1Zqj9th9y2JKyiuqVPRTvfjQC-nB
@@ -193,7 +177,7 @@ proxies:
   sni: de1.sferavpn.pro
   tls: false
   type: hysteria2
-- name: 8|98@oneclickvpnkeys
+- name: 8|🪙98@oneclickvpnkeys
   obfs: salamander
   obfs-password: 309502c4a8df10b46fb976d4a8c43f42
   password: d042d150716709bb778cc73889cddb02
