@@ -1,14 +1,4 @@
 proxies:
-- name: 8|@iranping24
-  obfs: salamander
-  obfs-password: WM0CSORkdxWByZqumlLav9pU7irma8IV
-  password: 0637f970-5223-4d8e-86b4-07c62509c6e8
-  port: 13188
-  server: 153.76.204.223
-  skip-cert-verify: false
-  sni: audio-forwarder.nord-central.duckdns.org
-  tls: false
-  type: hysteria2
 - name: 8|@V2rayng_mar_ket
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
@@ -44,61 +34,6 @@ proxies:
   port: 2053
   server: 194.87.118.184
   sni: match-stream.lovkisport.blog
-  tls: false
-  type: hysteria2
-- name: 8|@tootffarangi-6
-  obfs: salamander
-  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
-  password: 81d953a0-f0cf-4452-a669-747d32efd6c1
-  port: 24000
-  server: 177.1.195.242
-  skip-cert-verify: false
-  sni: hy.kirian.su
-  tls: false
-  type: hysteria2
-- name: 8|@tootffarangi🍓-8
-  obfs: salamander
-  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
-  password: 81d953a0-f0cf-4452-a669-747d32efd6c1
-  port: 26000
-  server: 78.17.53.9
-  skip-cert-verify: false
-  sni: hy.kirian.su
-  tls: false
-  type: hysteria2
-- name: 8|@tootffarangi🍓-5
-  obfs: salamander
-  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
-  password: 81d953a0-f0cf-4452-a669-747d32efd6c1
-  port: 21000
-  server: 79.137.206.157
-  skip-cert-verify: false
-  sni: hy.kirian.su
-  tls: false
-  type: hysteria2
-- name: 8|@tootffarangi🍓-7
-  obfs: salamander
-  obfs-password: 9VK3Nqd0bcXGPxcay9hRLY28HBtKo5
-  password: 81d953a0-f0cf-4452-a669-747d32efd6c1
-  port: 25000
-  server: 91.196.161.47
-  skip-cert-verify: false
-  sni: hy.kirian.su
-  tls: false
-  type: hysteria2
-- name: 8|38@oneclickvpnkeys
-  password: 8bd04756-3beb-4348-82c9-d35453df50ce
-  port: 20326
-  server: 177.3.218.191
-  sni: finkawwwbroy5.qcloud.surf
-  tls: false
-  type: hysteria2
-- name: 8|🫡39@oneclickvpnkeys
-  password: H7mP2xY9kJ4nQ8wR5tF6vB3z
-  port: 443
-  server: 3.123.42.12
-  skip-cert-verify: true
-  sni: vpn-de-002.fastervpn.world
   tls: false
   type: hysteria2
 - name: 8|+@Azarakhsh_Proxy+
@@ -149,14 +84,6 @@ proxies:
   server: 155.94.134.183
   skip-cert-verify: false
   sni: srv-3fc7c9.21freedom.net
-  tls: false
-  type: hysteria2
-- name: 8|🫡6@oneclickvpnkeys
-  password: f317b5d6-d399-4d3d-a051-89d674ae953c
-  port: 443
-  server: 94.198.54.132
-  skip-cert-verify: true
-  sni: msk.frkn.org
   tls: false
   type: hysteria2
 - name: '8|@confiig_hub #1'
