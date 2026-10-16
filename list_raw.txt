@@ -1,4 +1,4 @@
-hysteria2://033dc6b532@77.232.139.128:11592?sni=srv-8718e6.frd21.ru#8%7C%40V2ray_confiig
+hysteria2://033dc6b532@77.232.139.128:11592?sni=srv-8718e6.frd21.ru#8%7Cvpnsal
 hysteria2://033dc6b532@77.232.139.128:11592?insecure=0&sni=srv-8718e6.frd21.ru&obfs=salamander&obfs-password=eba1b4766d2a26d6c167e2d2e9efabf4#8%7C%40tootffarangi
 hysteria2://35d26d53bc@109.104.153.124:11592?insecure=0&sni=srv-0e5387.frd21.ru&obfs=salamander&obfs-password=87d72c2949c0ca85bbda09459244e374#8%7C%40V2rayng_mar_ket
 hysteria2://43212c32-01f2-4356-b216-67dc1c178262@ees92.shhflow.xyz:5443?sni=ees92.shhflow.xyz#8%7C62%40oneclickvpnkeys
@@ -52,4 +52,3 @@ vless://9638a83e-f1f7-4cc8-a602-924965d9534f@wr28-6njjgu.linenheath.site:443?all
 vless://f06c6039-a489-3d78-a676-ed43be6deca3@155.117.199.13:39211?allowInsecure=0&sni=cdnjs.cloudflare.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0142
 vless://ec31f6d7-c71a-413d-93aa-24296805a594@nsuc-znkbig.avonex.top:443?allowInsecure=0&sni=www.bing.com&flow=xtls-rprx-vision-udp443&fp=chrome&security=tls#15%7CUS_speednode_0144
 https://Nr5naf.absslk.xyz/e98af01c1d1a5c4506aead30efa93f08
-hhysteria2://033dc6b532@77.232.139.128:11592/?sni=srv-8718e6.frd21.ru#vpnsal
