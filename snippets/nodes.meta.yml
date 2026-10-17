@@ -87,6 +87,13 @@ proxies:
   sni: hy.kirian.su
   tls: false
   type: hysteria2
+- name: 8|@tootffarangi
+  password: 990c8eb6-4c4e-4277-8602-79af8402cdd0
+  port: 8443
+  server: 104.165.205.42
+  sni: speedtestmark.com
+  tls: false
+  type: hysteria2
 - name: 8|🫑92@oneclickvpnkeys
   password: 9yOIR2_QAChKs26rYaiX_aoNnOALd0aU
   port: 443
