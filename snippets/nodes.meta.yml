@@ -1,9 +1,10 @@
 proxies:
-- name: 8|vpnsal
-  password: 033dc6b532
-  port: 11592
-  server: 77.232.139.128
-  sni: srv-8718e6.frd21.ru
+- name: 8|97@oneclickvpnkeys
+  password: 099830134df5ac3a04a4b21d39b8c395
+  port: 50160
+  server: 163.192.14.135
+  skip-cert-verify: true
+  sni: vk.com
   tls: false
   type: hysteria2
 - name: 8|@V2rayng_mar_ket
@@ -16,7 +17,7 @@ proxies:
   sni: srv-0e5387.frd21.ru
   tls: false
   type: hysteria2
-- name: 8|@vasl_bashim
+- name: 8|@v2ray_phoenix
   obfs: salamander
   obfs-password: 588c76723192f87cfe6d6786816177cd2bd9773acdc545928d7d1d5e8338d4ce
   password: 56ff50da-a238-4646-95ab-dd159634bd87
@@ -99,7 +100,7 @@ proxies:
   sni: se.vpnjey2.dpdns.org
   tls: false
   type: hysteria2
-- name: '8|Telegram@vpnjey #3'
+- name: '8|@meliproxyy #1'
   obfs: salamander
   obfs-password: Telegram@vpnjey
   password: Telegram
