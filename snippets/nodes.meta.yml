@@ -9,12 +9,6 @@ proxies:
   sni: srv-0e5387.frd21.ru
   tls: false
   type: hysteria2
-- name: 8|🇫🇮FI-@VPNine1
-  password: 46c16b68-2553-4e5e-8176-f63d6bf6ec0c
-  port: 443
-  server: fl.solomon-planet.ru
-  tls: false
-  type: hysteria2
 - name: 8|Telegram:@v2rayng3
   obfs: salamander
   obfs-password: uw9b2qq5rx
