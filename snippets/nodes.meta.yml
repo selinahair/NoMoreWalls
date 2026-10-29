@@ -1,11 +1,4 @@
 proxies:
-- name: 8|🇫🇷FR-@VPNine1
-  password: 1953e43b-605c-4262-83eb-41a80646b801
-  port: 443
-  server: 31.185.105.12
-  sni: fr.song69.fun
-  tls: false
-  type: hysteria2
 - name: 8|@V2rayng_mar_ket
   obfs: salamander
   obfs-password: 87d72c2949c0ca85bbda09459244e374
@@ -172,7 +165,7 @@ proxies:
   sni: nas.aizhzo.com
   tls: false
   type: hysteria2
-- name: 8|️🆔️@ATLAS_V2VPN️️631
+- name: 8|🆔️@ATLAS_V2VPN️️631
   obfs: salamander
   obfs-password: hfwq51con9efdxx6
   password: f04i31zq8sy80v9b
